@@ -1,0 +1,633 @@
+Niveles de poder para refinadores de cuerpo / luchadores:
+
+Nivel humano 1 a 9
+
+Nivel de guerrero 1 a 9
+
+Nivel de campeón rumoreado Nivel de
+
+héroe rumoreado Niveles de
+
+poder para magos:
+
+Mago humano Nivel 1 a 9
+
+Mago guerrero Nivel 1 a 9
+
+-El número 9 tiene un significado especial en el mundo en el que se encuentra el reino. Cada etapa de Humano, Guerrero y el Campeón y Héroe que se rumorea contiene 9 niveles.
+
+-Los refinadores de cuerpos o magos en los niveles 1-3 son llamados por la etiqueta de nombre adicional "Neófito" / "Aficionado", los niveles 4-6 "Eminente" y los niveles 7-9 "Exaltado".Por ejemplo, un refinador corporal de nivel Humano-8 se llamaría Humano Exaltado.
+
+
+-El refinamiento del cuerpo solo requiere recursos como Ether.El desarrollo como mago requiere tanto recursos como talento para comprender los elementos o fenómenos naturales.
+
+-El factor que decide la efectividad del entrenamiento de refinamiento corporal utilizando recursos es el potencial del cuerpo.Un mayor potencial dará como resultado una mayor ganancia de potencia a partir de una menor cantidad de recursos.Mientras que si uno tiene un potencial muy bajo, se necesitan una gran cantidad de recursos para progresar en niveles o etapas.
+
+-Los magos pueden ocultar la debilidad de tener un potencial débil al tener una gran capacidad de comprensión.
+
+-La capacidad de lucha de un refinador corporal se decide por su habilidad para aprender y aplicar técnicas de lucha.En un famoso ejemplo citado en el libro "¿Qué es el poder?", Un discípulo Neophyte / Amateur Human-1 derrotó a un Eminent Human-6 combatiente usando habilidad y técnica superiores.
+
+-Hay aún más disparidad entre los refinadores corporales y los magos.Un solo neófito / mago humano aficionado puede incluso derrotar a decenas de luchadores humanos eminentes con el estilo de lucha adecuado.Esto se equilibra con la extrema rareza de los magos.Solo 1 de cada 1000 personas tiene el talento mínimo necesario para convertirse en mago.Uno necesita nacer con un tipo de cuerpo específico, conocido como poseer un "Mageroot", para incluso tratar de entrenar como mago.
+
+ABREVIATURAS:
+
+PAM: Módulo de Análisis de Fenómenos
+
+SAT:
+
+CT: Técnicas de combate
+
+NMAL: Academia Nacional de Magia de Lanthanor
+
+
+ETC: Cámara de entrenamiento energizada
+
+Aunque le habían asegurado que el propósito de la máquina era simplemente leer sus ondas cerebrales, la vida de Daneel pasó por su mente en un instante cuando se sintió atado firmemente a la silla.
+
+Abandonado en los escalones de un orfanato cuando solo tenía un mes, Daneel tenía el sello 'huérfano' marcado en él desde una edad temprana.
+
+Afortunadamente, el orfanato estaba a cargo de una amable anciana que cuidaba muy bien a los niños.Aunque vivieron con frugalidad, Daneel recordaba que su infancia fue en su mayor parte agradable.
+
+Siempre mostrando resultados notables en los estudios, Daneel ganó beca tras beca e ingresó a la universidad, esperando graduarse y ganar dinero para enviar al orfanato.Consideraba a todos los niños del orfanato como sus hermanos y hermanas pequeños y deseaba que tuvieran una vida feliz.
+
+El desastre se produjo en la forma del hijo de un político.Un día, se había topado accidentalmente con un chico que perseguía con avidez a una chica.El tipo tenía una botella de agua abierta en sus manos, que se derramó sobre sus pantalones.
+
+Acostumbrado a una vida frugal, Daneel era un niño frágil.El golpe lo había enviado a toda velocidad al suelo, lo que provocó que todos los miraran para ver cuál era la conmoción.
+
+Al ver el agua en los pantalones del niño, algunas personas terminaron riendo.La chica también sonrió antes de dejar al chico que miró a Daneel con una expresión asesina en su rostro.
+
+Desde entonces, todos los días fueron un infierno para Daneel.Un accidente tan tonto no habría valido nada si se tratara de alguien normal, pero el tipo en cuestión era el hijo de un político muy rico e influyente.Borracho de dinero y poder, el tipo quería hacer que Daneel deseara no haber nacido nunca, e hizo todo lo posible para que se sintiera así.
+
+La gente sin nombre lo golpeó.Su beca fue cancelada sin dar razones.Fue desalojado del albergue y la tienda donde había trabajado a tiempo parcial lo echó.
+
+Sin hogar y hambriento, Daneel tuvo que buscar comida en las carreteras por primera vez en su vida.
+
+Principalmente sin querer decepcionar a la amable anciana e imponerse en el orfanato, Daneel tuvo que vivir en las condiciones más repugnantes imaginables durante varias semanas.
+
+Un día, vio un anuncio que llamaba a voluntarios capaces para algunos experimentos científicos "inofensivos".El pago fue bueno y la empresa parecía legítima.
+
+Esperando con ansias la primera comida decente en semanas, Daneel entró en la clínica anunciada, delgado, con la piel adherida a sus huesos que eran visibles debido a la desnutrición.
+
+Todo el personal fue muy servicial, primero le dio una comida completa y le permitió bañarse y afeitarse.
+
+Regocijado por la hospitalidad, Daneel decidió hacer todo lo posible para devolverles el dinero.
+
+Más tarde, le dijeron cuál era el experimento.La clínica estaba registrando ondas cerebrales para crear una base de datos para un nuevo sistema biométrico.Para ello, necesitaban voluntarios.Los voluntarios simplemente serían atados a una silla y drogados dormidos mientras una máquina colocada en la cabeza recolectaba datos.
+
+
+Parecía demasiado bueno para ser verdad.Era casi como si a uno le pagaran por dormir.
+
+Una sensación ominosa se apoderó de Daneel cuando lo ataron a la silla con electrodos conectados a la cabeza.
+
+Le inyectaron algo en el brazo que le dio mucho sueño.
+
+El último momento antes de quedarse dormido, sintió una sacudida de electricidad corriendo hacia su cuerpo desde los electrodos en su cabeza.
+
+Lo último que recordaba antes de perder el conocimiento era el dolor.Dolor en todo el cuerpo, como si lo hubieran prendido fuego y lo estuvieran quemando vivo.
+
+Una voz robótica lo despertó:
+
+
+[* Ding *
+
+Arrancando el sistema de dominación mundial.
+
+Mundo actual: Desconocido
+
+Estado del anfitrión: Casi muerto
+
+Objetivo actual: Sobrevivir
+
+Objetivo general: ¡Dominar y conquistar el mundo!]
+
+Mientras recuperaba lentamente la conciencia, Daneel sintió dolores punzantes en todo el cuerpo.Después de que la voz robótica se detuvo, sintió una avalancha de recuerdos que lo inundaban.
+
+No sabía qué había sucedido después de que lo amarraron a la silla, pero sospechaba que en su mayoría había muerto debido a algún accidente.
+
+Como en las muchas novelas que había leído en línea, había reencarnado en otro mundo.
+
+Este era un mundo de seres mágicos y míticos.Se sabía que existían elfos, goblins, trolls, enanos, dragones y muchas más razas, aunque en lugares lejanos.La magia la pueden aprender aquellos que tengan la aptitud.
+
+Ya sea por suerte o por destino, la persona en la que se había reencarnado también se llamaba Daneel.También había muerto de manera similar, pero mucho más directamente y eso también a la tierna edad de 12 años. Se había topado con un príncipe de pantalones de seda y había hecho que el agua se derramara sobre este último.Por órdenes del príncipe que lo miró como si fuera una hormiga, los guardias del príncipe lo mataron a golpes.El príncipe ni siquiera pestañeó ante los gritos de misericordia del ex Daneel, como alguien a quien no le importaría la difícil situación de una hormiga que pisó.El hecho de que solo fuera un niño pequeño de 12 años solo hizo que requiriera una menor cantidad de patadas para que se quedara tirado en el suelo y perdiera la vida.
+
+
+Eso explicaba el dolor que crecía en intensidad a cada segundo.
+
+Daneel analizó el resto de los recuerdos.Con un comienzo, se dio cuenta de que en realidad tenía padres en este mundo.Su padre era un soldado deshonrado que había sido despedido por abandonar el ejército.Esta fue la historia oficial.La verdad era que había ofendido a un comandante tonto pero influyente que estaba en el cargo debido al poder de su familia.Aunque desobedecer las órdenes le había salvado de la muerte a 20 personas, el ego del comandante se lastimó y su padre fue declarado traidor que se escapó de su puesto.
+
+Su madre ahora mantenía a la familia haciendo trabajos ocasionales en la ciudad.Al lavar ropa, limpiar baños y barrer pisos, recogió suficiente dinero para que su pequeña familia sobreviviera.No tenía hermanos.
+
+Al comprobar su estado actual, se dio cuenta de que no había forma de que su familia pudiera hacerse cargo de los gastos médicos.
+
+Daneel siempre había sido un niño filial.Desde que tiene memoria, sus días los ocupaba principalmente ayudar a su madre con las tareas del hogar.Rara vez pasaba algún tiempo explorando la ciudad.Fue en una de esas exploraciones donde ocurrió este incidente.Si moría ahora, su cuerpo simplemente sería desechado por la noche por los guardias que patrullaban la ciudad.
+
+Tal era el reino de Lanthanor.La mayoría de las cosas que sabía sobre el mundo las contaban sus padres como cuentos de cabecera.
+
+Hace 12.000 años, el entonces aventurero Lanthanore (pronunciado Lanthanoray) dirigió una expedición para matar a un dragón que estaba aterrorizando esta tierra.
+
+Después de lograr una hazaña tan noble, había establecido el Reino de Lanthanor.
+
+Con una gestión constante y un comercio hábil, una pequeña ciudad de 5000 se había convertido en una enorme capital de 500.000.El reino en sí había crecido para acomodar a millones de personas, y se construyeron muros en las fronteras para disuadir la invasión.
+
+La capital era conocida por el mismo nombre.Si se ve desde arriba, los muros del reino abarcan un área circular de 120 km de radio, con la capital ubicada casi en el punto muerto.
+
+Lanthanor era un reino predominantemente humano y su principal ocupación era la agricultura.
+
+[Datos preliminares recopilados.
+
+Ubicación actual: Lanthanor, ciudad exterior.
+
+Nivel de anfitrión: Human-0 Fighter, Human-0 Mage
+
+Potencial de anfitrión: F-
+
+Condición del anfitrión: Crítico
+
+Nueva misión: beber agua de una fuente ubicada exactamente a 617 metros al norte.
+
+Recompensa de la misión: Recuperación de la
+
+progresión del nivelcorporal: 0%
+
+¿Eliges aceptar la misión?El fracaso tendrá consecuencias críticas.Anfitrión ha sido advertido.]
+
+La voz robótica sonó de nuevo en la cabeza de Daneel.El dolor casi se estaba volviendo abrumador y sabía que moriría si seguía acostado allí.
+
+Al escuchar que podía recuperarse, Daneel decidió preguntarse quién diablos estaba en su mente más tarde.
+
+
+"Sí", jadeó en voz alta, aceptando su primera misión.
+
+[Misión aceptada.Buena suerte.]
+
+Al escuchar esto, Daneel apretó los dientes, tratando de ignorar el dolor mientras se sentaba y comenzaba a mirar alrededor.
+
+Estaba en un callejón oscuro que actualmente estaba vacío.Los edificios circundantes estaban hechos de piedra, pero a diferencia de los que había visto en la Tierra, la piedra estaba pulcramente cortada en ladrillos en lugar de simplemente apilarse una roca encima de otra.
+
+Mientras se levantaba lentamente y se tambaleaba hacia el final del callejón, lo recibió un bullicioso mercado.
+
+En una amplia zona abierta, se establecieron numerosas tiendas en formación.Aunque había mucha gente en el mercado, todavía parecía estar en orden.Los guardias patrullaban constantemente el área con uniformes negros con cinturones y botones dorados sin brillo.
+
+Se podía ver gente de todo tipo.No había raza o color predominante, pero la ropa parecía decidir si uno era rico o pobre.
+
+Algunas personas que parecían estar acomodadas usaban abrigos de cintura y vestidos hasta la rodilla en colores vibrantes.Otros que parecían ser menos privilegiados usaban camisas y vestidos comunes, pareciendo más apagados e indistintos, mezclándose con la multitud.
+
+También parecía haber muchos tipos de tiendas.Algunos vendían alimentos o artículos habituales, pero algunos otros, que eran los más concurridos, tenían carteles que decían "¡Baratijas mágicas a la venta! ¡Elimina los olores con el amuleto de desodor! ¡Mantente a salvo con una muñequera protectora! ¡Elimina pequeñas enfermedades con nuestra curación especial!" ¡Anillo!".Grupos de personas acudieron en masa a estos lugares tan pronto como alguien hizo una compra y se fue, dejando un lugar abierto.
+
+Daneel apenas tuvo tiempo de asimilar todos estos detalles antes de que casi colapsara de dolor.Luchando por mantenerse en pie, sospechaba que si se caía ahora, tal vez no se volvería a levantar nunca más.Y esta vez, podría estar muerto de verdad.
+
+Había numerosas fuentes ubicadas alrededor del mercado.El pánico apareció en su rostro, se dio cuenta de que no había forma de que pudiera controlarlos a todos antes de morir por sus heridas.Además, los guardias que patrullaban lo miraban con miradas amenazadoras como advirtiéndole que se mantuviera alejado.
+
+
+"Uh ... ¿sistema? ¿Qué fuente es?", Pensó en su mente, medio convencido de que solo estaba siendo tonto y que el 'sistema' o lo que fuera había sido un producto de su imaginación nacido de desvaríos delirantes.
+
+[Como se dijo, es el que ahora se encuentra a 603 metros al norte de la ubicación del anfitrión.El sistema le pide al anfitrión que no dude en realizar cualquier consulta.El sistema sabrá qué pensamientos se están abordando como consultas.Además, el sistema asegura al anfitrión que está destinado a conquistar este mundo con la ayuda del muy real y acertadamente titulado World Domination System.Pero primero, el sistema advierte al anfitrión que finalice la misión.Tiempo estimado hasta el colapso del órgano: 14 minutos 27 segundos.]
+
+Daneel solo podía mirar sin rumbo fijo mientras esta respuesta sonaba en su mente.¿Destinado a conquistar el mundo?¿A quién le importaba eso ahora mismo?Primero necesitaba vencer el cansancio que se estaba filtrando en su mente, instándolo a irse a dormir.
+
+
+El sol no era visible, por lo que Daneel no tenía forma de calcular en qué dirección se encontraba el norte.Preguntarle a alguien también estaba fuera de discusión, ya que tenía el presentimiento de que solo tendría una oportunidad de ingresar al mercado.
+
+"Sistema, necesito que me muestres la fuente de alguna manera. O al menos en qué dirección está el norte".
+
+[Herramienta auxiliar: se necesita HUD-1.Exp.Tasa de puntos: 10.El anfitrión tiene 0 puntos de experiencia.¿Le gustaría al anfitrión hacer uso de un préstamo?Debe tenerse en cuenta que se debe devolver un interés del 100% junto con el monto prestado como muy pronto.]
+
+100%?¿Que demonios?Quien hizo este sistema tuvo el corazón más negro posible.Aunque maldijo al creador del sistema con frustración, sabía que estaba en una situación en la que moriría si no tomaba el préstamo.Incluso si fuera del 1000%, habría tenido que elegirlo.
+
+"Sí", dijo, mientras su cuerpo se sacudía debido a las oleadas de dolor que lo azotaban.
+
+[Préstamo concedido.HUD-1 comprado en System Store.El despliegue comenzará en 3,2,1 ...]
+
+Un destello de luz brillante apareció frente a Daneel que le hizo cerrar los ojos.Se podía sentir un hormigueo en su cerebro mientras esperaba que sus ojos se adaptaran.
+
+
+Después de abrir los ojos, se sintió como si alguien hubiera encendido una luz en su ubicación.Todo en su visión era más nítido y vibrante de lo que había sido.
+
+En la esquina superior izquierda había algunos datos que Daneel no tuvo tiempo de examinar debido a la declaración del sistema que decía:
+
+[HUD-1 desplegado.Tenga en cuenta que el uso de cualquier herramienta o habilidad resultará en el agotamiento de la energía.Energía actual del anfitrión: 1.2%]
+
+Al darse cuenta de que no tenía tiempo que perder, Daneel rápidamente comenzó a mirar alrededor.A su izquierda, se podía ver una fuente a lo lejos brillando con un tono rojo.
+
+Sabía que aquí era donde tenía que ir.
+
+Reuniendo toda la energía restante de su cuerpo, Daneel respiró hondo mientras se preparaba para poner todo en juego y llegar a su destino sin importar lo que se cruzara en su camino.
+
+Sin dudar más, echó a correr hacia la fuente.Dominaba sus ojos, casi llamándolo, ofreciéndole la salvación.
+
+Sus harapos y su cuerpo ensangrentado lo hacían sobresalir como un pulgar adolorido entre la multitud.La gente se alejó cuando se acercó a ellos, evitándolo como si fuera la plaga.
+
+En realidad, esto fue una bendición para Daneel, ya que ahora tenía un camino sin obstáculos.
+
+Al escuchar un grito desde atrás que indicaba que los guardias lo perseguían, instó a su cuerpo a moverse aún más rápido mientras apretaba los dientes para ignorar la agonía que venía de empujar su cuerpo ya herido al límite.
+
+
+Tan pronto como llegó a la fuente, Daneel hundió la cabeza y bebió tanta agua como pudo.
+
+Aunque farfulló y tosió, logró ingerir una gran cantidad de agua.También se apresuró a recoger y beber tanta agua como pudo antes de que llegaran los guardias.
+
+De repente, un bastón le azotó la espalda, haciéndolo inclinarse por la conmoción.Se acurrucó en una bola casi instintivamente cuando empezaron a llover fuertes patadas sobre él.
+
+Afortunadamente, las patadas se detuvieron en unos segundos y lo izaron por la cintura con brusquedad.
+
+Daneel nunca tuvo el placer de poder atiborrarse constantemente, tenía una figura ligera y ágil.Aunque no estaba extremadamente delgado y desnutrido, definitivamente no era la imagen de una buena salud.
+
+El guardia que lo había levantado maldijo en voz baja mientras lo llevaba de regreso al callejón y lo arrojaba al suelo.Sintió que su cabeza rebotaba en el suelo duro, casi haciéndolo desmayarse.
+
+"Si te vuelvo a ver en el mercado, te donaré personalmente a Ozelow. Y sabes lo que hace con los niños callejeros".Dicho esto, el guardia se marchó furioso, sin importarle si Daneel vivía o moría.
+
+Daneel ni siquiera podía registrar lo que había dicho el guardia, ya que en ese momento se esforzaba por mantener la conciencia.Ahora le sangraba la cabeza mientras se preguntaba si lo habían engañado.¿Había sido todo su imaginación?
+
+Como para responder a su pregunta, el sistema respondió:
+
+[Misión exitosa.Comenzando la recuperación.]
+
+Daneel sintió que le ardía el estómago, casi como si lo que hubiera bebido no fuera agua sino ácido.
+
+Un segundo después, todo su cuerpo se relajó cuando algo se extendió desde su estómago hacia cada tejido dañado.
+
+A partir de la lesión en la cabeza que acababa de sufrir, cada herida empezó a entumecerse como si le acabaran de inyectar anestesia.En unos segundos, se sintió mucho mejor aunque algunas partes de su cuerpo todavía le dolían.
+
+La recuperación parecía apuntar primero a los órganos más dañados, sacándolo de la puerta de la muerte.Mientras sus órganos lentamente volvían a la normalidad, Daneel respiró cómodamente por primera vez desde que llegó a este mundo.
+
+Después de un tiempo, el entumecimiento se desvaneció, lo que le hizo darse cuenta de que excepto por los rasguños y cortes superficiales que aún sangraban un poco.sus órganos internos estaban bien y su condición era mucho mejor que antes.
+
+Se puso de pie y se pellizcó, queriendo asegurarse de que no todo había sido solo un sueño.Después de todo, solo hace unos minutos, había sido gravemente herido con sus órganos a punto de colapsar.
+
+[Recuperación finalizada.Éter agotado.Se actualizó el estado del host.
+
+Nivel de anfitrión: Humano-0
+
+Potencial de anfitrión: F
+
+Condición del anfitrión: Nominal
+
+
+Progresión de nivel: 10%
+
+Bonificación por completar la misión: 10 puntos de experiencia.
+
+Se han utilizado puntos para devolver el préstamo.]
+
+De hecho, este maldito sistema debe haber sido un banquero de corazón negro en su vida anterior, pensó Daneel mientras se maravillaba de su cuerpo ahora curado.
+
+Lo hecho, hecho está.Daneel se estiró donde estaba, queriendo comprobar si había más lesiones internas de las que pudiera tener que preocuparse.
+
+No hubo ninguno.En cuanto al resto de raspaduras y dolores, fueron bastante manejables.
+
+Al ver otra fuente al final del callejón que técnicamente no estaba en el mercado, Daneel caminó hacia ella y procedió a limpiar la suciedad y la sangre de todas las heridas externas.
+
+Al mirar su reflejo en el agua, tuvo la primera mirada clara en su rostro.Tenía el pelo castaño corto y una nariz afilada con un puente prominente.Una barbilla puntiaguda y una mandíbula angular dieron como resultado una cara que se habría considerado bastante hermosa en la tierra.Sin embargo, sus ojos verdes sirvieron para que se inclinara más hacia el lado lindo, especialmente considerando que este cuerpo solo tenía doce años.
+
+Los recuerdos de su rostro real en la tierra seguían apareciendo en su mente.Mientras estaba en trance frente al agua, las dos caras parecían superponerse lentamente en su visión.Después de que pasó bastante tiempo, se alinearon perfectamente uno encima del otro y algo pareció haber hecho clic en la mente de Daneel.
+
+Este era él ahora.Era casi como si hubiera empaquetado y dejado a un lado todos los recuerdos de la tierra y los recuerdos de la vida en Lanthanor ahora estaban en primer plano.Ahora podía recordar con precisión más detalles sobre su infancia y sus padres.
+
+
+
+[Sincronización mental completa.System felicita a Host por adaptarse a su nuevo cuerpo.10 puntos de experiencia otorgados.
+
+* Ding * ¡Su préstamo ha sido reembolsado!¡Gracias por realizar operaciones bancarias con el sistema!]
+
+La voz lo devolvió a la realidad.Bueno, al menos no tendría que preocuparse más por el préstamo, reflexionó antes de pensar qué hacer a continuación.
+
+Decidiendo regresar a casa antes de averiguar todo sobre el sistema, Daneel bebió un poco más de agua antes de emprender el camino.Había estado fuera mucho tiempo y sus padres podrían estar preocupados.
+
+Daneel, que se rindió a rescatar su ropa y trató de ocultar sus heridas, regresó a casa para contemplar todas las vistas a su alrededor.Tendría que dar una excusa cuando llegara el momento.
+
+Lanthanor era una ciudad próspera.Se dividió en las ciudades interiores y exteriores con la ciudad exterior ocupada por comerciantes y gente común.
+
+El centro de la ciudad era la residencia de los nobles y ministros del reino.Estaba prohibido para personas sin la autoridad suficiente.
+
+Las calles estaban finamente pavimentadas con lo que parecía una suave roca anaranjada por la que se sentía bien para caminar a pesar de que no tenía zapatos.A intervalos regulares, había fuentes donde se podía ver a la gente común bebiendo agua.
+
+Familias risueñas y niños chillando deambulaban por las calles, felices y despreocupados.A primera vista, parecería que la gente estaba feliz con quien estuviera al mando de este Reino.
+
+Sin embargo, esto era solo superficial.Por los recuerdos de Daneel, sabía que los últimos 2 reyes habían aumentado repetidamente los impuestos.Aunque todavía no estaba en una etapa en la que la gente tuviera que vender sus posesiones y vivir frugalmente para poder pagar el impuesto, se temía otra subida de impuestos, ya que daría lugar a una situación exactamente como esa.
+
+
+Por lo tanto, la gente simplemente disfrutaba donde podía.Se mantuvieron alejados de los guardias y se ocuparon de sus propios asuntos.
+
+Los dos establecimientos con más negocio fueron bares y tiendas de baratijas mágicas.Ambos tenían bandadas de clientes durante todo el año.
+
+Pronto, Daneel entró en la zona de tugurios.Aquí, los caminos no eran tan suaves, casi como si la capa suave que había estado presente en todas partes se hubiera desvanecido.
+
+Había pequeñas chozas por todas partes, esparcidas al azar.A diferencia de la ciudad por la que acababa de caminar, no había orden y muy pocos guardias.
+
+Daneel siempre había sido astuto, por lo que podía ver que aunque no había mucho orden, había una felicidad más genuina.Una pareja de ancianos jugaba con 2 niños mientras los padres de este último miraban sonriendo.Un hombre de mediana edad ofreció su bebida a todos los que pasaban, sin importarle si se agotaba con personas que ni siquiera conocía.Cuando pasaba, 4 o 5 personas incluso lo detuvieron y le preguntaron si estaba bien al ver su condición.Se ofrecieron a alimentarlo y atender sus heridas lo mejor que pudieran si no tenía padres.
+
+Daneel se sorprendió por la hospitalidad.No esperaba tal comportamiento en absoluto de personas que parecían no tener nada más que la ropa que llevaban puesta a su nombre.
+
+Después de declinar cortésmente y asegurarles que tenía a sus padres más adelante, sus cálidas sonrisas todavía se quedaron en su cabeza mientras continuaba.
+
+Finalmente, llegó a una choza familiar.El techo era una hoja de acero oxidado con material diverso colocado encima para ayudar con las goteras.Las paredes también estaban hechas del mismo material que era bastante resistente a pesar de que era bastante delgado.La puerta tenía una placa de identificación que decía "Casa Anivron" con letras irregulares.
+
+Un sentimiento cálido llenó su corazón al ver esta choza en ruinas.Finalmente estaba en casa.
+
+Cuando abrió la puerta y entró, vio a una mujer mirar hacia arriba con los ojos llorosos.
+
+Esta era su madre.Parecía ser de mediana edad, aunque solo tenía 36 años este año.Las mujeres en Lanthanor generalmente se casaban mucho antes que en la tierra.En ese momento, la suya había sido una familia floreciente con su padre en un puesto importante.El ejército estaba muy bien atendido por el gobierno, con raciones mensuales de comida y una villa designada para vivir.
+
+Con todas estas condiciones, la familia Anivron no dudó en tener un hijo.
+
+Su padre había nacido de un comerciante de telas mediocre.Se había unido al ejército a la temprana edad de 16 años y se había abierto camino en las filas con determinación y determinación.Esto resultó en que se convirtiera en un líder de escuadrón a la edad relativamente joven de 25 años, al tiempo que se ganó la admiración de muchos altos mandos.
+
+Su padre se enamoró de su madre a primera vista en una reunión familiar.Aunque ella solo tenía 18 años en ese momento, las familias no dudaron en hacer realidad el matrimonio.Esa diferencia de edad era bastante común aquí.
+
+Entonces, ocurrió el desastre.Daneel tenía alrededor de 3 años cuando su padre fue expulsado del ejército.Incluso sus familias fueron atacadas y se les advirtió que podían mudarse a los barrios bajos o ser expulsados ??de la ciudad.
+
+Sin otra opción, la familia Anivron había construido esta choza con los últimos ahorros que no habían sido confiscados y había vivido aquí desde entonces.Por lo tanto, solo tenía vagos recuerdos del resto de su familia que mantenían la distancia a excepción de algunos amigos cercanos.
+
+"¡Daneel! ¿Dónde estabas? ¡Nos hiciste a tu padre ya mí tan preocupados!", Exclamó su madre entre sollozos después de correr hacia él y abrazarlo.Al darse cuenta de las lesiones que estaban alrededor de su cuerpo, comenzó a revisar cuidadosamente todas partes para asegurarse de que no hubiera ninguna que amenazara su vida.
+
+María era su nombre.Al escuchar la conmoción, un hombre con una marca circular en la frente levantó la vista de la cama.
+
+Una amplia sonrisa apareció en su rostro al ver que su hijo había vuelto.Esta familia se haría añicos si algo le sucediera a su único hijo.Él era su orgullo, su esperanza y su corazón.
+
+Su padre se llamaba Robert.La marca en su rostro fue la marca que se le dio a todos los deshonrados y expulsados ??del ejército.Al ver la marca, nadie en su mente justa donaría algunas monedas, y mucho menos daría un trabajo.
+
+
+"Estoy bien, mamá. Me atacaron unos mocosos que pensaban que tenía dinero encima. Se fueron después de atacarme y ver que no tenía nada más que esta ropa. Me lavé la cara en una fuente antes de regresar rápidamente .", él mintió.No había forma de que pudiera contarle a nadie sobre el sistema todavía.
+
+Afortunadamente, esta no era la primera vez que sucedía.Por lo tanto, su madre simplemente suspiró y caminó hacia un armario para obtener la solución de recuperación barata que curaba raspaduras como estas en unos pocos días.
+
+
+Al ver el estado en el que se encontraban sus padres, Daneel se indignó.La familia de un soldado honesto se vio reducida a este estado debido al ego de alguien con autoridad.Su madre, que solo tenía 36 años, parecía tener al menos 50. El trabajo manual día tras día le había pasado factura, haciendo que su piel, una vez brillante, ahora se vea opaca y áspera.Incluso su rostro, que antes había estado lleno de vitalidad, ahora tenía muchas marcas y líneas de edad que aparecían mucho antes de su tiempo.
+
+A diferencia del anterior Daneel que se sentía resignado a su destino, él quería vengarse.Quería corregir todos los males que le habían hecho a su familia.
+
+Pero primero, necesitaba comprender qué era el sistema.Beber agua regular de alguna manera había curado su cuerpo y lo había sacado de la muerte.El HUD que se había apresurado a desactivar después de llegar a la fuente era aún más mágico por derecho propio.
+
+El sistema sería su arma con la que contraatacaría.Por lo tanto, ni un solo alma excepto él necesitaba saberlo.Sabía lo celoso que era el ala tecnológica bajo el nuevo rey y no quería experimentar con él como un conejillo de indias.
+
+Aunque su padre le lanzó una mirada de desaprobación sin creer la historia, Daneel solo pudo subirse a su cama después de lanzarle una sonrisa de disculpa.Le había dicho a su madre que estaba cansado y que ya había comido pan donado por un transeúnte.Por lo tanto, lo dejó ir a dormir después de aplicar la pomada por todas sus heridas.
+
+No había habitaciones en la casa, solo se veían cortinas que dividían la pequeña habitación de 70 metros cuadrados en una sala de estar con cocina / comedor y 2 dormitorios, uno más pequeño que el otro.El más pequeño era el de Daneel.
+
+Finalmente llegó el momento de ver qué era realmente este sistema.
+
+Cuando Daneel cerró los ojos, preparó una lista de preguntas para hacer.El molesto sistema ni siquiera le dio esta oportunidad.
+
+[Se ha observado que el estado del anfitrión es adecuado.Comenzando la introducción.
+
+
+¡Bienvenido al sistema de dominación mundial!Mendigo o príncipe, comerciante o soldado: independientemente de su punto de partida, con la ayuda del sistema, su arduo trabajo puede convertirlo en un Rey incomparable bajo los cielos.¡Tu camino hacia la dominación comienza!
+
+Introducción completada.El anfitrión ahora puede hacer cualquier pregunta que tenga.]
+
+Daneel se quedó estupefacto por un momento y no podía hablar.Al enterarse de que comenzaba la introducción, esperaba una explicación completa que aclarara todas sus dudas.En cambio, todo lo que obtuvo fue otra explicación vacía que no le dijo nada nuevo.
+
+"¿Cómo te metiste en mi cabeza?", Preguntó, decidiendo comenzar con las preguntas más urgentes.
+
+[Información bloqueada.Avanza al nivel requerido para desbloquear esta información.]
+
+"¿Quién te creó?"
+
+[Información bloqueada.Por favor, avance al nivel requerido para desbloquear esta información.]
+
+"¿Los científicos en la tierra de alguna manera lo pusieron en mí?"
+
+[Información bloqueada.Por favor, avance al nivel requerido para desbloquear esta información.]
+
+...
+
+Daneel estaba empezando a enojarse.Primero se calmó y comenzó a hacer preguntas que podrían tener respuesta.
+
+
+"¿Qué es el éter? ¿Cómo curó mi cuerpo?"
+
+[El éter es un material maravilloso generado por este mundo.Es uno de los materiales que contiene la energía por excelencia que permite a los que viven en este mundo avanzar en el camino hacia el poder.En forma concentrada, también tiene increíbles propiedades curativas que el sistema puede aprovechar.El sistema tiene la capacidad de detectar dichos materiales.En el nivel actual del sistema, solo se puede detectar Ether.Actualice el sistema para desbloquear más funciones.Costo de desbloqueo: 10,000 puntos de experiencia.]
+
+Este fue un comienzo.Incluso Daneel había oído hablar de Ether, pero solo quería asegurarse.
+
+"¿Qué más puedes hacer?"
+
+[El sistema actualmente puede realizar las siguientes tareas:
+
+
+
+
+
+
+
+Control de misión
+
+Actualice el sistema para desbloquear más opciones.Costo de desbloqueo: 10,000 puntos de experiencia.]
+
+El maldito sistema constantemente le pedía que lo actualizara.Para Daneel, sonaba como el amigo irritante que constantemente te convencía para que le compraras algo.
+
+Optando por ignorarlo, preguntó: "¿Cómo se ganan puntos de experiencia? ¿Y cuál es la progresión de nivel?"
+
+[Los puntos de experiencia se obtienen cuando se logran ciertos objetivos ocultos o cuando se cumplen misiones.La progresión de nivel es la progresión del anfitrión hacia el siguiente nivel de poder.]
+
+Daneel lo había adivinado.
+
+"¿Cuáles son los niveles de potencia?"
+
+[El sistema no conoce los niveles de potencia en este mundo.
+
+Nueva misión: proporcionar información sobre el
+
+progreso de la misiónmundial: 0%
+
+Descripción de la misión: el sistema ya ha analizado toda la información conocida actualmente por el host.Se necesita nueva información para construir la base de datos.Se requiere que el anfitrión encuentre e interactúe con todos y cada uno de los materiales que ayudarán en esta tarea.
+
+Recompensas de la misión: 10 puntos de experiencia.Se desbloqueará una nueva función.
+
+Penalización por fracaso de la misión: ninguna.
+
+¿El anfitrión elige aceptar la misión?]
+
+
+Una simple pregunta había dado lugar a la encomienda de una misión.Parecía que incluso reflexionar y hacer preguntas ociosamente podría desencadenar eventos como estos en el sistema.
+
+"Sí"
+
+[Misión aceptada.Buena suerte.]
+
+Esto era lo que Daneel sabía hasta ahora: tenía un sistema de corazón negro pero muy poderoso en su cabeza que se jactaba de que lo convertiría en el Rey de este mundo.Se podrían desbloquear más funciones completando misiones y ganando puntos de experiencia.
+
+Al reflexionar sobre esto, se dio cuenta de que en este momento, a Daneel no le importaba menos si se convertía en el gobernante del mundo o no.Se había fusionado por completo con su cuerpo actual y se sentía muy afortunado de tener padres en este mundo.El dolor de no tener ninguno en su vida anterior lo hizo atesorarlos aún más.Esto, a su vez, lo hizo aún más decidido a vengarse y obtener justicia.
+
+Su objetivo actual era este: descubrir más sobre el mundo y seguir desbloqueando funciones.Busque cualquier oportunidad que pueda aprovecharse debido a la presencia del sistema.
+
+Se escuchó un arrastrar de pies desde la cortina cuando un hombre entró en la habitación.
+
+"Tu madre está dormida. Vi la sangre en tu ropa, muchacho. ¿De dónde aprendiste a mentirles a tus padres? Esa cantidad de sangre definitivamente no provino solo de esas heridas externas. Muéstrame rápidamente si estás herido en algún otro lugar". . Tengo un amigo en la enfermería que podría ayudar. No hagamos que tu madre se preocupe aún más. Ya tiene suficiente en su mente "
+
+Otro par de pasos lo siguieron desde atrás, mientras su madre entraba y tocaba juguetonamente el hombro de su padre antes de girarse. hacia Daneel con una mirada de reprimenda en su rostro.
+
+"¿Crees que no me di cuenta? ¡Soy su madre! Dinos, hijo. Ese ungüento solo funcionará en los rasguños y cortes más pequeños. No importa cuál sea el costo, podemos contratar a un mago curativo en caso de que estés lastimado en cualquier lugar. adentro. Ese tipo de heridas no deben ignorarse en absoluto ".
+
+Al ver las miradas de preocupación en los rostros de sus padres, las lágrimas aparecieron en los ojos de Daneel.Nunca había conocido tal sentimiento.Aunque la anciana del orfanato siempre se había preocupado por él, la ausencia de los padres siempre lo había pesado como una carga.
+
+Un calor se extendió por su cuerpo.En este mundo, fue amado y cuidado.En este mundo, tenía personas a las que podía llamar suyas que harían cualquier cosa por él.
+
+
+Solo podía abrazarlos a ambos y llorar incontrolablemente mientras todas las lágrimas reprimidas de todos los años de dolor estallaban, finalmente se liberaban de sus ojos.
+
+Sus padres lo dejaron llorar todo, optando por darle una palmada en la espalda y dejar que se explicara.
+
+Después de controlarse y limpiarse las últimas lágrimas, dijo: "No estoy herido en ningún otro lugar. Créanme, mamá y papá, no se lo escondería si ese fuera el caso. Sé que harías todo lo posible". para curarme. Estoy muy feliz de tenerlos a ustedes dos ".
+
+Dicho esto, una amplia sonrisa apareció en su rostro.Al ver esta linda sonrisa, la pareja solo pudo devolverle la sonrisa y marcharse deseándole buenas noches.Su padre todavía tenía una mirada inquisitiva, pero su madre lo arrastró lejos como diciéndole que no molestara a su hijo.Si quisiera decirles algo, lo haría.
+
+
+Daneel sabía que al estar en el ejército, su padre no le creía en absoluto.Pero no había nada que pudiera hacer.Esto era algo que no podía compartir sin importar qué.Tendría que pensar en una explicación más plausible más tarde.Por mucho que odiara mentirles a sus padres, simplemente no tenía otra opción.
+
+Aunque había sido curado y sentía que su estómago estaba lleno, Daneel se sentía muy somnoliento y cansado por el largo día que acababa de tener.Esperando con ansias el día siguiente, se quedó dormido casi instantáneamente.
+
+4 horas después.
+
+Daneel se había ido a dormir alrededor de las 10 de la noche. El viejo reloj oxidado de la sala marcaba las 2 de la mañana cuando se escuchó un crujido fuera de la puerta.Después de un poco de torpeza, la puerta se abrió con un crujido para revelar a 2 hombres vestidos de negro.
+
+"Busca por todas partes y guarda silencio. El anciano de esta casa era un soldado, así que es mejor no meterse en una pelea", le dijo el primer hombre al segundo.
+
+Asintiendo en respuesta, los dos continuaron entrando a hurtadillas en la casa.
+
+[*TIMBRE*
+
+
+Nueva misión: Derrota a los ladrones en la Casa Anivron
+
+Descripción de la misión: Los ladrones han entrado en tu casa.¡El futuro rey del mundo no puede permitir que ocurra un robo en su propia casa!Ahuyenta a los ladrones.
+
+Recompensa de la misión: 20 puntos de experiencia.5% de progresión de nivel.
+
+Compra sugerida: complemento de ayuda de combate Heads Up Display (1).Costo-10 puntos de experiencia.
+
+¿Te gustaría aceptar la misión y realizar la compra tomando un préstamo?Se aplicará la tasa de interés estándar.]
+
+Daneel se despertó con este sonido.Sus ojos se abrieron de par en par cuando escuchó los sonidos provenientes de la sala de estar.Les habían robado tres veces antes y cada vez que toda la familia casi había muerto de hambre durante semanas antes de que pudieran volver a almacenar un poco de comida.
+
+Las únicas cosas valiosas en la casa eran la comida y algunas otras cosas, como el reloj.Aun así, Daneel no tenía ninguna intención de simplemente recostarse e ignorar la situación, especialmente cuando podía detenerla.
+
+Una vez más, no tuvo más remedio que tomar el préstamo.No tenía experiencia en peleas y sabía que necesitaría la ayuda del sistema si quería ahuyentar a los ladrones con éxito.
+
+"Sí. Compre el complemento y equipe el Heads Up Display".
+
+[Afirmativo.Préstamo aprobado.Compra realizada y agregada a HUD.HUD desplegado.Buena suerte.]
+
+Cuando la pantalla volvió a aparecer sobre los ojos de Daneel, notó que podía ver a los ladrones incluso desde detrás de la cortina.Ahora que lo estudió, el panel de la izquierda indicaba su estado, mientras que una imagen en 3-D de su cuerpo mostraba si alguna parte estaba lesionada.Era su indicador de salud en forma gráfica.
+
+
+Mientras intentaba averiguar cómo proceder, se vio una huella blanca en el rabillo del ojo.
+
+En el suelo había una línea de pisadas brillantes que dejaban caer hacia uno de los ladrones que le daba la espalda.
+
+Daneel decidió simplemente confiar en el sistema.
+
+Silenciosamente puso su pie en la indicación y avanzó poco a poco hacia el ladrón.Afortunadamente, los intrusos no escucharon el susurro de la cortina debido a los sonidos que ya estaban haciendo.
+
+Casi al llegar al ladrón, un puño blanco y brillante apareció en el costado de la cabeza.
+
+Daneel comprendió que era la trayectoria de su brazo lo que tenía que seguir.
+
+Conteniendo la respiración, tiró del brazo hacia atrás y golpeó a lo largo de esa línea, haciendo que la cabeza del ladrón se moviera de lado.El repentino efecto de latigazo cervical instantáneamente lo hizo desmayarse y caer al suelo.
+
+Aunque el golpe y la caída fueron silenciosos, Daneel había cometido un error.Como no tenía experiencia en puñetazos, había golpeado de una forma muy incómoda al doblar su cuerpo hacia adelante.Ahora perdió el equilibrio y golpeó una mesa con la mano mientras caía hacia adelante.Esto hizo un sonido más audible que hizo eco a través de la casa.
+
+Daneel se levantó apresuradamente solo para darse cuenta con horror de que el otro ladrón lo había notado y ahora se lanzaba hacia él con una daga brillante en la mano.
+
+La daga estaba a sólo unos centímetros de su cabeza mientras el ladrón lo empujaba desde arriba con la intención de matarlo de un solo golpe.
+
+Sin pensarlo, Daneel marcó la nueva trayectoria que se muestra en el Heads Up Display.La trayectoria condujo hacia un punto específico en el brazo del ladrón, cerca del codo.
+
+Con centímetros de sobra, la mano fue golpeada hacia arriba cuando el codo del ladrón se rompió, haciéndolo aullar de dolor.Esto despertó a su padre que se apresuró a entrar en la sala de estar.
+
+Con solo un segundo para comprender la situación, Robert rápidamente puso al ladrón que estaba inclinado, aullando de dolor, en un abrazo.Después de una pequeña lucha, el ladrón se desmayó.
+
+[Misión cumplida.20 puntos de experiencia otorgados.5% de progreso de nivel otorgado.
+
+*Timbre*
+
+¡Su préstamo ha sido reembolsado!¡Gracias por realizar operaciones bancarias con el sistema!]
+
+Nunca, en sus sueños más locos, Daneel pensó que se convertiría en un esclavo de un sistema que exigía interés tras interés.De ahora en adelante, prometió no tomar nunca un préstamo.¿Cuál fue la razón detrás de esto de todos modos?Este sistema seguía alardeando de que lo haría dominar el mundo pero ahora mismo el único que estaba siendo dominado era él, por la atroz tasa de interés.
+
+Daneel pensó un poco en esto, medio exigiendo una respuesta.Así, el sistema respondió:
+
+[El sistema desea informar al anfitrión que los recursos como Puntos de experiencia y Progresiones de nivel solo pueden ser proporcionados por el sistema cuando el anfitrión los haya obtenido.El sistema solo puede extraerlos de misiones completadas.Esto se debe a los principios avanzados de extracción de energía de frecuencia múltiple implantados en el sistema.
+
+
+El sistema de préstamos fue implementado por el creador del sistema para ayudar a los hosts débiles.Una pequeña cantidad de energía remanente está presente dentro del sistema para emergencias.Pero, se han establecido parámetros con respecto al uso de esta energía.Esto es para disuadir a los anfitriones de ganar demasiado gratis y animarlos a terminar misiones y lograr sus recompensas.De ahí la tasa de interés.]
+
+Daneel no esperaba que el sistema respondiera en absoluto.
+
+"¿Hijo? ¡Hijo! ¿Te golpearon en la cabeza? ¿Por qué estás aturdido?"
+
+Sintió a su padre sacudiendo los hombros al despertar del trance en el que había entrado al escuchar el sistema.No tuvo tiempo para analizar la respuesta del sistema, con su padre mirándolo con una mirada preocupada en su rostro.
+
+"No, papá, estoy bien. Estaba un poco sorprendido por lo repentino de todo esto. ¿Qué hacemos con estos dos?", Preguntó, señalando a los ladrones.
+
+"Ve y llama a Benny. Estos ladrones deben tener recompensas en la cabeza. Si pasamos por alguien más, simplemente se comerían la recompensa en lugar de dárnosla debido a nuestro estado", dijo, suspirando.
+
+Hubo varios casos en los que agentes de policía o vendedores de la ciudad los engañaron por completo, ya que no había nadie a quien pedir y obtener justicia para ellos.Tal era la depravación de los marcados con esa marca.Solo podían cerrar la boca e intentar no ser engañados nuevamente.
+
+
+Situaciones como estas hacían que la familia atesorase cada vez más a los verdaderos amigos.Benny era un gran amigo.Era un agente encargado de patrullar los barrios marginales que simpatizaba con la familia Anivron y los ayudó en todo lo que pudo porque sabía la verdadera razón por la que Robert fue expulsado.Daneel tenía buenos recuerdos de este tío Benny trayendo comida sabrosa o dulces cuando se moría de hambre.
+
+"Además, ¿cómo lograste noquear al primer ladrón y hacer que el segundo ladrón se inclinara de dolor?"
+
+"Jeje, instintos. Solo los escuché husmeando y quería detenerlos. Iré a buscar al tío Benny", dijo, dando otra pobre excusa y huyendo de las manos de su padre.
+
+
+Los ojos de Robert siguieron a Daneel desde atrás con una mirada sospechosa en su rostro.Algo había cambiado en su hijo.
+
+Decidiendo llegar al fondo más tarde, se apresuró a atar a los dos ladrones antes de que se despertaran.
+
+El tío Benny llegó a los pocos minutos y se sorprendió al ver a los dos ladrones bien atados.Estos fueron algunos de los ladrones más notorios que aterrorizaron la ciudad exterior.Recientemente habían hecho un atraco de alto perfil y se pensaba que habían abandonado la ciudad.Pensar que quedarían atrapados en los barrios bajos, seguramente el Comandante se sorprendería.
+
+Hubo una gran recompensa en las cabezas de los ladrones que realmente ayudaría a esta familia.Prometió conseguir todo el dinero y entregarlo diciéndoles a sus superiores que alguien más había logrado atraparlos.
+
+Con todo arreglado, los dos se volvieron a dormir.
+
+A la mañana siguiente, Daneel se despertó con el canto del gallo.Afuera todavía estaba un poco oscuro, pero no podía volver a dormirse.
+
+Como hacía siempre, ayudó a su madre y a su padre con las tareas del hogar hasta que salió el sol por completo.Luego, su madre se fue a trabajar y su padre fue a encontrarse con unos amigos en los suburbios.
+
+Libre, Daneel salió de su casa para buscar la biblioteca.
+
+La biblioteca municipal era uno de los edificios más destacados de la ciudad.Construido en un área amplia y abierta con altas cúpulas y un rico trabajo de albañilería, fue realmente un espectáculo para la vista.Le recordó a la famosa Casa Blanca en la tierra.Solo que el material era amarillo en lugar de blanco.
+
+Daneel subió emocionado los escalones que conducían a la puerta antes de que un letrero cercano perforara por completo su emoción.
+
+
+"Precio de entrada: 10 Silver Lans"
+
+Lan era la moneda oficial de Lanthanor.100 Lans de bronce hicieron 1 Lan de plata y 100 Lans de plata hicieron 1 Lan de oro.
+
+10 lanes de bronce era la cantidad necesaria para que una persona normal comiera la comida más sencilla durante un día.¿Y esta maldita biblioteca necesitaba cien veces más?
+
+No había forma de que pudiera traer tanto dinero con la condición financiera en la que se encontraba su familia. Daneel solo podía jalarse del cabello con frustración mientras se preguntaba qué hacer.
+
+Sin otra opción disponible, procedió a regresar a casa abatido.
+
+Justo cuando llegaba a casa, el tío Benny estaba entregando una pequeña bolsa a su padre.
+
+"Es una lástima, Robert. La mala suerte parece perseguirte. Estos dos realmente lograron un atraco de muy alto perfil justo un día antes de que los atraparan en tu casa. Esos artículos aún no se han encontrado. Los burócratas todavía estaban decidiendo revisar el recompensa. Si hubiera sabido esto, los habría escondido en algún lugar antes de entregárselos. Por desgracia, ahora solo podríamos obtener 1 Lan de oro por cada uno. Aún así, es una suma bastante alta. Cuídate, Robert. Piensa en enviar a Daneel a algunas clases de lucha. Si lo que dijiste es cierto y él mató a un ladrón él solo, debe tener un gran talento ".
+
+Se fue después de alborotar un poco el cabello de Daneel y saludar.
+
+La vista de Daneel estaba fija en el Lan dorado.Este era su boleto para la biblioteca.
+
+"Papá, necesito 10 Lans plateados", espetó.
+
+Al escuchar esto, su padre solo pudo mirar.Hasta la fecha, Daneel siempre había sido el niño obediente que nunca les pidió nada a sus padres.
+
+"¿Para qué?", ??Preguntó con cara de paciencia.
+
+Daneel decidió decir la verdad.Desde pequeño siempre le había interesado la lectura.Sus padres le habían enseñado las palabras y las letras y todavía se jactaban de que había aprendido todo en muy poco tiempo.
+
+"Quiero ir a la biblioteca, papá. Quiero leer todo lo que hay allí y decidir qué quiero ser en el futuro. ¿Por favor, papá? ¿Puedo ir?"
+
+Robert suspiró cuando vio a su hijo poner ojos de cachorro en un intento por convencerlo.
+
+"Está bien. Recuerda, tú decides tu propia vida, hijo. Ten cuidado ahí fuera".
+
+En el pasado, esta cantidad no habría sido nada.Ahora, tenían que hurgar en cada bocado.Incluso él deseaba que su hijo aprendiera sobre el mundo.No quería que él fuera el paleto del campo del que se reirían por no saber nada.
+
+Sobre todo, deseaba que tuviera un futuro brillante.
+
+"Iré a buscar el cambio de unos amigos. Espera aquí".Diciendo eso, salió de la casa.
+

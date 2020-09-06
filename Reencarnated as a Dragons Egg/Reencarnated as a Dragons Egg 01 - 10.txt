@@ -1,0 +1,1042 @@
+AAA
+
+
+1- El Huevo que camina
+Pakiri*, había grietas frente a mí. (NT: Sonido de algo rompiéndose)
+En un mundo completo de oscuridad, había finalmente luz.
+Le doy un vistazo a la grieta a mi lado, la cual es cada vez más grande.
+Hmm, ¿Es esto un bosque?
+Y parece que estoy en la cima de un árbol.
+Intentemos ponernos de pie, al ponerme de pie escuché un ruido de algo rompiéndose debajo de mis pies.
+Eh, ¿Qué es esta cosa extraña que estoy pisando?
+Quiero decir, ¿Se siente como si se estuviese rompiendo?
+Cómo he dicho eso, algo apareció de repente en el interior de mi cabeza, se parecía a una de esas típicas pantallas de menú en los juegos.
+---------------------------------------------
+Raza: Huevo de Dragón
+Estado: Normal
+Lv: 1/5
+HP: 5/5
+MP: 1/1
+Ataque: 1
+Defensa: 3
+Magia: 1
+Agilidad: 10
+Rango: F
+Habilidades Especiales:
+[Cascarón de Huevo: Lv–]
+[Voz de Dios: Lv1]
+Habilidades de Resistencia:
+[Resistencia Física: Lv1]
+Habilidades Normales:
+[Rodar: Lv1]
+[Inspeccionar Estado: Lv1]
+Habilidades de Títulos:
+[Hijo del Rey Dragón: Lv–]
+[Huevo que Camina: Lv–]
+---------------------------------------------
+¿No es esta cosa… como una de las pantallas de los juegos RPG?
+[Pantalla de estado fue abierta.]
+Estas palabras estaban flotando en mi cabeza.
+¿Eh?, ¿Pantalla de Estado?
+[La pantalla de estado ayuda a entender fácilmente las habilidades de uno y el nivel, convirtiéndolo en valores numéricos y escritos.]
+Eh, ¿Contestó a mi pregunta?
+[La habilidad especial [Voz de Dios: Lv1] explica o describe todo lo relacionado a objetos o estado.]
+[De igual manera notificará cualquier cambio que se haga en el estado.]
+Espera un momento, ¿Qué es esto?
+¿Cuándo sucederá?, ¿Ehh?, ¿Podría esto ser posiblemente un juego?
+[Habilidad Especial [voz de Dios: Lv1] es incapaz de explicar.]
+¿Qué?
+Lv1 no puede explicar, ¿Podría ser necesario un mayor Lv para poder ser capaz?
+De todos modos, ¿Quién está hablando?
+[Habilidad Especial [voz de Dios: Lv1] es incapaz de explicar.]
+¿Quién eres?
+Además, ¿Qué lugar es este?
+[Habilidad Especial [voz de Dios: Lv1] es incapaz de explicar.]
+………..
+¿Qué es esto?… esté vacío.
+De todas formas, ya que la extraña voz se detuvo, vamos a intentar buscar a alguien que se pueda comunicar como un ser humano.
+Solo puedo decir que no es innegable, no siento como si estuviese hablando con una persona. (No estoy seguro de esta parte)
+De repente mi campo de visión se reduce.
+¡Esto se ve como… una caída! ¡Estoy cayendo!
+tsutsutsu…
+Al parecer me caí del árbol de algún modo, y estaba considerablemente alto.
+Pero de algún modo todavía estoy vivo.
+[Habilidad de resistencia [Resistencia a Caídas] fue adquirida.]
+¿Qué es esto?
+¿Gané la Habilidad porque soporté la caída? (En la versión inglesa aumentaba también la resistencia física, pero en la japonesa no, además más adelante no sale aumentada en el estado, así que la quite.)
+¡Ah!, ¡mi HP disminuyó a 3!
+¿Esto quiere decir que si llega a 0 voy a morir?
+¿Esto es un sueño?, ¿Esto es un sueño… verdad?
+[Habilidad de Título [Torpe: Lv1] fue adquirido]
+¡Eso es un insulto!, ¡Oi, Voz de Dios!
+¡¿Me veo como un idiota para tí?!, ¡Que mal gusto tienes!
+¡Eso no es un título, es un insulto!
+[Habilidad Especial [voz de Dios: Lv1] es incapaz de explicar.]
+Lo has hecho ahora…
+Bueno, está bien. Si continuo con esto solo conseguiré estresarme.
+Miro al árbol desde el cual caí, pero no soy capaz de ver la cima.
+Qué pequeño es mi campo de visión, no puedo mover mi cuello.
+Oh, ¡Hay agua al otro lado!
+Vamos a confirmar mi apariencia con el reflejo.
+Miro fijamente la superficie del agua tratando de ver mi reflejo.
+Un enorme huevo.
+Hay un agujero donde están los ojos y pies.
+Un tamaño impar y grietas de aquí y allá, la apariencia, la sensación, como se dice a esto… todas son las características normales de un huevo…
+Ehh, ¿Qué es esto?
+Sin duda eso soy yo, estaba realmente desconcertado por el reflejo del agua.
+¿Yo?, ¿Eso es realmente yo?
+¡Es realmente yo!, ¡No lo entiendo!, ¡¿Cómo sucedió?!
+¡Responde idiota!
+[[Huevo de Dragón] es un monstruo rango F.]
+[El hijo de un dragón, un monstruo incompleto con conciencia de sí mismo.]
+[El interior del huevo está incompleto, si el cascaron se rompe vas a morir.]
+Tienes que estar bromeando, estás bromeando conmigo ¿verdad?
+[Aunque el cerebro todavía está en proceso de crecimiento, posee una rápida capacidad de procesamiento y la capacidad de rodar]
+¡¿Qué pasa con eso?!
+¡Pienso que conoces sobre muchas cosas!
+[Es peligroso estar solo, el interior del huevo es extraordinariamente delicioso y considerado una delicadeza. Es bastante famoso.]
+[Si eres encontrado por un aventurero serás asesinado instantáneamente. Aunque si los padres dragones están cerca no será el caso.]
+[También está la posibilidad de que el aventurero se lo lleve, pero esto no es recomendado pues un dragón puede seguir el olor del huevo.]
+Una mentira. Esto es una mentira ¿Verdad?
+¿No es demasiado cruel?
+Seré asesinado si soy encontrado, ¡al igual que una cucaracha!
+¿Qué es esto?… aventureros, dragones, monstruos…
+Realmente, ¿qué diablos es esto?
+
+AAA
+
+
+2- Gusano oscuro come huevos
+Recuperé mi conciencia y ahora ya es el segundo día.
+También, por fin llegué a comprender que el bosque en el que me encontraba, era un bosque peligroso lleno de monstruos.
+Monstruos como, algo parecido a un cocodrilo negro y otros insectos gigantes desagradables.
+Este lugar probablemente no es Japón.
+Este lugar probablemente es África.
+Nunca imagine que África tuviera cocodrilos negros, insectos gigantes, huevos que caminan y una especie de osos con 4 brazos.
+Debería haber prestado mayor atención a las cosas fuera de Japón.
+De esa manera habría sabido de un país tan peligroso ahí afuera… en este momento realmente quiero llorar.
+Por cierto, este día obtuve las habilidades [Resistencia al Hambre] y [Resistencia al Veneno]
+Debido a un hongo que me comí antes me duele el estómago, en verdad duele.
+Bueno, al menos comprendo que no será peligroso si solo lo tengo en mi mano.
+De todos modos, trate de probar la habilidad [Rodar].
+Como por instinto, solo rodé hacia un lado.
+La habilidad [Rodar] subió de nivel a 2.
+Rodé desde un lugar alto lo cual término conmigo cayendo, lo que me dio una considerable cantidad de daño, la habilidad [Resistencia a Caídas] subió de nivel a 2.
+Casi me mato a mí mismo.
+Naa, estoy cansado, Voz de Dios-chan…
+Quiero ir a casa, quiero tomar un baño, quiero comer papas fritas…
+[Habilidad Especial [voz de Dios: Lv1] es incapaz de explicar.]
+Por favor, tengamos una conversación.
+Siento que moriré de soledad.
+Voy a comenzar a llorar.
+[Habilidad de resistencia [Resistencia a la Soledad] fue adquirida.]
+Lo siento, no creo que esto sea necesario.
+Tu consideración me hace feliz, sin embargo, pero esto no era lo que estaba buscando.
+Quiero el afecto de otra persona.
+No soy un hombre que pueda soportar el estar solo, no quiero convertirme en un solitario.
+No necesito ser fuerte, quiero seguir viviendo como un humano que reconoce su debilidad…
+La vida humana huh, algo como haber nacido de un huevo significa que voy a cambiar.
+Lo cual me recuerda, ¿Cuándo llegue aquí?
+No puedo recordar. Recuerdo ser japonés, aun poseo mi conocimiento común, el cual me dice que no deberían existir lo monstruos.
+No logro recordar si era un hombre o una mujer, pero probablemente un hombre, eso pienso.
+¿Fui secuestrado y traído a África?
+Además, ¿Quién es la Vos de Dios-chan?
+[Habilidad de Título [Simplemente un Tonto: Lv1] fue adquirido] (Honestamente no estaba seguro de la traducción del título, “straight fool”)
+…Desearía que te detuvieras de dar ese tipo de respuestas.
+Bueno, heriste mis sentimientos.
+De todos modos, vamos a confirmar el estado.
+---------------------------------------------
+Raza: Huevo de Dragón
+Estado: Normal Lv: 1/5  HP: 5/5 MP: 1/1 Ataque: 1 Defensa: 3 Magia: 1 Agilidad: 10 Rango: F
+Habilidades Especiales:
+[Cascarón de Huevo: Lv–]  [Voz de Dios: Lv1]
+Habilidades de Resistencia: [Resistencia Física: Lv1]  [Resistencia a Caídas: Lv2]  [Resistencia al Hambre: Lv1]  [Resistencia al Veneno: Lv1] [Resistencia a la Soledad: Lv1]
+Habilidades Normales:
+[Rodar: Lv2] [Inspeccionar Estado: Lv1]
+Habilidades de Títulos: [Hijo del Rey Dragón: Lv–]  [Huevo que Camina: Lv–] [Torpe: Lv2] [Simplemente un Tonto: Lv1]
+---------------------------------------------
+Ahh, la habilidad Torpe subió de nivel.
+Recordé algo que no quería recordar.
+Realmente, ¿cómo podría ayudarme esta habilidad?
+Al parecer el HP puede recuperarse descansando.
+Los dos días he prestado mucha atención con el fin de no hacerme daño y no terminar muriendo a causa de eso.
+He estado evitando a los monstruos, comiendo pequeños frutos que caen de los árboles y pequeños insectos, y bebiendo agua.
+Aunque yo no quería, esto fue inevitable.
+Pensé que iba a morir de hambre.
+Creo que rendirse después de dos días es rápido.
+No se puede evitar. Comparado a cuando fui humano la sensación de hambre es mucho más fuerte.
+Todavía estoy en mi periodo de crecimiento.
+Quiero decir, aún soy un huevo.
+Incluso si mi nivel sube… ¿Seré capaz de pelear?
+No creo ser capaz de golpear a un monstruo.
+Ya que soy un huevo.
+¿Cuándo voy a salir de cascarón?
+La Voz de Dios dijo que era un huevo de dragón. ¿No debería haber alguna sensación de estar creciendo?
+¿Tal vez no sucederá a menos que suba de nivel?
+¿Es necesario derrotar monstruos?
+¡Eso es imposible!, ¡Sólo soy un huevo!
+¿Nido?, ¿No me caí de mi nido?
+¿No me caí de un árbol?, ¿Posiblemente sería el nido de un dragón?
+Podría haber algo que estimule mi crecimiento.
+Ah, peligro.
+Hay unas grotescas orugas en la base del árbol.
+El descubrimiento fue hecho tarde.
+El nombre de esta cosa es gusano negro.
+Cuando caí aquí, ellos comenzaron a perseguirme.
+Naturalmente, fui capaz de escapar.
+Con la excepción de los gusanos negros, otros monstruos simplemente me ignoraron.
+Ellos simplemente me pasan por alto.
+Podría ser que piensen que si tratan de atacarme mi padre dragón vendrá a protegerme, ahora que lo pienso la Voz de Dios dijo algo como eso en el primer día.
+Pero, estos tipos siempre vienen a atacarme.
+Vamos a revisar el estado del gusano negro, dije [Inspeccionar Estado] en mi mente.
+---------------------------------------------
+Raza: Gusano Oscuro. Estado: Normal Lv: 3/8 HP: 8/12 MP: 3/5 Ataque: 5 Defensa: 2 Magia: 3 Agilidad: 8 Rango: F
+Habilidades Especiales: [Oruga: Lv–]
+Habilidades de Resistencia: [Resistencia al Veneno: Lv1]
+Habilidades Normales: [Mordedura: Lv1] [Llamada de Grupo: Lv2]
+Habilidades de Títulos:
+[Devorador de Huevo: Lv1]
+---------------------------------------------
+Peligroso, realmente peligroso.
+Su estado es mejor que el mío.
+Mi agilidad es un poco mejor que la suya, pero por ahora debería escapar.
+Ahora sé porque este tipo era tan obstinado acerca de mí, es debido a la extraña Habilidad de Título que tiene.
+[Devorador de Huevo: Lv1]
+Es probablemente a causa de eso.
+Lo que llegué a entender de esto, es que este tipo conoce el sabor de un huevo.
+Un acuerdo es imposible. Seria desaconsejable comunicarse con esta cosa.
+Al parecer, en este momento, el gusano negro perdió algo de su HP.
+Si espero que caiga dormido, ¿Seré capaz de acabar con él?
+Su nivel es más alto que el mío, pero mi defensa es mayor que la de él.
+Si recibo un ataque estaría fuera, pero debería ganar si utilizo mi ventaja en la agilidad.
+Bueno, vamos a hacerlo.
+Voy a derrotar a este tipo, para así poder subir de nivel para al fin salir del cascaron. Y así terminar con esta vida de huevo.
+
+3- Batalla contra el Gusano Oscuro
+Comenzó a perseguirme.
+El gusano oscuro me está persiguiendo.
+¡Ven!, Lo voy a atraer a un lugar donde tenga la ventaja.
+A pesar de que entiendo que puedo morir fácilmente porque sigo siendo un huevo.
+
+AAA
+
+
+4- Graduación de ser un Huevo
+Ahora que finalmente terminé de comer al gusano oscuro, supongo que debería revisar mi estado.
+Si no recuerdo mal, hace un momento dijo que era capaz de evolucionar.
+---------------------------------------------
+Raza: Huevo de Dragón
+Estado: Normal Lv: 5/5 (MAX) HP: 5/9 MP: 5/5 Ataque: 5 Defensa: 8 Magia: 3 Agilidad: 15 Rango: F
+Habilidades Especiales:
+[Cascarón de Huevo: Lv–] [Voz de Dios: Lv1]
+Habilidades de Resistencia: [Resistencia Física: Lv1] [Resistencia a Caídas: Lv2] [Resistencia al Hambre: Lv1] [Resistencia al Veneno: Lv1] [Resistencia a la Soledad: Lv1]
+Habilidades Normales:
+[Rodar: Lv2] [Inspeccionar Estado: Lv1]
+Habilidades de Títulos: [Hijo del Rey Dragón: Lv–] [Huevo que Camina: Lv–] [Torpe: Lv2] [Simplemente un Tonto: Lv1]
+---------------------------------------------
+¡Subió!, ¡Subió!
+¡Mi estado se elevó!
+Mi nivel también alcanzó su máximo.
+Debería ser capaz de evolucionar ahora que mi nivel alcanzó su máximo.
+Pero, ¿Cómo?, ¿Cómo evolucionaré?
+[¿Quieres que tus opciones de evolución se muestren?]
+Oh, respondió a mis pensamientos. Las palabras flotaban en mi cabeza.
+Me parecía que era frío y malo, pero es inesperadamente considerado.
+Te lo pido, ¡no quiero ser un huevo más!
+---------------------------------------------
+[Siguiente]
+[Dragón Bebé]: Rango D- [Dragón Pequeño]: Rango D+
+---------------------------------------------
+[Presente]
+[Huevo de dragón]: Rango F
+---------------------------------------------
+[Anterior]
+---------------------------------------------
+¿Qué es esto?
+[Dragón Bebé], [Dragón Pequeño], ¿Tengo que escoger el que más me guste?
+Dándome una elección es bástate refrescante.
+Pero ¿No hay un signo de más junto a uno?, ¿No será dragón pequeño la mejor opción?
+[[Dragón Pequeño: Rango D+]]
+[Un pequeño tipo de dragón, es llamado pequeño debido a su tamaño, el cual es tan grande como un oso.] [Su ataque de aliento de fuego es temido por los aventureros.]
+Ohh, me está dando una explicación.
+Este día ha sido muy amable, ¿Es un tsundere o qué?
+Poco a poco mi soledad está desapareciendo.
+Fumu… [Dragón Pequeño] parece ser bastante bueno, pero…
+¿Será capaz de competir con otros monstruos?
+De todas formas, muéstrame el otro.
+[[Dragón Bebé: Rango D-]]
+[Tiene una carne tierna, y son extremadamente deliciosos, ellos también van bien con salsa.] [Tienen una baja capacidad de combate debido a sus cortos colmillos y garras, pero poseen el mayor potencial, pues pueden convertirse en diferentes tipos de dragones.] [Debido a esto, en su mayoría son cazados por otros monstruos y aventureros.]
+Este parece doloroso.
+Lo primero que me dijo es lo bueno que es como comida y luego su potencial.
+No, este no.
+Con las capacidades del pequeño, no creo que tenga miedo de vivir mañana.
+Parece ser la mejor elección de evolución, la capacidad de su poder está garantizada.
+[Volverse fuerte.]
+¿Hah?, ¿Qué fue eso?, unas letras aparecen en mi cabeza… ¿Voz de Dios, es usted?
+Esto es extraño en usted.
+[Volverse fuerte.] [Volverse fuerte.] [Volverse fuerte.]
+[Volverse fuerte.] [Volverse fuerte.] [Volverse fuerte.]
+¿Eh?, ¿Eh?
+[Usted debería a apuntar a ser el mejor] [Estar en la cima]
+[Como ningún otro] [Como la piedra que más brilla] [Usted debe] [Tengo muchas expectativas en usted]
+¿Es realmente la Voz de Dios?
+Porque usted…
+[[Voz de Dios] Subió a nivel 2]
+¿Ahora?, ¿Con este tiempo?
+El nivel se elevó al momento que la Voz de Dios se detuvo.
+Es como si tuviera prisa.
+Se sentía como un bug en un juego, era algo que daba miedo.
+¿Qué quiere? ¿Acaso quiere que elija al bebé?
+No siento que la Voz de Dios-chan estuviese enojada, ¿Verdad?
+Los otros monstruos parecen estar mirando a esta dirección que es lo que me produce miedo.
+Apuntar a la cima, huh…
+Eso es algo que realmente me gustaría hacer.
+Pero supongo que convertirme en un bebé debe hacerme más fuerte de lo que soy en este momento… En ese caso, creo sería lo suficientemente fuerte para protegerme a mí mismo.
+Más que a un enemigo desconocido, tengo más miedo de ir en contra de la Voz de Dios.
+Por otra parte… Si tiene alguna expectativa en mí, supongo que debería responder a ella, ¿Verdad?
+La idea de “Ser el más fuerte” me atrae.
+Yosh, me he decidido, escogeré Dragón Bebé.
+Vamos a hacerlo, esta es mi última decisión. Hagámoslo antes que me arrepiente.
+En el momento que me decidí mi cascaron comenzó a hacer ruidos de agrietamiento y a partirse.
+Se hizo considerablemente claro.
+[Habilidad Especial [Cascarón de Huevo: Lv–] ha sido perdida.]
+[Habilidad Especial [Escamas de Dragón: Lv1] ha sido obtenida.]
+[Por los efectos de la Habilidad de Título [Hijo del Rey Dragón: Lv–] el nivel de cada Habilidad de Resistencia bajo el nivel 5 ha sido elevado.]
+¿En serio?
+¿No es un buen truco?
+[Habilidad Normal [Aliento de Bebé: Lv1] fue obtenida.]
+[Habilidad Normal [Swish: Lv1] fue obtenida.] [Habilidad Normal [Mordedura Suave: Lv1] fue obtenida.]
+Oioi, mis habilidades también se incrementaron favorablemente.
+Pero esta cosa suave, ¿Cómo es útil?
+---------------------------------------------
+Raza: Dragón Bebé
+Estado: Normal Lv: 1/25 HP: 5/15 MP: 5/5 Ataque: 6 Defensa: 5 Magia: 6 Agilidad: 10 Rango: D-
+Habilidades Especiales:
+[Escamas de Dragón: Lv1] [Voz de Dios: Lv2]
+Habilidades de Resistencia:
+[Resistencia Física: Lv2] [Resistencia a Caídas: Lv3]  [Resistencia al Hambre: Lv2] [Resistencia al Veneno: Lv2]  [Resistencia a la Soledad: Lv2]
+Habilidades Normales:
+[Rodar: Lv2] [Inspeccionar Estado: Lv1] [Aliento de Bebé: Lv1] [Swish: Lv1] [Mordedura Suave: Lv1]
+Habilidades de Títulos:
+[Hijo del Rey Dragón: Lv–] [Huevo que Camina: Lv–] [Torpe: Lv2]  [Simplemente un Tonto: Lv1]
+---------------------------------------------
+Ésta es el tipo de evolución que se convierte en poderosa una vez que madura ¿no es así?
+Parece que regresé a un Lv 1.
+Bueno, fue un milagro que fuera capaz de luchar como un huevo.
+Vamos a un lago cercano, quiero ver como es mi aspecto.
+Cuerpo de color amarillo, ojos redondos, minúsculas alas con un aspecto de bebé crecen en la espalda.
+No es tan lindo.
+Pero no parece ser capaz de volar todavía, no tengo una habilidad en particular que me lo diga.
+Haciendo mi mejor esfuerzo empiezo a mover mis alas, pero solo se baten un poco.
+Después de eso mis esperanzas murieron.
+Apuntar a la cima, eh.
+Bien, me esforzaré con todo mi poder.
+
+
+
+AAA
+
+
+5- Un Enjambre de Orugas
+Puhaa, ¡Delicioso!
+¡Era tan difícil beber agua cuando era un huevo!
+¡Necesitaba desesperadamente tratar de verter agua por el agujero del huevo!
+¡Siento como si acabara de nacer! ¡Bueno, hasta ahora era un huevo!
+Comienzo a escuchar unos sonidos desagradables mientras bebía del lago.
+Giro mi cabeza para tratar de ver el origen de esos sonidos, y desde el interior del bosque veo múltiples sombras.
+[Shaaa!] [Shaaa!] [Kishaaa!]
+[Shashasha!] [Shashaaa!]
+Oioi ¿no es eso un enjambre de gusanos oscuros?
+Y parece que todos ellos se dirigen hacia acá.
+Veo por lo menos 20 de ellos.
+Un gran espectáculo.
+Ah, ¡Probablemente ellos vienen por mí!
+Si recuerdo correctamente, después de vencer al otro gusano oscuro de repente se puso de pie e hizo un último grito.
+Ahora que lo pienso, él tenía una habilidad llamada [Llamada de Grupo: Lv2]
+El último grito debe haber sido su habilidad.
+Oioi ¿pero que pasa con esta cantidad?
+Cuantas dificultades me han sido arrojadas hasta ahora… Si pienso en ello, es un milagro que mi corazón no haya saltado fuera. Incluso si es malo, ya no soy un huevo.
+Como los Gusanos Oscuros me han rodeado, comienzo a soplar aire caliente hacia su dirección.
+Esta fue la habilidad [Aliento de Bebé]
+Los Gusanos Oscuro que están en esa dirección, parecen caer.
+Está funcionando. Está funcionando.
+Como me parece haber burlado el ataque de los Gusano Oscuros, piso uno de ellos con toda mi fuerza.
+[¡Gishaaa!]
+Sigo pisándolo y lo agarro por la espalda.
+Orara ¡Vamos!
+Incluso si me muerden, no me lastiman en absoluto.
+Ya no soy el mismo que antes.
+Los Gusano Oscuro comienzan a atacar desde todas las direcciones.
+Giro mi cuerpo y salto en la dirección de uno de los Gusanos Oscuros y aterrizo en su abdomen haciéndolo caer.
+¡Y entonces uso otro [Aliento de Bebé]!
+El debilitado Gusano Oscuro muere.
+4 abajo, y 16 restan.
+¡Tengo que seguir así!
+[48 puntos de experiencia obtenidos.]
+[Debido al efecto de la habilidad de título [Huevo que Camina]. Otros 48 puntos de experiencias fueron obtenidos.]
+Huh, ¿Todavía tengo la habilidad [Huevo que Camina]?
+Pensé que la había perdido desde que no tengo [Cascaron de Huevo], ¿No era esa su característica?
+¿Eso quiere decir que voy a seguir obteniendo un bonus de experiencia?
+¿Eso no es muy tramposo?
+[El nivel de [Dragón Bebé] se elevó de 1 a 7.]
+[Habilidad de Título [Combatiente Cercano: Lv1] fue obtenida] (NT: No estoy seguro “In-Fighter”.)
+[Habilidad Normal [Puñetazo de Dragón] fue obtenida.]
+Oh, ¡Mi fuerza aumentó!
+Los Gusanos Oscuros parecen titubear, ¡Pero no voy a dejar que cualquiera de ustedes escape! ¡Todos ustedes serán mis puntos de experiencia!
+Pateo el suelo para aumentar mi salto y lanzo un puñetazo a otro Gusano Oscuro.
+Muerde mi puño, pero sus dientes no son capaces de atravesar mis escamas.
+¡Y mi golpe finalmente llega!
+¡Eso fue mi [Puñetazo de Dragón]!
+Mi puño está cubierto de fuego y rompe sus dientes, gracias a la fuerza del golpe, lo mande a volar. Otra vez salto en el aire y golpeo a otro Gusano Oscuro que estaba detrás de mí.
+[[Ajaaaaaaa!]]
+2 más abajo.
+Si continuo a este ritmo voy a terminar esto rápido.
+Venceré repetidamente lo que el destino me lance.
+Estos Gusanos Oscuros que una vez consideré un digno rival ahora no son más que mera experiencia para mí.
+[¡Kijaaaa!]
+Envié a volar al último con [Puñetazo de Dragón].
+Me tomó 5 minutos hacer frente a todos los Gusano Oscuros.
+Seguí subiendo de nivel tras nivel durante la pelea, lo que me hizo más fuerte. El más fuerte Dragón Bebé de 10 minutos de edad.
+[12 puntos de experiencia obtenidos.]
+[Debido al efecto de la habilidad de título [Huevo que Camina]. Otros 12 puntos de experiencias fueron obtenidos.]
+Como pensaba, esto es trampa ¿no?
+Mi nivel solo siguió subiendo a causa de ello.
+La siguiente evolución es en el nivel 25… Inesperadamente, podría llegar antes de lo que pensaba.
+[El nivel de [Dragón Bebé] se elevó de 14 a 15.]
+[Habilidad de Título [Combatiente Cercano] se elevó de 1 a 2.]
+---------------------------------------------
+Raza: Dragón Bebé
+Estado: Normal
+Lv: 15/25
+HP: 3/57
+MP: 1/55
+Ataque: 51
+Defensa: 35
+Magia: 48
+Agilidad: 35
+Rango: D-
+Habilidades Especiales:
+[Escamas de Dragón: Lv1]
+[Voz de Dios: Lv2]
+Habilidades de Resistencia:
+[Resistencia Física: Lv2] [Resistencia a Caídas: Lv3] [Resistencia al Hambre: Lv2]
+[Resistencia al Veneno: Lv2] [Resistencia a la Soledad: Lv2]
+Habilidades Normales:
+[Rodar: Lv2] [Inspeccionar Estado: Lv1] [Aliento de Bebé: Lv1]
+[Swish: Lv1] [Mordedura Suave: Lv1] [Puñetazo de Dragón: Lv1]
+Habilidades de Títulos:
+[Hijo del Rey Dragón: Lv–] [Huevo que Camina: Lv–] [Torpe: Lv2]
+[Simplemente un Tonto: Lv1] [Combatiente Cercano: Lv2] [Asesino de Insectos Dañinos: Lv1]
+---------------------------------------------
+Lo estoy haciendo bien~
+Recupere mis niveles perdidos, pero mi HP esta peligrosamente bajo.
+Debería tomar un descanso hasta que mi HP se recupere.
+Pero siento que mi agilidad es demasiado baja para mi nivel.
+De todos modos, no es como si quisiera especializarme en velocidad.
+Parece que conquistar la cima no será tan difícil después de todo.
+
+
+
+AAA
+
+
+6- La Señorita y el Dragón
+[¡KyaooOOo!]
+El lobo que golpeé aulló cuando lo mande a volar hasta que choco su espalda con un árbol.
+Por cierto, el nombre de este monstruo es Lobo Gris, aun si es del doble de mi tamaño fue una decepción.
+El día lentamente está terminando, supongo que este tipo será la última presa de hoy.
+[24 puntos de experiencia obtenidos.]
+[Debido al efecto de la habilidad de título [Huevo que Camina]. Otros 24 puntos de experiencias fueron obtenidos.]
+Desde que repelí al enjambre de orugas he estado atacando a otros monstruos, he apuntado a monstruos que tienen un menor estado o rango que yo, pero mi nivel no ha aumentado tan fácilmente, ni he conseguido nuevas habilidades.
+Bueno, aunque conseguí una habilidad, Habilidad de Título [Pensamiento Prudente: Lv1].
+Pero conseguir esa habilidad me hizo sentir como si estuviera siendo reprendido.
+También [Resistencia a la Soledad] e [Inspeccionar Estado] aumentaron un poco.
+Debido a que he estado inspeccionando constantemente el estado de los monstruos.
+Y sobre [Resistencia a la Soledad], no hay nada que pueda hacer sobre eso, estoy muy solo. Me gustaría hablar más con la Voz de Dios-chan.
+Han pasado 3 días desde el ataque de los Gusanos Oscuro, y mi nivel ha aumentado en 5 por lo que es 20.
+Solo 5 niveles más y voy a ser capaz de evolucionar.
+Frenéticamente cacé a los Lobos Grises de bajo nivel.
+Los de cerca al Lv6 son fáciles de vencer, no son capaces de hacerme daño. Con el que luche hace un momento era un Lv6 solitario.
+Sin embargo, me gustaría algo un poco más peligroso.
+Me gustaría entrar en una pelea imprudente, de esa manera, seguro que conseguiría la suficiente experiencia para evolucionar. Al menos eso pienso.
+Supongo que la idea es diferente de lo que pensaría en Japón.
+Pero, ¿qué pasa con eso?
+No siento como si fuese problemático seguir viviendo, de vez en cuando escucho la Voz de Dios en mi cabeza, diciéndome que me dé prisa.
+Solo dice una palabra, “Volverse fuerte”.
+No siento como si estuviera siguiendo ciegamente esa creencia, pero es más, como si alguien me estuviera jalando detrás mi cabello.
+Aunque no tengo ningún pelo en este momento.
+Aso al Lobo Gris con [Aliento de Bebé] para comerlo.
+Es maloliente y grotesco, pero esto es un festín si lo comparo con comer orugas gigantes.
+Aun así, me gustaría tener un poco de pimienta.
+????? e?e????? µ??-?p?? t? ???µa. ?a? e??a? se ??s? ?a e??aste? sta?e??!
+(¡Voy a elevar mi nombre(fama) para poder trabajar con más regularidad!)
+Eh, ¿Qué es esa voz?
+?……???, t??µa?t????
+(Estoy asustada…)
+??a? epe?d? a?a??????? µ??? t? ???? t?? µa?e?a?, ??aß?ste s?st??
+(Según el traductor inglés, tiene que ver con la magia.)
+Cuando estoy comiendo mi carne, comienzo a escuchar voces de personas.
+Los dueños de las voces parecen ser de un niño, una niña y un anciano.
+El joven parece estarse divirtiendo, mientras que la chica está asustada, y el anciano parece ser una persona modesta.
+Eh, ¿En serio?
+Todo este tiempo he estado solo, porque en el interior del bosque solo hay monstruos y no hay nadie con quien hablar por lo que sería imposible no sentirse solo.
+Hasta ahora la única cosa que más he anhelado era algún contacto humano.
+Aunque no pueda entender el idioma, siempre hay algo que puedo hacer.
+Hay lenguaje corporal, por ejemplo.
+Vamos a comer la carne de lobo lo más rápido que pueda.
+Voy a comer rápidamente y luego me uniré con ellos.
+Después de terminar, corro hacia la dirección de las voces.
+Debido a los muchos árboles entre nosotros, apenas puedo ver a un hombre usando una armadura.
+Los otros dos probablemente están cerca de él.
+[¡Gaaa!]
+Intento reunir mi voz, y de mi boca sale el rugido de un dragón.
+Agito mis grandes “manos” para mostrar que no soy peligroso.
+Parece que realmente soy un idiota, me debo ver como un tonto.
+Cuando el hombre me mira, él deja de reír y camina.
+Después de él, los otros también se detuvieron y sus figuras entraron en mi campo de visión.
+Sus voces realmente encajan con su apariencia, uno está usando una armadura, el otro una túnica y la chica realmente parece sacada de un libro de fantasía.
+Ellos estaban esperando ver al menos un monstruo, bueno, no hay nada que no pueda este mundo, es “ese tipo de mundo” después de todo.
+De cualquier modo, dejando eso de lado… ¿tuvieron éxito mis tácticas de amistad?
+El que se ve como el líder parece estar feliz de la vida… riendo.
+Mientras que ríe, saca su espada y la apunta hacia mí.
+Aunque hay distancia entre nosotros, él corta con su espada, la cual hace la ilusión de un destello blanco, y mientras el ataque se produce, va cortando la hierba a su paso.
+Porque tenía ambos brazos levantados, el ataque me impacta directamente en el abdomen.
+[¡Gaa!]
+¡Eso en serio duele! Es muy diferente a los colmillos de los lobos.
+Incluso si ya es tarde voy a inspeccionar su estado.
+---------------------------------------------
+????·???????
+[Douz Dogurmalt]
+Raza: Terrícola – Humano Lv: 14/45 HP: 38/42 MP: 11/15 Ataque: 40+12 Defensa: 28+6 Magia: 17 Agilidad: 22
+Equipamiento:
+Manos: [Espada Larga: D+] Cuerpo: [Armadura de Cobre Roja: D]
+Habilidades Especiales:
+[Lenguaje Grisha: Lv6] [Talento con la Espada: Lv2]
+Habilidades de Resistencia:
+[Resistencia a la Contaminación del Alma: Lv3]
+Habilidades Normales:
+[Shockwave: Lv2] [Flame Slash: Lv1] [Intimidación: Lv3]
+(Onda de Choque) (Cuchillada en Llamas)
+Habilidades de Títulos:
+[Soldado Principiante: Lv4]
+---------------------------------------------
+… Ya veo, ese último ataque fue [Shockwave]
+Su nombre es Douz y su raza es ‘Terrícola – Humano’… ‘Terrícola’ Supongo que esto es porque ¿Él es un humano que vive en la tierra?
+De todas formas, al parecer he sido considerado un enemigo.
+A pesar de que no tengo ninguna intención de matar.
+Mientras estoy agitando frenéticamente mis manos para mostrar que no soy peligroso, él parece estar sonriendo.
+[¡Gaa, Gaagaa!]
+Mientras Douz está riendo, lanza un segundo ataque.
+No es bueno, este chico está lleno de determinación, tengo que escapar de aquí.
+Sus niveles son altos, los tres me podrían matar en un instante.
+Desde que perdí la oportunidad de esquivarlo, tengo que protegerme con mis brazos.
+Recibo el espléndido ataque que es bastante fuerte. Después de varios ataques, levante mis brazos.
+??p?f?se?? a????? ?pe?ast???? ??e? ap?µe??e? ??a µ??a! f?? µa?e?a?a?t??a?!?
+(*NT Ingles: Algún tipo de encantamiento* Magia de Luz [Rayo]!)
+La persona mayor, saca un bastón y lo apunta a mí.
+Despiadado.
+Sus ojos solo me miran desinteresadamente, como si solo fuese una presa.
+Desde la parte posterior, una luminosa luz brilla, haciéndome cerrar mis ojos por reflejo.
+En ese momento sentí una intensa sensación de calor ir dentro de mi cuerpo.
+¿Qué es él, es un mago?
+Debido a su apariencia y al bastón, no hay otra suposición.
+Nunca pensé que había tal cosa como la magia.
+[¡Gaa!]
+Debido al dolor me caí al suelo
+[Habilidad de resistencia [Resistencia a la Magia: Lv1] fue adquirida.]
+Hago un poco de distancia entre nosotros y cambio a una posición para escapar rápidamente.
+Debería haber escapado desde el principio, así no habría ocurrido una pelea en absoluto.
+Fue mi propio descuido que los seres humanos fueran capaces de acercarse a mí.
+Y debido a mi anhelo de otra persona, fue que hice una mala decisión.
+En este momento, no soy un humano. Soy un monstruo. Esa realidad es demasiada amarga.
+Mi cuerpo se está volviendo pesado y entumecido.
+Si abro mi estado, probablemente dirá que se trata de parálisis.
+Dos de ellos se están acercando lentamente, mientras el otro parece estar corriendo.
+??e? e??a? e????t?ta p??? a?t? t? d????!?
+(¡No sean hostiles con este Dragón!)
+Escuche el grito de la señorita.
+La chica me levanta por el cuello y se posa delante de mí para protegerme.
+No entiendo lo que está diciendo, pero hay lágrimas en sus ojos, lo que hace a los otros dos detenerse.
+El anciano parece estarse rascando torpemente su cabeza, mientras Douz con una apática cara chasquea su lengua y enfunda su espada.
+¿Yo estoy a… salvo?
+La señorita se me acerca y me acaricia la cabeza.
+?????t?s? µa?e?a??p????p???
+(Magia de Recuperación [Descanso])
+La señorita parece decir algo y entonces mi cuerpo es envuelto por una apacible luz.
+El entumecimiento y el dolor en mi cuerpo se calma gracias a eso.
+Ella mira mi cara y en ese momento ríe de alivio.
+??a?????
+(¿Estás bien?)
+Esas palabras se escapan de su boca.
+Es el lenguaje Grisha, el cual no entiendo, me gustaría saber que está diciendo, pero creo entender lo que significa.
+“¿Estás bien?” dijo ella, por esas palabras revise mi cuerpo.
+Para el solitario yo, esas palabras hicieron que las lágrimas salieran de mis ojos.
+Me alegré.
+[Gaa…]
+Gracias, eso es lo que quería decir.
+Como si comprendiera el significado de eso, ella comenzó a acariciar mi cabeza.
+Douz le dice a la chica que se apure.
+La chica entonces le regresa una respuesta corta y Douz trata de decir algo de nuevo, pero el anciano lo calma.
+El viejo y Douz caminan hacia fuera del bosque, Douz chasquea su lengua.
+La chica parece haberse quedado para ver si la parálisis aún permanecía en mi cuerpo.
+Aunque los tres vinieron juntos, ¿Está bien dejarla sola?
+
+
+
+AAA
+
+
+7- El calor de una Persona
+---------------------------------------------
+????·??????
+[Miria Mileana]
+Raza: Terrícola – Humana Estado: Normal Lv: 6/70 HP: 18/20 MP: 4/20 Ataque: 12+5 Defensa: 14+2 Magia: 25 Agilidad 17
+Equipamiento:
+Mano: [Bastón de Madera Seca: F+]
+Cuerpo: [Ropas de Chica de Pueblo: F-]
+Habilidades Especiales:
+[Lenguaje Grisha: Lv5] [Talento en Magia Negra: Lv2]
+Habilidades de Resistencia:
+Habilidades Normales:
+[Rest: Lv2] [Fire Ball: Lv1]
+(Descanso) (Bola de Fuego)
+Habilidades de Título: [Mago Blanco Novato: Lv2]
+---------------------------------------------
+El nombre de la chica que me salvo parece ser Miria.
+Parece ser muy joven, supongo que alrededor de 14 años a juzgar por su apariencia y su altura, también parece tener un corte bob. (NT: Es un tipo de corte de pelo corto y que llega hasta la mandíbula.)
+Ella coloca mi cabeza en su rodilla y gentilmente acaricia mi mejilla.
+Opuesto a lo de antes, no siento como si quisiera escapar ahora, como si perdiera toda mi energía, encomiendo mi cuerpo a ella.
+Honestamente, la parálisis ya ha cesado en su mayoría, solo muevo mi cuerpo un poco y lo hago temblar a propósito.
+Esto es porque tengo miedo de que después que ella sepa que ya soy capaz de moverme de nuevo, se ira a reunir con los otros dos.
+Incluso si no entiendo sus razones, entiendo que estoy haciendo esto a causa de mi propio egoísmo.
+Entiendo, pero todavía estoy solo.
+Miria le da un vistazo a mi cara y dice algo como “Estas bien” y “Lo siento”.
+Yo no soy capaz de entender lo que está diciendo, pero de alguna manera puedo suponerlo, debido a la forma en la que está hablando y las expresiones que ella hace.
+[Habilidad Especial [Lenguaje Grisha: Lv1] ha sido obtenida.]
+¿Oh? ¿fue porque era capaz de entender un poco de lo que ha dicho?
+[Habilidad de Título [Mentiroso: Lv1] fue adquirido]
+…Realmente te gusta sacar la culpa de las personas ¿no?
+Incluso si se trata de un simple título que cualquiera tendría… ni Miria o Douz lo tienen.
+¿Por qué soy el único con este título? Además, eso es hablar mal.
+Me pregunto cuál es la razón.
+Creo que la Voz de Dios está conectada a esto, no siento que la habilidad tenga alguna utilidad.
+De todas formas, el nivel máximo de esta chica es realmente alto.
+Si bien lo máximo de Douz es Lv45 el suyo es Lv70.
+No pienso que los humanos puedan evolucionar, pero pienso que esto es lo que uno podría llamar como una persona ‘Barrera del Talento’.
+Miria y el soldado punk parecen ser capaces de llegar a ser muy fuertes en el futuro.
+Mientras actuaba herido y me aferraba a la chica, escuchamos un grito a la distancia.
+Era el viejo y Douz.
+Miria miro a la dirección y después de unos segundos me recogió y me puso en un árbol.
+Hay una diferencia entre el estado de Miria y el estado de Douz.
+Me pregunto si ella podría venir desde atrás, ahora la diferencia entre sus niveles es casi el doble.
+El grito de Douz se escucha una vez más, parece estar en un apuro, Miria se dirige a esa dirección y no hay nada que pueda hacer al respecto.
+Naturalmente, me siento agotado.
+Es probablemente, debido a [Descanso] una habilidad de recuperación que fue invocada.
+Sin embargo, no creo que ella lo utilizara.
+Hace un tiempo revise su estado y su MP estaba casi agotado.
+“Ga… gau…”
+?……ta ??µe?
+(… Adiós.)
+Eso es todo lo que ella dijo, luego Miria hizo una sonrisa solitaria.
+Después ella agito su mano y comenzó a correr hacia donde estaba la voz.
+“¡Gauu!”
+Trate de detenerla, pero cuando trate de mover mi cuerpo caí hacia adelante.
+Todavía está la parálisis. No estaba fingiendo que no podía mover mi cuerpo a propósito, lo malentendí y pensé que estaba curado, pero todavía siento dolor.
+[¡Gaaa! ¡GaAaAaa!]
+Le grite a la espalda de Miria, ella miró hacia atrás, aparentemente por mí, pero después de angostar sus ojos, ella bajó su cabeza y comenzó a correr.
+¡Por favor espera!
+Incluso si vas, ¡Estoy seguro que no serás capaz de hacer algo! Así que…
+[¡GugaaAaOOOOOoo!]
+Desde el interior del bosque, una gran voz resuena, que hace sacudir la tierra.
+Douz y los otros gritan, puedo escucharlo cerca.
+En comparación al mío, este rugido es mucho más potente y fuerte.
+Tengo un presentimiento desagradable.
+Pero cuando trato de levantarme mis pies no se mueven, ellos no se mueven.
+En primer lugar, mi HP no está ni cerca de la recuperación completa.
+Ahora debe estar en alguna parte cerca de la mitad.
+Pero si me quedo así, podría ser posible que me termine convirtiendo en la presa de algún monstruo.
+Sin embargo, apenas puedo caminar, a lo sumo me muevo tambaleante de un lado a otro, pero eso no me detiene.
+Caminando poco a poco, la parálisis parece estar cesando.
+Bueno. Si continuo así eventualmente, llegaré a ese lugar y seré capaz de moverme libremente.
+Me llevara algún tiempo, aun así, paso a paso llegare al lugar donde escucho la voz.
+Ahora que la parálisis parece estarse deteniendo, voy a comprobar mi estado.
+---------------------------------------------
+Raza: Dragón Bebé
+Estado: Parálisis (Baja) Lv: 20/25 HP: 38/72 MP: 59/68 Ataque: 61 Defensa: 46 Magia: 58 Agilidad: 42 Rango: D-
+Habilidades Especiales:
+[Escamas de Dragón: Lv1] [Voz de Dios: Lv2]
+[Lenguaje Grisha: Lv1]
+Habilidades de Resistencia:
+[Resistencia Física: Lv2] [Resistencia a Caídas: Lv3] [Resistencia al Hambre: Lv2] [Resistencia al Veneno: Lv2] [Resistencia a la Soledad: Lv3] [Resistencia a la Magia: Lv1]
+Habilidades Normales:
+[Rodar: Lv2] [Inspeccionar Estado: Lv2] [Aliento de Bebé: Lv2] [Swish: Lv1] [Mordedura Suave: Lv1] [Puñetazo de Dragón: Lv2]
+Habilidades de Títulos:
+[Hijo del Rey Dragón: Lv–] [Huevo que Camina: Lv–] [Torpe: Lv3]
+[Simplemente un Tonto: Lv1] [Combatiente Cercano: Lv3] [Asesino de Insectos Dañinos: Lv1] [Mentiroso: Lv1]
+---------------------------------------------
+Como lo pensé, mi HP esta solo en la mitad.
+El estado del oponente debe ser alto, pero si coopero con Miria y el otro supongo que podríamos repelerlo.
+
+
+
+AAA
+
+
+8- Dragón de Roca Inferior
+[¡GaaAaOOOoo!]
+El dragón frente a mi ruge triunfantemente.
+Parece que llegue demasiado tarde.
+En comparación al dragón somos pequeños, el dragón frente a nosotros tiene por lo menos 3 metros de altura.
+La mitad del cuerpo del dragón parece estar cubierta por una dura roca.
+Desde el momento en que lo vi quería escapar.
+De su silueta y sus pasos, uno puede decir que este tipo claramente no es una existencia normal.
+Mientras estaba escondido, me di cuenta que bajo uno de sus grandes pies estaba Miria, ella y los otros dos aventureros tenían sangre saliendo de ellos.
+---------------------------------------------
+Raza: Dragón de Roca Inferior
+Estado: Parálisis (Baja) Lv: 14/55 HP: 197/212 MP: 45/87 Fuerza: 168 Defensa: 224 Magia: 82 Agilidad: 46 Rango: C (El traductor ingles decidió cambiar ataque por fuerza.)
+Habilidades Especiales:
+[Escamas de Dragón: Lv3] [Buff de Fuerza*: Lv1] [Auto Recuperación de HP: Lv1] [Atributo Tierra: Lv–]
+(*Para los que no lo sepan los Buff en los juegos son efectos que aumentan alguna de las características de los personajes o enemigos generalmente es temporal en este caso la fuerza.)
+Habilidades de Resistencia:
+[Resistencia al Atributo Fuego: Lv5] [Resistencia Física: Lv3] [Resistencia a la Magia: Lv2]
+Habilidades Normales:
+[Aliento de Arena: Lv4] [Mordedura: Lv3] [Garra de Roca: Lv3] [Auto Recuperación: Lv2] [Terremoto: Lv4] [Prensa de Piedra: Lv6]
+Habilidades de Títulos:
+[Evolución Final: Lv–]
+(TL Ingles: Los kanji para esto significan algo si como “La evolución final de la persona” y pensé en darle un nombre algo así como “El que llego a la evolución final” pero decidí solo dejarlo como “evolución final” ya que se puede entender que él lo consiguió debido a que llego a la evolución final, y porque es más corto.)
+---------------------------------------------
+Hasta ahora debido al bajo nivel de [Inspeccionar Estado] no podría mostrar satisfactoriamente desde muy lejos, aun así, en este momento puedo entender claramente el estado de este tipo.
+Además de ser el doble de mi tamaño, su estado es el triple del mío.
+Cuando nuestros ojos se encontraron, comencé a ser atacado por un miedo que hizo temblar todo mi cuerpo.
+Hizo que el pensamiento de que sería capaz de ganar contra este tipo solamente conmigo y los otros tres humanos nunca cruzara por mi mente. Ninguna lesión podía ser encontrada en su cuerpo de aspecto fuerte.
+Su defensa es lo suficientemente alta, que un ataque directo no lo perturbaría.
+[¡GaaAaOOOOOo!]
+Fue un grito aburrido y bajo, pero ese mismo grito hizo que el aire en el interior del bosque temblara, después de eso vino el sonido del silencio.
+[Corre]
+[Lejos]
+[Por Favor] [Corre] [Lejos]
+[Es] [Imposible]
+Las palabras de la Voz de Dios se muestran en mi cabeza.
+Mi cerebro se siente como sacudiéndose, haciendo que me dé nauseas.
+No.
+No tengo ninguna habilidad que pueda vencer a este tipo, ninguna.
+Mi mejor habilidad es [Puñetazo de Dragón], pero contra este tipo seria ineficaz.
+De mi experiencia, incluso si le pego treinta veces en la cabeza con [Puñetazo de Dragón] con creo que eso pueda derivarlo, así es cuanta diferencia hay entre nosotros.
+Incluso si fuera a golpearlos con oscilaciones más grandes, según mis cálculos, él ni siquiera necesitara utilizar [Auto Recuperación]. En primer lugar, solo tomando la diferencia de altura, no sería capaz de apuntar a su cabeza, también mi MP no es suficiente para usar [Puñetazo de Dragón] treinta veces.
+En resumen, mis posibilidades de ganar contra el son un perfecto cero.
+Y para empeorar las cosas, los tres a quienes yo esperaba servir como una fuerza adicional, estaban tendidos en el suelo inconscientes.
+Gracias a [Inspeccionar Estado] puedo ver que ninguno de ellos está muerto, su estado muestra [Desmayados-Ensangrentados].
+Quien me protegió y tenía una amable sonrisa, también estaba perdiendo sangre mientras estaba tendida en el suelo sin expresión.
+Afortunadamente, la velocidad del oponente es baja.
+Si lo golpeo con el fin de molestarlo y alejarlo de los otros tres, espero que ellos se puedan salvar.
+Si ese es el caso.
+Recuerdo mi cierta técnica de muerte, la cual consistía en usar mi agilidad y fuerza que aprendí durante mi época de huevo.
+Me acercare con una carrera y entonces pateare el suelo.
+Sin cambiar mis manos y doblando las rodillas, haciendo una forma circular.
+Incluso cuando evolucione, sigue siendo útil la habilidad [Rodar].
+Le tiendo una emboscada al Dragón de Roca Inferior y balanceo mis brazos.
+Bien, izquierda, salto, evado espléndidamente.
+El suelo hizo un sonido como si se rompiera, pero a él no le importa, ni siquiera se preocupa por eso.
+Ahora solo me concentro en sus movimientos.
+Evado, evado, evado.
+Miro alrededor mientras busco una oportunidad.
+¡Él ataca desde ambos lados con sus garras!
+Uso mi fuerza para saltar y con eso apenas evado su ataque, por una diferencia tan delgada como el papel.
+[Habilidad de Título [Rey de la Evasión: Lv1] fue obtenida.]
+¡Aquí esta!
+Con todas mis fuerzas tacleo la dura cara de ese monstruo.
+Cuando golpeo su cara, su frente se levanta hacia atrás gracias a la fuerza.
+Después de eso caigo en el suelo e involuntariamente comienzo a rodar lejos de él.
+Parece que fue un poco efectivo.
+¡Ven! ¡Sígueme!
+Sentí una abrumadora intención asesina en mi espalda.
+Inmediatamente después de eso, el suelo en las inmediaciones se derrumbó.
+Iya, incluso yo sentí eso. Mi visión esta borrosa debido a todo el polvo alrededor. Solo veo caer los arboles frente a mí.
+¿Qué pasó?
+Esto probablemente fue su habilidad [Terremoto].
+Él debe haber golpeado fuertemente el suelo para causar esto.
+Por suerte yo estaba lejos, pero los que estuviesen cerca no estarían a salvo.
+El área de efecto de sus habilidades parece depender de la fuerza de su cuerpo, debido a que es relativamente baja, fue que me salve.
+(NT Ingles: Actualmente en esta parte las habilidades usan otro conjunto de kanji los cuales no están listados en su estado así que lo vinculo a su Terremoto. ??????.)
+Debido a que caí al suelo, el Dragón de Roca Inferior viene fácilmente a mí.
+Maldición…
+No me puedo levantar, mi cuerpo esta pesado.
+Iya, estos chicos son realmente negligentes.
+Mejor dicho, esta es una buena oportunidad. Por ahora debo permanecer obedientemente abajo.
+El Dragón de Roca se me acerca, abre su gran boca y la acerca a mí.
+Mi objetivo está adentro de su boca y con todas mis fuerzas lanzo un [Puñetazo de Dragón].
+Como mi puño entra en su boca, roza uno de sus colmillos, abriendo un corte en él, pero aun así el golpe fue un éxito.
+Como esperaba el interior de su boca no era de roca.
+[¡GugyaaAa!]
+El Pequeño Dragón de Roca llora en voz alta, mientras da pasos hacia atrás, aparentemente de dolor.
+Lo hice, lo hice.
+Eso tuvo que ser bastante doloroso.
+Sin embargo, sigue siendo imposible para mí vencer a ese tipo.
+Corro hacia los otros tres.
+Compruebo el estado del anciano, pero ya es demasiado tarde su HP es 0.
+No puedo pensar en nada por el momento, sin embargo, me alejo del anciano.
+El siguiente que encuentro es Douz.
+Con mis garras corto y abro su placa de pecho, de ella se derrama sangre.
+Y a causa de [Terremoto] parece que uno de los árboles que cayeron, aplastaron sus piernas.
+Trato de levantar el árbol con mi mano, pero no fui capaz de hacerlo.
+Es imposible solo conmigo.
+ShuuUu, se escucha un sonido, como si el agua se evaporara.
+Giro mi cabeza para mirar el origen del sonido, y veo que hay humo saliendo desde la boca del Dragón de Roca Inferior.
+Mi instinto me dice que eso debe ser su [Auto Recuperación].
+El ataque en el que arriesgué mi vida, se recuperó así no más.
+Esto es tan irrazonable.
+Es estúpidamente fuerte. ¿Es que es realmente solo un Dragón de Roca [Inferior]?
+¿En qué manera es un Dragón de Roca?
+Uso inmediatamente [Rodar] para huir, encuentro a Miria quien había caído en un sitio lejano.
+Su cuerpo estuvo a punto de ser tragado por la fisura en el suelo, la encontré demasiado tarde.
+La llevo hacia afuera, agarrándola por el cuello con mi boca, ya que mi cuerpo es demasiado pequeño para llevarla en mi espalda.
+Y entonces corro con todo mi poder.
+Corro a través del bosque con toda mi fuerza.
+Todavía soy capaz de escuchar el sonido de los humanos siendo aplastados, pero aun así nunca volteé hacia atrás.
+
+
+
+AAA
+
+
+9- Primera Magia
+Llevaba a Miria mientras corría a través del bosque.
+Pero esta vez, no estaba huyendo del Dragón de Roca Inferior, esta vez los que nos perseguían era algunos lobos grises, quienes al parecer habían sido atraídos por el olor de la sangre.
+Por otra parte, no es solo uno, varios de ellos me están siguiendo. Debe haber al menos tres de ellos.
+Podría derrotarlos si combatiéramos, pero no sé cómo protegería a Miria mientras peleo contra ellos.
+Los lobos grises no parecen venir por este camino.
+Sin embargo, un sonido débil poco natural llegó a mi oído
+Y no parece que fuese el entorno el que lo hizo, debería prepararme.
+Ya que el potencial del enemigo es desconocido, estaba considerando en salir de aquí, y cabría la posibilidad de que sea superior, como no sé si ha llamado a más camaradas. Ahora entiendo que no debería haberlo perdido de vista.
+También los lobos grises podrían olfatear si tengo alguna compañía, por lo que su próximo curso de acción seria venir.
+Tal fue la explicación de la Voz de Dios.
+Como no parece que un ataque llegue en un corto tiempo, creo que mi única opción es la de escapar.
+No puedo permitir que le suceda lo mismo a Miria, como cuando lucho contra ese tipo antes.
+Tanto su HP y MP ya son bajos.
+Además, su HP todavía se reduce de vez en cuando.
+Al principio pensaba que era mi imaginación, pero después de revisar a menudo, mi preocupación fue confirmada.
+La razón de esto debe ser debido al estado de [Hemorragia].
+Si esto continúa, a este paso no creo que sea capaz de sobrevivir por más de cinco minutos.
+Soy débil.
+Cacé monstruos de rango inferior con el fin de volverme fuerte, pero soy débil.
+No puedo luchar en absoluto.
+Finalmente había sido capaz de encontrar otros seres humanos, y con algunas dificultades hice un amigo, pero yo no podría proteger a esa persona.
+?¡Gaaa!?
+El dragón bebé rugió.
+A diferencia de el rugido del Dragón de Roca Inferior, no es capaz de amenazar al entorno.
+Esto fue para informar al desconocido enemigo que no se acerque.
+Incluso si pienso en eso, yo no podía dejar de llorar. En mi corazón había una niebla que se arremolinaba alrededor, que quería limpiar.
+Quiero ser más fuerte.
+Para ser capaz de pulverizar fácilmente a aquel extraño dragón, quiero ser así de fuerte.
+Mientras corro, siento la tibia sangre de Miria fluyendo por mi cuerpo.
+Eso significa que su cuerpo está perdiendo su fuerza vital.
+?¡GaaaAA!?
+Estoy llorando.
+Realmente quiero gritar por ayuda.
+Pero la voz que salió fue la de un feroz monstruo, a diferencia de mi lamentable baja voz.
+[Habilidad de Título [Espíritu de Socorro: Lv1] fue obtenida.]
+Incluso si recibo tal cosa… solo es un sentimiento, no puede hacer nada…
+Iya, espera… Estas “Habilidades de Título” deberían hacer esto.
+Por ejemplo, la habilidad de título [Huevo que camina] la cual dobla mis puntos de experiencia obtenidos.
+En primer lugar, uno normalmente consideraría si realmente existe tal conveniente [Habilidad]. ¿Podría eso tener algo que ver con esto?
+Oi, ¡respóndeme Voz de Dios!
+[Habilidad Especial [voz de Dios: Lv2] es incapaz de explicar.]
+¡Para de bromear!
+Su vida depende de esto.
+[Habilidad Especial [voz de Dios: Lv2] es incapaz de explicar.]
+¡No puedo creer esto!
+Tú eres quien me envió esos mensajes diciendo [Volverse fuerte] y [Corre lejos], ¡porque tú pensaste que podrías forzar tus intenciones en mí!
+Incluso si no entiendo quién eres tú, ¿no piensas que tal cosa es inflexible?
+¡No tengo más tiempo!
+[Habilidad Especial [voz de Dios: Lv2] es incapaz de explicar.]
+La misma respuesta.
+Se siente como lanzar una pelota a una pared, improductivo.
+Parecido a la sensación de un objeto sin fondo, una extraña situación.
+Voz de Dios, tú no eres útil.
+¿Qué debería hacer?
+¿Cómo puedo salvar a Miria?
+Creo, que debe haber una norma que es inconsistente en este sistema. Si sigo pensando debería ser capaz de alcanzar al menos una respuesta.
+Cuando de alguna manera fui capaz de entender lo que ella estaba diciendo, adquirí la habilidad especial [Lenguaje Grisha].
+Sin embargo, la habilidad no se ha desarrollado desde que fui capaz de obtenerla.
+Ni siquiera podía entender una pequeña parte de todo lo que ella estaba diciendo.
+Así, en otras palabras, no es lo contrario a la idea.
+Para obtener una habilidad, no depende de lo que hago, pero acerca del estado debería haber tomado notas de cómo fue cambiando, esa clase de idea.
+Es como si este mundo estuviera atado a los valores numéricos, pero no creo que esto sea completamente eso.
+Es lo opuesto.
+No creo que el estado haga al mundo, desde que el estado es más como leer los datos.
+Pero todavía hay un enigma que permanece, y esto no es una especulación, pero eso lo hace más realista en cierto modo.
+En otras palabras, las habilidades no nacen o salen de la nada.
+Por ejemplo, la estructura del cuerpo y la extensión de las capacidades de uno, ese tipo de cosas son las que afectan a las habilidades.
+Tengo poder mágico.
+Aunque no tengo ninguna práctica, pero aun así debería ser capaz de usar Magia de Recuperación.
+Iya, incluso si es imperfecta, nunca lo sabré si no lo intento ahora.
+Pongamos a Miria en el suelo.
+Recuerda, recuerda ese momento cuando ella uso su magia en mí, esa luz, esa sensación.
+Comprobé el estado de Miria, busqué la habilidad, parece que fue la habilidad [Descanso]
+Desde el interior de mi corazón rezo silenciosamente [Descanso] y trato frenéticamente de recrear el recuerdo que tengo de la magia.
+[Descanso] [Descanso].
+No es bueno, no funciona.
+¡[Descanso]! ¡[Descanso]! ¡[Descanso]! ¡[Descanso]! ¡[Descanso]!
+En ese momento fui capaz de captar una sensación.
+¡[Descanso]! ¡[Descanso]! ¡[Descanso]! ¡[Descanso]! ¡[Descanso]!
+Se sacude violentamente, se siente como si mi cerebro se estuviera sacudiendo, comienzo a cansarme.
+¿Cansado? ¿Debido al uso de la habilidad?
+Mi MP está disminuyendo, ¿Eso significa que la magia es un éxito?
+¡[Descanso]! ¡[Descanso]! ¡[Descanso]! ¡[Descanso]! ¡[Descanso]! ¡[Descanso]!
+¡[Descanso]! ¡[Descanso]! ¡[Descanso]! ¡[Descanso]! ¡[Descanso]! ¡[Descanso]!
+¡[Descanso]! ¡[Descanso]! ¡[Descanso]! ¡[Descanso]! ¡[Descanso]! ¡[Descanso]!
+¡[Descanso]! ¡[Descanso]! ¡[Descanso]! ¡[Descanso]! ¡[Descanso]! ¡[Descanso]!
+Cuantas veces la he utilizado, una cálida luz envuelve a Miria y sus lesiones comienzan a sanarse un poco.
+Está funcionando.
+Mi fuerza física está desvaneciéndose, debe ser debido al uso repetido de [Descanso].
+Mi respiración se está volviendo pesada, estos deben ser mis limites, debería comprobar mi estado.
+Parece que mi MP se convirtió en 0, y parece que el HP de Miria se recuperó un poco.
+Use todo mi MP en esto.
+Iya, sin embargo, parece que el mal estado [Hemorragia] desapareció.
+Ella fue capaz de escapar de la muerte, gracias a esto.
+[Habilidad de Título [Espíritu de Socorro] se elevó de 1 a 3.]
+La habilidad de título es buena, pero me pregunto si la habilidad [Descanso] fue obtenida.
+Se siente como que es alrededor de 1/5 del efecto original.
+Por el momento parece que no va a morir por la hemorragia, pero su HP aún está bajo, así que hay que llevarla a algún lugar seguro.
+Necesito salir del bosque con el fin de buscar un pueblo humano.
+Cuando descubrí que su HP y MP no estaba disminuyendo ya, de alguna manera mi fatiga desapareció.
+Debe haber un asentamiento humano inesperadamente cerca.
+Debería tratar de ir en la dirección de la cual Miria y los otros venían.
+
+
+
+AAA
+
+
+10- El Ataque de los Lobos Grises
+Dos lobos grises vinieron desde atrás persiguiéndonos.
+Estos chicos finalmente expusieron sus figuras a mí.
+Parece que han elegido luchar en vez de retirarse.
+Eso quiere decir que tienen una manera de obtener la victoria, es bastante peligroso.
+Entre tanto, mantienen un perfecto sentido de la distancia, me persiguen mientras se aproximan y alejan, en varias ocasiones.
+Lv7 y Lv8.
+Si es ahora, es muy probable que sea su oponente, incluso si estoy llevando a Miria.
+Sin embargo, eso es, si estamos hablando de solamente estos sujetos, naturalmente.
+No obstante, el par en frente es falso.
+Ellos están llamando mí atención a propósito, mostrándome a los dos de contextura más pequeña de la manada.
+Si parezco que tomo la provocación y retardo mi pie en contraatacar, los otros tres ocultos se mostraran.
+Ese es el movimiento estándar de estos tipos.
+Usualmente, estaría bien encargarse de unos cinco de ellos como oponentes.
+Tengo la confianza de enviar a todos ellos a volar.
+Pero, Miria está ahora en mi espalda.
+No tengo otra opción que escapar.
+¡Maldición! ¡Este es el sentido del lobo acosador!
+Aunque puedo aumentar mi velocidad para quitármelos de encima, ellos pueden alcanzarme sin falta.
+Un dragón de alto nivel podría hacer lo que quiero aquí, pero no tengo mucha resistencia debido a que agote todo mi MP usando magia de recuperación a la fuerza.
+A pesar de que sería capaz de dispersar a estos tipos usualmente… Es molesto ser inútil.
+“¡Garuaaaaaa!”
+“Gururururu……”
+“¡Gauraa!”
+“¡Gauu!”
+“¡Guoooo!”
+Los lobos aúllan.
+¿Juzgaron que no tome la provocación?, ¿O fue porque se dieron cuenta en particular, de que estaba agotado? La táctica de emboscada fue abandonada, y corren tras de mí con todas sus fuerzas con el lobo jefe de aspecto duro a la cabeza.
+También es desagradable tener a los cinco de ellos.
+La vanguardia ahora mismo son Lv7 y Lv8…… Eso está bien.
+Es una clase que puedo cazar sin daño.
+Y, los dos que tratan de coincidir con el lobo jefe en el medio son Lv10 y Lv11.
+Cuando se trata alrededor de esto, solo los cazaría si hay normalmente un margen adecuado.
+A pesar de que no sería derrotado, es debido a que existe la posibilidad de que la bestia mágica entre a sacar provecho mientras nosotros peleamos, ya que pelear es agotador.
+Y el último……. Mierda, ¡Es el lobo jefe de Lv15!
+Es la primera vez que veo un lobo gris de alto nivel.
+Es un oponente que ignoraría incluso si estoy en un perfecto estado.
+Ahora que mi cuerpo esta pesado, cubierto de lesiones y mi MP es 0, es algo con lo que nunca quisiera pelear.
+Aaah, ¡Mou! ¡Qué persistente!
+A pesar de que estoy haciendo desesperados esfuerzos por correr, la distancia se acorta rápidamente.
+El lobo jefe es malditamente rápido.
+Miré su estado, pero su velocidad es aproximadamente similar a la mía.
+Incluso tiene el título llamado [Cazador del Bosque].
+Este tipo es un considerable compañero entre los lobos grises.
+Afortunadamente, la distancia entre el lobo jefe y sus seguidores es bastante amplia.
+Es una apuesta peligrosa, pero quizás, es posible derrotar al lobo jefe aun mientras protejo a Miria.
+Solo entrara en un frenesí incluso si uno de sus seguidores es derrotado, pero debería ser capaz de escapar si aplasto a su líder.
+Si no es posible escapar, como máximo atacaré.
+Quería tomar el ataque preventivo con el confiable aliento, pero como no tengo MP, no hay otra opción que intercambiar golpes.
+A pesar de que estaría mintiendo si digo que no estoy inquieto sobre la defensa de Miria, no hay otro método si voy por un ataque, dado que es eso o escapar.
+Si considero el asunto del dragón de roca inferior con claridad, la difícil situación de ahora, podría ser la primera vez que soy llevado a una esquina.
+Aumento mi velocidad de una vez.
+Abriendo la distancia del jefe y el lobo seguidor, de modo que ellos no interrumpan la batalla.
+Esta más allá de mi poder cuando se convierta en una batalla grupal.
+Aunque tenía la posible esperanza de sacudirlos acelerando, no es una historia tan afortunada.
+Sin embargo, no esperaba demasiado.
+Disminuyendo mi velocidad rápidamente, me detengo y miro hacia atrás después de saltar sobre la rama de un árbol cercano.
+El lobo jefe estaba desconcertado por mi movimiento inesperado.
+Pisoteo la cabeza del lobo jefe, pisando la rama y saltando hacia abajo.
+“¡Gyan!”
+Le di un duro golpe con todas mis fuerzas sin reservarme, a la parte posterior de la cabeza que quedo expuesta.
+Pateando al lobo jefe que pise, mientras fulmino con la mirada a los seguidores que trataban de alcanzarnos, salto hacia atrás con ese retroceso y comienzo a correr una vez más, cambio de dirección sin matar el impulso.
+Esto fue de acuerdo a la imagen simulada en mi cabeza, pero solo había un error de cálculo.
+“¡GUOOOOO!”
+Yo no fui capaz de matar al lobo jefe.
+No obstante, si lo extendía más que eso, no sería capaz de eludir los ataques de los seguidores.
+Esto no se puede remediar.
+Probablemente es debido a mi fatiga, parece que la fuerza de mi ataque no logro más de lo esperado.
+Aunque sería bueno incluso si se hubiera desmayado, el lobo jefe está furioso.
+Recupera su postura rápidamente, me mira ferozmente con los ojos rojos. Con una velocidad superior a la de hasta ahora, me persigue después de enviar a volar a un seguidor que se precipito con un golpe de sus garras.
+El lobo jefe excava el suelo con sus garras y acelera violentamente, ignorando su resistencia.
+Su estado se convirtió en [Ira]
+Todavía le queda alrededor de un cuarto de su HP.
+La distancia que conseguí con mucho esfuerzo es acortada de nuevo.
+¿Qué debería hacer?, ¿Puedo de algún modo atacar de nuevo?
+Tenía una ventaja en este momento, como estaba mostrando la postura [Estoy escapando].
+Si nos encontramos cara a cara de nuevo, no necesariamente, sería capaz de obtener la iniciativa.
+También es un problema que los peligrosos movimientos del oponente sean difíciles de leer debido al efecto de [Ira].
+Si tomo un simple golpe, llegaría a ser bastante grave en mi condición actual.
+Mi HP esta así y también es la situación de Miria.
+Si hubiera MP para el [Aliento de Bebé]……… No puedo entrar en lamentaciones.
+Girando mi cuerpo en el aire tras saltar, cambio mi curso de repente, al patear un árbol con mis piernas traseras.
+Sin embargo, el cuerpo de Miria es arrastrado por la fuerza centrífuga, perdí mi equilibrio, cayendo de espalda. Esto es malo.
+“¡GUOOOOo!”
+El lobo jefe ataca con sus garras.
+Como resultado de moverme diagonalmente hacia abajo, lo recibí de frente, desde mi pecho a mi estómago.
+Casi suelto a Miria y la cargo de nuevo en mi hombro.
+Como si se burlara de mí, desvió su conciencia del enemigo en frente de sus ojos, presiona con otro.
+Un golpe reverso diagonal de la garra.
+“¡Gahaaa!”
+A pesar de que me protegí con mi hombro, la herida es profunda.
+El segundo lobo más rápido en la manada se acerca, y se va aproximando por mi espalda.
+Giro mi cuerpo a la vez, recibo un golpe en mi cara desde mi punto ciego.
+Eso fue peligroso, Miria por poco muere.
+Arrojo a Miria al suelo.
+Incluso si el daño cuando aterrice fuese grave en ella actualmente, era necesario separarla de este lugar.
+Yo, quien se volvió ligero, esquivo los ataques que vienen desde mi frente y espalda, y envío a volar al lobo jefe con un golpe en su nariz con todas mis fuerzas.
+El HP es 0, está confirmado. Su muerte es segura esta vez.
+[60 puntos de experiencia obtenidos.]
+[Debido al título [Huevo que Camina: Lv–], se obtuvieron 60 puntos de experiencias adicionales.]
+[El nivel de [Dragón Bebé] se elevó de 20 a 22.]
+Haa……Haa, estoy bastante cansado.
+Aunque es bueno que mi HP se recupere cuando subo de nivel.
+Intente levantar mi puño, pero mi brazo no subía.
+“¡GuoooooO!”
+Mi hombro fue mordido por el lobo seguidor que surgió desde mi espalda.
+Lo agito hasta que me suelta, lo pateo lejos. Trato de cargar a Miria y correr de nuevo.
+Parecen haber percibido que me había debilitado considerablemente, y los lobos no se detendrán de cazarme.
+A pesar de que deberían estar asustados si derrotaba al lobo jefe, ¿es debido a que no fui capaz de derribar al lobo que me mordió al final? Parece que se burlan de mí.
+Mi conciencia está débil ya que solo tengo una pequeña cantidad de HP.
+Me duele la cabeza.
+La herida de la garra es dolorosa.
+Es doloroso en mi hombro donde fui mordido.
+Mis pies progresivamente se hacen más pesados.
+“¡Gaaa!”
+El lobo que me alcanzo extiende sus garras a mi espalda.
+Tuerzo mi cuerpo para proteger a Miria de sus garras, recibo el ataque.
+Debido a que mi cuerpo se volvió pesado inevitablemente cuando tal cosa se llevó a cabo, mi conciencia se desvanece de repente por un momento.
+Estos tipos no son tan amables como para pasar por alto esta oportunidad.
+Limpiamente.
+Escucho el sonido de carne siendo arrancada desde mi espalda.
+Ah, ¿Me muero?
+Extrañamente, no hay dolor. Es posible que así sea.
+¿Huh? Pero mi cuerpo todavía se mueve y también hay sensación en mi espalda…… ¿Huh?
+Despertando mi cerebro que había perdido su pensamiento normal, me di cuenta después de un lapso.
+El cuerpo que ha sido arrancado, fue el de Miria.
+Su HP baja drásticamente una vez más, y tenía un mal estado, el mismo estado anormal de [Derramamiento de Sangre].
+Su vida que de alguna manera logre vincular, comenzó a perderse otra vez.
+Pierdo el conocimiento, grito.
+Los cuatro lobos se retiran medio paso, como si sintieran algo.
+[La condición se convirtió en [Ira]].
+
