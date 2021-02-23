@@ -1,0 +1,1308 @@
+21 Es solo el comienzo
+Nombre de la misión: El principio de los principios
+
+Nivel recomendado: ???
+
+Tamaño recomendado del grupo: 6
+
+Rango de la misión: SSS
+
+Objetivo de la misión: La 'Reliquia del poder' es un objeto divino que no debe estar en manos de los mortales, ya que contiene el poder de corromper al más fuerte de los seres. Gilidore ha abierto al guardián del firmamento y los ha corrompido con la 'Reliquia del poder'. Si se permite que Vozrak se corrompa por completo, no se sabe qué será del mundo entero. Debes poner fin a esto antes del día de los comienzos. Aventurero, sepa que esto es solo el comienzo.
+
+Límite de tiempo: 90 días
+
+Parte 1:
+
+-0/1 Encuentre pistas sobre los antecedentes de Gilidore.
+
+-0/1 Encuentra la página perdida que pertenece al 'Libro de los comienzos'.
+
+Recompensas:
+
+-Gana +3 niveles
+
+-10 monedas de oro
+
+-Gana +3 puntos de habilidad
+
+-Gana +300 de fama mundial
+
+-Un equipo de rango épico
+
+Penalización por falla:
+
+-Perdir -3 niveles
+
+-Perder -300 de fama mundial
+
+-Destrucción de la capital Amaharpe
+
+Nota especial : Esta misión se puede compartir con hasta 5 jugadores más.
+
+Mientras Izroth leía la información de la misión, una expresión extraña se formó en su rostro. Fue una fusión de emoción, confusión y un poco de pesar. Izroth no era tonto, entendía que esos dos jefes eran únicos y probablemente serían muy difíciles de encontrar de nuevo en un futuro cercano. ¡Uno era un jefe épico mientras que el otro era legendario! Después de enfrentarse a varios jefes en un corto período de tiempo, examinar el cadáver del 'Duende Misterioso' cuando entró en la habitación, y cómo esos dos se revelaron; Fue mucho más fácil reconstruir con precisión cómo funcionaban los jefes de este juego.
+
+"Si estoy en lo correcto, entonces los jefes deberían tener una clasificación similar a la del equipo. La única diferencia es que parece común y poco común que sean monstruos jefes normales como el 'Goblin Foreman Rthuja' y el 'Goblin King's Commander Jruloja'. El 'Mysterious Goblin' era un jefe raro, Gilidore se convirtió en un jefe épico usando el poder del legendario jefe Vozrak. Los jefes mundiales pueden caer en la misma categoría, pero solo he conocido a uno por ahora, así que no puedo decirlo con certeza. ... "Izroth estaba juntando todo rápidamente para darle sentido a todo.
+
+Izroth se sintió emocionado debido a las diversas recompensas que recibiría si lograba completar la misión del mundo. Lo más valioso fue definitivamente ese equipo de rango épico, ya que lo ayudaría a fortalecerse con solo equiparlo. Sin embargo, podría sufrir una pérdida tremenda si falla no solo perdiendo 3 niveles y 300 de fama mundial, sino que, si invirtió demasiado tiempo en la búsqueda, entonces es posible que su velocidad de nivelación disminuya y llegue con las manos vacías. todo.
+
+La fuente de su confusión provino principalmente de tres cosas. El primero fue encontrar pistas sobre los antecedentes de Gilidore. No tenía idea de dónde era Gilidore ni por dónde empezar, así que, ¿cómo se suponía que iba a encontrar pistas sobre sus antecedentes? El siguiente fue encontrar una página perdida del 'Libro de los comienzos'. Una vez más, ¡ni siquiera sabía por dónde empezar a buscar algo con ese nombre! Era como si el juego quisiera que fallara al no dejarle ningún indicio. Lo último fue la destrucción de la capital, Amaharpe. Izroth no poseía absolutamente ningún conocimiento de un lugar llamado Amaharpe, entonces, ¿por qué era tan importante que fuera un objetivo potencial de destrucción? Había demasiadas cosas poco claras y preguntas sin respuesta, Izroth solo pudo suspirar y sacudir la cabeza un poco.
+
+
+¡La razón por la que se arrepintió, fue el hecho de que aún no era lo suficientemente fuerte como para luchar contra un jefe épico o legendario! ¿Cómo podría no sentirse frustrado por su propia falta de fuerza? Aunque si cualquier otro jugador lo escuchara decir eso en este momento y supiera de las habilidades que tenía, querrían estrangularlo hasta la muerte. Si le faltaba fuerza, ¿qué les quedaba por falta?
+
+En cuanto a aceptar la misión del mundo, ¿qué pasaría si hubiera sanciones por fallar? En el camino del cultivo, el fracaso a menudo significaba una muerte segura. ¿Cómo podía temer esas penas más que a la muerte? ¡Por supuesto, aceptaría la misión!
+
+¡Timbre! ¡La misión mundial 'El comienzo de los comienzos' ahora está activa en tus registros de misiones!
+
+¡Timbre! ¡Se ha iniciado el límite de tiempo de la misión de 'El comienzo de los comienzos'! ¡Quedan 90 días!
+
+Izroth lanzó un pequeño suspiro de alivio. Con esto, todo quedó arreglado por ahora y finalmente pudo salir de este lugar después de haber obtenido muchos beneficios. Cuando Izroth comenzó a alejarse y regresar hacia el lugar de donde vino originalmente, un fuerte zumbido resonó en sus oídos, lo que hizo que se detuviera repentinamente. Era como si algo pidiera atención a gritos y no quisiera quedarse atrás.
+
+No pasó mucho tiempo antes de que Izroth encontrara la fuente del ruido. Se colocó un solo artículo pequeño en forma de orbe brillante en el suelo donde Vozrak y Gilidore habían entrado a través del vacío. Izroth se dio la vuelta y dio un paso en la dirección de ese pequeño objeto orbe, llegando ante él y agachándose para tomarlo en su mano. ¡Cuando inspeccionó el artículo, se dio cuenta de que, después de todo, había dejado una pequeña pista!
+
+Nombre del objeto mágico: Regalo de Vozrak
+
+Rango de objeto mágico: S
+
+Objeto mágico HP: 8 (Indestructible)
+
+Objeto mágico ATK: 0
+
+Objeto mágico DEF: 0
+
+Uso: Si el usuario de este objeto está cerca de una página del 'Libro de los comienzos ', los llevará directamente a él. Este artículo puede almacenar correctamente las páginas del 'Libro de los comienzos' y ocultar su increíble energía.
+
+Alcance de detección: 1.000 metros
+
+Nota especial: este artículo no se puede comerciar ni vender. Si una página del 'Libro de los comienzos' no se guarda dentro de este artículo dentro de los 90 días, se romperá y se convertirá en nada.
+
+"¿Un objeto mágico indestructible de rango S?" Izroth murmuró para sí mismo en voz baja. Desde que comenzó su viaje dentro de esta cueva, ha habido una sorpresa tras otra. Cuando Izroth comenzó a jugar este juego, creía que iba a ser aburrido y aburrido. Después de todo, solo se trataba de correr y matar cosas, ¿verdad? Pero incluso él tuvo que admitir que pudo haberlo juzgado demasiado pronto. Cada vez que Izroth creía que tenía algo resuelto, ocurría otro evento que alteraba la noción ya preconcebida que se formó de antemano.
+
+Izroth guardó el 'Regalo de Vozrak' en su inventario antes de mirar la habitación una vez más. Después de no encontrar nada más, decidió que finalmente era hora de irse de este lugar tan pronto como terminara una última cosa. "La llave de la calavera ..." Izroth sacó una llave con forma de calavera de su inventario. Era la misma llave que le robó al 'Goblin Archer' hace un buen rato en esa habitación llena de trampas.
+
+Izroth ya había mirado por toda esta sala y la sala del jefe. Tampoco había puertas en esa enorme área de campo abierto donde se ubicaban los orbes rojos. Entonces, ¿qué puerta podría abrir esta 'Llave Calavera'? ¿Había algo que extrañaba? Izroth simplemente negó con la cabeza, "Si no está destinado a ser, entonces no está destinado a ser". Justo cuando se estaba preparando para devolver la llave a su inventario mientras se movía fuera de la habitación dentro de la pared de piedra, la 'Llave del cráneo' tembló ligeramente en su mano antes de salir volando.
+
+Unos momentos después, se escuchó un pequeño tintineo, como si algunos engranajes estuvieran cambiando a su lugar. Izroth tenía una mirada de desconcierto en su rostro mientras veía la llave levitar en el aire sobre el espacio donde la luz roja y brumosa de esos extraños tótems convergían.
+
+"Esta...?" Izroth corrió y se paró directamente frente a la llave y cuando extendió la mano para agarrarla, apareció una línea en el medio del aire y se abrió lentamente como si fuera una puerta. Lo que más lo sorprendió fue que algo así como un 'Goblin Archer' de élite al azar sostenía una llave que abría una puerta extraña dentro de la sala del jefe.
+
+Cuando la puerta se abrió, una luz brillante centelleó cegando a Izroth, lo que hizo que entrecerrara los ojos cuando una fuerza fuerte lo empujó hacia adentro mientras la puerta se cerraba con fuerza después de que él entrara. La 'Llave Calavera' que flotaba en el aire desapareció y la puerta que acababa de abrirse no se veía por ningún lado.
+
+Por un momento, Izroth sintió como si estuviera flotando justo antes de aterrizar sobre sus pies sin mucho problema. Cuando la luz cegadora se desvaneció, dejó de entrecerrar los ojos y su visión se volvió clara una vez más. Frente a él estaba el área de la cascada donde comenzó su viaje hacia la mazmorra 'Goblin's Paradise'.
+
+"Así que resulta que la 'Llave de la Calavera' no dio ningún tesoro, sino que solo permite que uno regrese al comienzo de la mazmorra" pensó Izroth para sí mismo. Aunque, estaría mintiendo si dijera que no estaba un poco decepcionado por ese resultado.
+
+Una leve sonrisa apareció en el rostro de Izroth cuando la cascada comenzó a dividirse frente a él. Se formó una pista clara que conducía directamente al área donde se encontraba la mazmorra. Aunque no tenía idea de que después de que alguien despejara una mazmorra en RML por primera vez, ya no permanecería oculta y se revelaría a todos.
+
+Izroth ya no tenía nada más que hacer aquí, por lo que era hora de que regresara a 'Opal Town'.
+
+...
+
+Por el momento, Izroth no tenía ni idea de lo famoso que se estaba volviendo entre los jugadores de RML. No hace mucho estuvo en una fiesta de 3 hombres que eliminó al primer jefe mundial. ¡Solo unas horas después de eso, logró despejar una mazmorra completa por sí mismo y fue una que fue el primero en descubrir! Todos tenían curiosidad por saber quién era este jugador y por qué no pertenecía a ninguno de los grandes gremios o equipos profesionales.
+
+Solo un puñado de personas conocieron a Izroth hasta ahora y fueron Luna, Halls, Mick, Ryder y Tina. Así que no había mucha información para continuar ya que Mick solo habló con uno de los siete capitanes del gremio 'Blue Oasis', Niflheim sobre él. En cuanto a Ryder y Tina, naturalmente seguirían a Mick. Luna y Halls simplemente decidieron guardar silencio sobre toda la situación, incluso de los miembros del grupo original en el que estaban. Sabían lo poderoso que era Izroth y por eso no hablarían descuidadamente de él a sus espaldas.
+
+Si bien la mayoría discutía alegremente sobre Izroth, había algunas personas que no estaban satisfechas con la atención que estaba recibiendo. Sentían que era inmerecido y se suponía que toda esa atención les pertenecía. Por supuesto, fueron Mick, Ryder y Tina. Niflheim le encargó a Mick que se ocupara de que Izroth llegara a 'Opal Town' y que le informara de inmediato si regresaba. Prometió solucionar el "problema" para siempre. Esto hizo que Mick se sintiera extremadamente confiado, ya que ahora tenía un respaldo tan grande.
+
+Una sonrisa maligna apareció en el rostro de Mick mientras hablaba con Ryder y Tina, "Hah, ese novato mejor reza para que se mantenga alejado de 'Opal Town' o de lo contrario solo estará caminando hacia su propia desaparición. Incluso si matar no lo es. permitido en una zona segura, si se niega a irse no podrá subir de nivel. Si eso sucede, jeje, podemos matarlo cuando queramos cuando nos volvamos aún más fuertes ".
+
+"¡Hmph! ¡Se lo merece por intentar jugar con nosotros!" ¡Tina tenía una sonrisa de alegría en su rostro como si no pudiera esperar a ver el espectáculo!
+
+Ryder se rió un poco mientras sus ojos se volvían fríos. Fue el primero en ser asesinado por Izroth, así que, por supuesto, lo odiaba hasta la médula.
+
+"¿Oh? ¿Qué está haciendo aquí esta pila de basura? ¿Podría ser que no ¿Aprendiste tu lección la última vez? ¿O has venido a pedir perdón? "
+
+Mick, Ryder y Tina escucharon de repente una voz extremadamente familiar que venía de su lado.
+
+"Eres tu...!" La expresión facial de Mick se volvió extremadamente fea cuando vio a la persona que se atrevió a hablarles de esa manera. Pero poco después, no pudo controlar su felicidad al pensar en lo que pronto le sucedería a esta persona ante él cuando una enorme sonrisa se formó en su rostro. ¡Izroth, finalmente, regresó a 'Opal Town'!
+22 Regresando a Opal Town
+Mick volvió la cabeza hacia Ryder y asintió un poco. Ryder sabía lo que esto significaba y asintió levemente antes de salir corriendo. Mick volvió a poner su atención en Izroth cuando una mirada fría invadió sus ojos y una sonrisa irritable apareció en su rostro. Cruzó los brazos e inclinó la cabeza hacia atrás como si estuviera mirando a Izroth. "Bien, bien, me alegro de que hayamos logrado encontrarnos de nuevo. Algunas personas piensan que solo porque tienen un poco de suerte y fuerza, pueden hacer lo que quieran. Eh, déjame decirte novato, el segundo regresaste a 'Opal Town' en el momento en que tu destino fue sellado. El capitán del 'Oasis Azul' se ocupará de ti ".
+
+Izroth frunció el ceño cuando vio lo arrogante y confiado que estaba actuando Mick. "Parece como si todos los reinos tuvieran personas con ojos que todavía se niegan a ver". pensó para sí mismo y solo pudo negar con la cabeza ante este pequeño acto.
+
+Izroth ya estaba siendo generoso al no tomar más medidas contra Mick y su grupo de basura, pero ahora aquí se estaba creando problemas.
+
+Cuando Tina vio la expresión del rostro de Izroth, pensó que estaba asustado por la idea de que un capitán de un gran gremio como 'Blue Oasis' viniera detrás de él. "Es demasiado tarde para arrepentimientos ahora. Deberías haber sabido que este sería el único resultado de que nos cruces. Por supuesto, si te inclinas ahora mismo y te disculpas, tal vez podamos perdonarte" una hermosa sonrisa floreció en el rostro de Tina. , pero detrás de esa sonrisa había un corazón helado. ¿Perdonaría a Izroth si se disculpaba y se inclinaba? Eso simplemente no era posible en absoluto. Había demasiada enemistad entre ellos, ella solo quería verlo suplicar misericordia y luego aplastar todas sus esperanzas de escapar después de avergonzarse a sí mismo.
+
+Izroth parpadeó un par de veces mientras los miraba a los dos y pensó para sí mismo: "Estos tipos ... ¿son unos idiotas?" no podía creer las palabras que le decían. ¿Capitán del 'Oasis Azul'? ¿Quién demonios son ellos? ¿Demasiado tarde para arrepentirte? ¿Inclinarse y disculparse por el perdón? ¡Cómo podrían ser otra cosa que unos completos idiotas! ¡Idiotas! Toda esta situación le recordó cuando era un joven cultivador en los siete reinos que apenas comenzaba a hacerse un nombre. Un día estaba comprando un artículo, y poco después se encontró con un cultivador al azar. No tenía ningún tipo de respaldo y, por lo tanto, ese genio cultivador autoproclamado pensó que sería fácilmente intimidado por el artículo que adquirió. Digamos que ese cultivador no tuvo un buen final ...
+
+"Sabes, para ser completamente honesto, ni siquiera recuerdo tus nombres. Me había olvidado por completo de tus insignificantes existencias. Sin embargo, como has tenido la amabilidad de recordarme, déjame que les recuerde algo a los dos también. .. Hay ciertas personas a las que puedes y no puedes permitirte ofender, pero hay pocas a las que ni siquiera deberías soñar con ofender ". Izroth ya había lidiado con este tipo de tonterías durante sus años de juventud como cultivador en su camino hacia la cima. No le importaba qué tipo de respaldo tuvieran entonces y no le importa ahora. Quien intente bloquear su camino hacia adelante será eliminado sin piedad, ese es el camino de la cultivación.
+
+
+Mick miró a Izroth con una expresión fría, "Está bien, no tienes que recordar nuestros nombres. Después de hoy, no podrás pensar en nada más que en lo que podrías haber hecho para evitar lo que está a punto de suceder. "Mick estaba tratando de burlarse de Izroth para que no huyera. Sabía lo agresiva que era su personalidad, así que decidió intentar engañarlo y enfurecerlo para que se quedaran quietos el tiempo suficiente para que llegara Niflheim. Poco sabía Mick que Izroth nunca planeó huir para empezar.
+
+En la distancia, se podía ver a Ryder caminando detrás de alguien de manera respetuosa. Le estaba dando a la persona en el frente direcciones hacia donde se encontraba Izroth. Detrás de esa persona había otro jugador con una mirada fría en el rostro. El que estaba al frente era Niflheim y el otro jugador con ellos era Olohas, a quien Mick originalmente le contó su historia "trágica".
+
+Cuando Mick vio que Ryder regresaba con Niflheim, se volvió mucho más audaz y decidió hacer un espectáculo de las cosas. "¡Izroth! ¡Ahora que un poderoso capitán del gremio 'Blue Oasis' está aquí, no hay ningún lugar al que puedas correr!" Mick estaba gritando a propósito, tratando de llamar la atención sobre ellos. Por supuesto, cuando la gente escuchó los nombres 'Izroth' y el título 'Capitán del Oasis Azul', no pudieron evitar estar interesados ??en lo que estaba pasando.
+
+"¿Qué está pasando? ¿Izroth va a pelear contra un capitán del 'Oasis Azul'? Esta es la primera vez que lo veo ... ¿Está loco?"
+
+"Creo que tiene muchas posibilidades de ganar. ¡Venció al primer jefe mundial y despejó una mazmorra él solo! No creo que ni siquiera un capitán de 'Blue Oasis' pueda hacer algo así".
+
+"Tonto, ¿no lo sabes? ¡Izroth no está en ningún gremio! Eso significa que lo más probable es que sea un jugador en solitario sin apoyo. No importa lo fuerte que sea, ¿cómo puede ir contra 'Blue Oasis' que tiene miles de jugadores? ? "
+
+La multitud se estaba reuniendo cerca para ver los eventos y hablar entre ellos sobre quién ganaría en una pelea entre Izroth y un capitán de 'Blue Oasis'.
+
+Mick estaba muy satisfecho con la forma en que las cosas se intensificaron. "Ese novato nunca podrá volver a mostrar su rostro después de esta humillación ..." Mick contuvo la risa, quería reír de alegría por finalmente obtener su venganza contra Izroth.
+
+Niflheim frunció el ceño cuando vio que Mick estaba atrayendo intencionalmente a una multitud para presenciar lo que estaba sucediendo. Cuando llegó, lo primero que notó fue un par de ojos mirándolo. Esos ojos eran feroces, parecidos a los de una bestia. Fue Izroth quien lo evaluó. "¿Oh? Eso no parece un cobarde que atacaría a escondidas en absoluto ..." pensó Niflheim para sí mismo mientras también se tomaba el tiempo para evaluar a Izroth.
+
+Cuando Mick vio a los dos mirándose el uno al otro, trató de aprovechar esta oportunidad para instigar cosas. "¡Respetable capitán Niflheim! Esta persona aquí es Izroth, de la que les conté todo, quien cobardemente nos atacó furtivamente y nos robó el primer jefe mundial. ¡Es completamente descarado!" Mick dijo alzando la voz para que todos los que lo rodeaban pudieran escuchar claramente las palabras que dijo.
+
+La multitud comenzó a murmurar y susurrar entre ellos.
+
+"Nunca supe que Izroth era una persona así, y pensar que realmente comencé a respetarlo".
+
+"Idiota, ¿no ves que ese tipo obviamente está mintiendo? Quiero decir, vamos, ¿no se habría escapado un cobarde ahora ya que es una zona segura?"
+
+"¿Eh? ¿A quién le importa ese tipo? Solo quiero ver al capitán del 'Oasis Azul' e Izroth. Además, ustedes deben tener curiosidad acerca de su fuerza para eliminar un jefe mundial y luego una mazmorra completamente solos. ¿derecho?"
+
+Todos tenían opiniones diferentes con respecto al asunto, pero una cosa era casi la misma en todo. ¡Querían ver a Izroth luchar contra Niflheim!
+
+"Qué divertido ..." se dijo Izroth antes de apoyar la mano en la empuñadura de su 'Espada sin nombre'. "¿Dices que soy una persona cobarde que lanza ataques furtivos para ganar? ¡Entonces ven y pelea conmigo, los tres juntos!" Izroth gritó lo suficientemente fuerte para que todos lo escucharan mientras señalaba a Mick, Ryder y Tina.
+
+Los tres rostros se volvieron extremadamente horribles. Ellos entendieron lo poderoso que era Izroth y no tenían ninguna posibilidad. Es precisamente por eso que invitaron a un capitán del gremio 'Blue Oasis'. ¿Serían tan estúpidos como para dejar de lado su ventaja sobre Izroth y dejar que se saliera con la suya?
+
+"¡No tienes nada que decir aquí! Tienes que dejar-" Mick estaba hablando cuando de repente fue interrumpido por una voz detrás de él.
+
+"¡Está bien, es suficiente!" Niflheim fue quien habló e interrumpió a Mick en medio de la conversación. "No debería ser un gran problema para ustedes tres a la vez enfrentarse a la persona que los atacó por sorpresa. Esta vez, todo es justo y no hay ataques sorpresa". Niflheim tenía una mirada fría y distante en sus ojos mientras observaba los eventos que se desarrollaban ante él. "Tú tampoco tienes ningún problema con eso, ¿verdad?" dijo mirando hacia Izroth con una expresión mucho más amigable que la de Mick y sus amigos.
+
+Izroth miró fijamente a Niflheim por un momento antes de asentir levemente. No parecía que Niflheim fuera a interferir. De hecho, incluso parecía que los estaba empujando directamente hacia Izroth para tratar con ellos como mejor le pareciera.
+
+Mick se sorprendió un poco cuando escuchó la respuesta de Niflheim, sintió un escalofrío correr por su espalda. "R-capitán respetable ... Un bastardo tan descarado no merece justicia, debería ser castigado y-" mientras Mick trataba de hablar elegantemente para salir de las cosas, Olohas de repente habló desde detrás de Niflheim.
+
+"¿Estás tratando de cuestionar el juicio de mi capitán? ¡Deberías elegir tus próximas palabras con mucho cuidado!" ¡Olohas ya estaba echando humo de rabia por dentro incluso por creer una historia tan estúpida! Ahora su capitán cuestionaría su juicio en el futuro y podría dificultarle avanzar más en la jerarquía del gremio. Todo porque estaba tratando de hacer lo correcto e impresionar a su capitán mostrando su lado de la justicia, pero ahora salió como un tonto ignorante. ¿Cómo no podía estar hirviendo de ira por dentro con Mick?
+
+Mick se tragó el resto de las palabras por su garganta. Todo estaba bien, todavía tenía el respaldo del 'Oasis Azul'. Ellos intervendrían y lo defenderían si las cosas se salieran de control, ¿verdad? Izroth no se atrevería a matarlos con Niflheim presente a menos que él mismo tuviera un deseo de muerte. Sí, eso fue todo ... ¿Por qué estaba tratando de cuestionar el juicio de un capitán de 'Blue Oasis'?
+
+Mick miró a Ryder y Tina antes de hacer un pequeño gesto hacia ellos. "¡Muy bien, aceptamos tu desafío! Es demasiado para suplicar piedad, y ahora lamentar tus acciones".
+
+Izroth tenía una sonrisa en su rostro, mirando hacia abajo a Mick y su grupo con desdén. Basura como esa ni siquiera merecía su atención, pero algunas personas solo podían aprender por experiencia propia. Luego comenzó a caminar fuera de la zona segura y hacia el área abierta inicial frente al 'Bosque Willowed'. Niflheim, Olohas, Mick, Ryder y Tina siguieron a Izroth. Una gran parte de la multitud decidió seguirlos también, ya que ya habían pasado tanto tiempo aquí que querían ver a alguien pelear al menos. El PvP no sucedió mucho tan temprano en el juego, por lo que presenciarlo al aire libre como esto era bastante raro en este momento. Tan pronto como Izroth llegó fuera de la zona segura, se activó una alerta del sistema.
+
+¡Timbre! ¡El jugador Izroth ha abandonado la zona segura y ahora puede ser atacado!
+
+Izroth sacó su 'Hoja sin nombre' de su funda y la sentó perezosamente sobre su hombro derecho con una expresión despreocupada en su rostro.
+
+Mick y su grupo también abandonaron la zona segura y tan pronto como lo hicieron, Ryder entró en modo sigiloso, preparado para la batalla. Niflheim y Olohas se encontraban en el mismo borde de la zona segura, no se podía saber por completo si estaban dentro o fuera de la zona segura en ese momento.
+
+"Ustedes tres deben saber algo muy importante ... Antes de querer venganza, primero deben poseer la fuerza para tomarla" dijo Izroth luciendo completamente indiferente. Comprendió que si no mostraba una fuerza abrumadora, las personas idiotas podrían seguir pensando en él como un blanco fácil de intimidar. Entonces les mostraría, a todos ellos, un nivel abrumador de fuerza.
+23 Antes de tu viaje de venganza, cava tu propia tumba ... o tres
+Cuando Izroth dijo esas palabras, la multitud pensó en una palabra, confianza. ¡Primero tienes que poseer la fuerza para tomarlo! Qué anuncio tan increíblemente audaz, sin embargo, tuvieron que admitir que era una declaración simple pero precisa. No importa cuánto deseara alguien vengarse, si no tenían la fuerza para tomarla, era inútil siquiera pensar en ello.
+
+Mick se burló y replicó: "Eres solo una persona. No pienses ni por un momento que solo porque lograste tener suerte una vez que sucederá por segunda vez. Ahora que todos estamos en un nivel superior, no hay salida para usted en esta batalla! " Mick cargó directamente hacia Izroth con su escudo delante de él.
+
+Ryder se acercaba sigilosamente detrás de Izroth, tratando de posicionarse para un ataque furtivo. Atacaría tan pronto como Mick comenzara su asalto. Tina se estaba quedando atrás a una distancia segura de toda la batalla con su bastón mágico en la mano. Estaba lista para curar a Mick o Ryder en el mismo momento en que recibieran algún daño.
+
+Niflheim estaba observando la batalla con los brazos cruzados. Sería una mentira si dijera que no tiene curiosidad por saber qué tipo de fuerza poseía Izroth. Después de todo, si resultaba ser fuerte, intentaría reclutarlo en 'Blue Oasis' y ofrecerle una buena posición inicial. Pero si resultaba ser débil ... Aún así, echaría una mano e invitaría al menos a ser un miembro del nivel más bajo en 'Oasis Azul', de esa forma la gente lo pensaría dos veces antes de meterse con él.
+
+Niflheim sabía mejor que nadie lo que era estar sin un patrocinador. Por lo general, era muy estricto en la forma en que manejaba las cosas con los miembros del gremio estacionados bajo su protección. Pero, la situación de Izroth le recordaba a sí mismo cuando comenzó a jugar hace tantos años, por lo que no podía simplemente hacer la vista gorda ante las cosas. Aunque este fue un jugador que eliminó al jefe del primer mundo y venció un solo de mazmorra. ¿Cómo era posible que fueran débiles?
+
+Mientras Mick cargaba hacia adelante, Izroth permaneció inmóvil con su 'Hoja sin nombre' apoyada contra su hombro. "Tan lento ..." desde que Izroth alcanzó la segunda etapa de la técnica del 'Cuerpo Dorado Celestial', sus sentidos en general recibieron un gran impulso. Esto significaba que Mick, que era parte de la clase guerrera que no se especializaba en ningún tipo de velocidad, se movía en lo que a Izroth le parecía una cámara lenta.
+
+Aunque Ryder estaba actualmente en modo sigiloso, Izroth ya descubrió la debilidad de esa habilidad. El hecho de que alguien sea invisible no significa que no puedas escucharlo o sentir algún cambio repentino en tu entorno. Sabía que Ryder intentaba arrastrarse sobre su espalda y lanzar un ataque. En realidad, todo el plan no era tan malo considerando las tres personas que lo ejecutaban, pero simplemente no era suficiente para desafiar a Izroth. Como querían humillarlo, les devolvería el favor mil veces.
+
+Justo cuando la espada de Mick se preparaba para golpear a Izroth desde el frente y Ryder se preparaba para clavar su daga en Izroth por detrás, dos palabras salieron de su boca en un murmullo bajo. "Pasos parpadeantes ..."
+
+
+¡Woooosh!
+
+Izroth había desaparecido del lugar en el que estaba, pero dejó una imagen residual en su lugar. Cuando los ataques de Mick y Ryder se acercaron a donde estaba Izroth, ambos formaron sonrisas en sus rostros como si fueran victoriosos. ¡Pero poco después se quedaron completamente estupefactos cuando sus armas atravesaron el cuerpo de Izroth!
+
+Niflheim se sorprendió visiblemente cuando vio lo que acababa de suceder, pero ni siquiera tuvo tiempo de reflexionar antes de lo que sucedió a continuación.
+
+"Phantom Strike" Ryder solo escuchó dos palabras entrar en sus oídos antes de que todo a su alrededor se volviera gris. La 'Espada sin nombre' de Izroth golpeó su cuerpo dos veces, ni siquiera le dio la oportunidad de defenderse adecuadamente.
+
+-160 HP!
+
+-250 HP!
+
+0/375 HP restantes! (Ryder)
+
+¡Ding! ¡El jugador Ryder ha muerto!
+
+¡Ryder fue el primero en morir una vez más! Se sintió profundamente humillado y furioso por no poder siquiera rascar a Izroth. ¿Cómo puede un jugador ser tan fuerte ya? ¡Ni siquiera supo cómo murió!
+
+Izroth continuó adelante parpadeando justo pasando a Mick, pero mientras Izroth pasaba, cortó a Mick justo en el área de su cuello. No fue para matarlo, sino solo como una demostración de poder. La acción de Izroth le dijo a Mick: "Decidí dejarte vivir, así que viviste. Si quiero que mueras, entonces solo puedes morir".
+
+¡Impacto crítico!
+
+-320 HP!
+
+380/700 HP restantes! (Mick)
+
+¡Tina estaba loca de miedo! Todo lo que presenció fue la caída de HP de Ryder a 0 instantáneamente y luego Mick perdió casi la mitad de su HP. Inmediatamente trató de lanzar su nueva habilidad, 'Heal' sobre Mick, pero antes de que pudiera lanzarla sintió que algo se deslizaba rápidamente por el área de su cuello. "¿Eh? ¿Por qué mi habilidad no está lanzando ...? ¿Por qué no puedo usar curar ...?" Tina estaba tratando de comprender lo que estaba pasando, sin embargo, al igual que Ryder, ¡murió sin siquiera entender cómo! Izroth había eliminado fácilmente a Tina con un corte preciso en el cuello. Con Tina descuidando sus estadísticas de defensa y salud, ni siquiera pudo tomar uno de sus ataques normales.
+
+¡Impacto crítico!
+
+-350 HP!
+
+0/330 HP restantes! (Tina)
+
+¡Ding! ¡La jugadora Tina ha muerto!
+
+Izroth luego dejó de moverse hasta que todas sus imágenes residuales parpadeantes se desvanecieron mientras se quedaba quieto mirando a Mick de una manera fría y distante, su 'Nameless Blade' todavía descansaba en su hombro de una manera despreocupada.
+
+Solo hubo silencio en toda la multitud. ¡Incluso Niflheim quedó completamente asombrado! ¿Cómo podría existir tal habilidad? ¡Eso tenía que ser al menos una habilidad de rango A! Parte de Niflheim tenía la fuerte sensación de que era una habilidad de rango S, pero no podía aceptar eso. ¿Qué tan difícil fue obtener una habilidad de rango S?
+
+"... Increíble ..." alguien en la multitud murmuró esas palabras de su boca.
+
+"Oye ... Esa tiene que ser una habilidad de rango S, ¿verdad? Me pregunto de dónde la sacó ..."
+
+"¡Qué rápido! Ni siquiera vi cómo murieron los dos."
+
+¡La multitud susurró entre sí y la mayoría de ellos se preguntaban dónde había encontrado una habilidad tan fuerte! Incluso si no era una habilidad de rango S, tenía que ser al menos de rango A. ¡Esos eran extremadamente difíciles de conseguir en este momento!
+
+Mick sintió que un escalofrío le recorría la espalda. ¡Demasiado rapido! ¡Fue demasiado rápido! Si quería matarlo, entonces no había nada que Mick pudiera hacer para detenerlo. Volvió la cabeza hacia Niflheim, "¡Respetable capitán! ¡Por favor, haga justicia por mí!" Mick intentó correr hacia el capitán del 'Oasis Azul'.
+
+La expresión de Niflheim se volvió fría al ver a Mick haciendo un acto tan patético. ¿No tenía ya todas las pruebas que necesitaba de este breve encuentro? Solo habían pasado unos segundos e Izroth derrotó a dos miembros del grupo de Mick. ¿Alguien así necesitaría usar un ataque furtivo? Podrían simplemente tomar lo que quisieran por la fuerza de un grupo de jugadores tan inútil. Lo que era aún más vergonzoso era que incluso en esta situación, Mick todavía trataba de fingir que era la víctima de todo cuando realmente era el problema.
+
+Niflheim puso su mano en la empuñadura de la espada a su lado y dio un paso hacia adelante preparándose para golpear a Mick. Pero antes de que pudiera hacerlo, una silueta parpadeó frente a Mick. Un aura opresiva llenó toda la atmósfera haciendo que algunos jugadores que miraban temblaran. Una hoja fría con un aura azul claro lechosa pasó silenciosamente por el personaje de Mick.
+
+"Puede ser mañana, pasado o incluso dentro de un año. Si quieres venganza eres más que bienvenido a venir y tomarla. Sin embargo ... No habrá absolutamente ninguna piedad" dijo Izroth en un tono helado antes enfundando su 'Hoja sin nombre'.
+
+-1,220 HP!
+
+0/700 HP restantes! (Mick)
+
+Los ojos de Mick estaban abiertos de par en par con incredulidad, como si no pudiera procesar lo que estaba ocurriendo actualmente. ¿No tenía el respaldo del capitán de 'Blue Oasis'? ¿No se suponía que debía vengarse de Izroth? ¡Se sintió como si una vez más lo hubieran jugado como un tonto! En ese momento, curiosamente, Mick no sintió odio ni ira. Se sentía sofocado como si todas las paredes a su alrededor se estuvieran cerrando y no tuviera forma de evitar que lo hicieran. "He sido un tonto ..." murmuró Mick para sí mismo antes de caer al suelo.
+
+¡Timbre! ¡El jugador Mick ha muerto!
+
+¡Izroth se mantuvo fiel a sus palabras y utilizó una abrumadora demostración de fuerza para derrotar a 3 jugadores en un instante!
+
+Niflheim retiró la mano de la empuñadura de su espada y caminó hacia Izroth.
+
+"Oye, ¿qué está pasando? ¿Realmente van a pelear?"
+
+"¡Esto va a ser increíble! No creo que el capitán de 'Blue Oasis' tenga ninguna posibilidad. ¿Viste esa habilidad que acaba de usar? ¡Está completamente rota!"
+
+"Creo que estás subestimando al capitán de 'Blue Oasis'. Es un jugador veterano y nada fácil. De hecho, estaba clasificado entre los diez primeros en PvP en el MMORPG que solía jugar antes de esto".
+
+"¿Cómo es posible comparar un MMORPG normal con RML? Es un concepto de combate totalmente diferente. El hecho de que solía ser bueno en ese juego no significa necesariamente que lo será aquí".
+
+"Sin embargo, no se puede enseñar la experiencia, eso es un hecho".
+
+Mientras la multitud hablaba entre ellos,
+
+Izroth frunció el ceño un poco mientras miraba a Niflheim. ¿Qué buscaba exactamente esta persona? Aparentemente, se suponía que estaban del mismo lado que Mick y su grupo. Pero desde el momento en que intercambiaron miradas por primera vez hasta ahora, Izroth nunca sintió malas intenciones de él.
+
+"Mi nombre es Niflheim. Soy el séptimo capitán del gremio 'Blue Oasis'. Es un placer conocerte finalmente en persona, Izroth." Niflheim dijo con una expresión de bienvenida en su rostro.
+
+Izroth asintió en respuesta a su saludo. "Gremio...?" Izroth pensó para sí mismo mientras buscaba en los recuerdos del jugador incondicional antes de encontrar una respuesta. "Ya veo, entonces estos gremios son similares a las sectas de los siete reinos. Interesante ..."
+
+Mientras Izroth pensaba para sí mismo, Niflheim continuó hablando sin molestarse por la forma de responder de Izroth. "Pareces alguien directo a quien no le gustan los que se andan por las ramas. Así que lo diré, ¿cómo te gustaría unirte a 'Oasis Azul' como Comandante? Obtendrás muchos beneficios al hacerlo. Podemos proporcione un conjunto básico de equipo completo poco común y si necesita monedas, también lo tenemos ".
+
+¿Unirse a 'Blue Oasis' como comandante? ¡Eso fue impactante! Uno tenía que saber que miles de personas formaban parte de un gremio tan grande como 'Oasis Azul' y muchos matarían para mantener un puesto de comandante. Después de todo, era solo una posición por debajo de ser capitán. ¡Tomó años llegar a tal punto y, sin embargo, Niflheim se lo estaba ofreciendo a Izroth sin dudarlo! "Qué oportunidad tan maravillosa" la gente de la multitud se sorprendió con la oferta. La mayoría de ellos soñaba con tener una posición tan alta en un gremio como 'Blue Oasis', uno de los diez mejores gremios en los MMORPG. Todos se preguntaban cómo respondería Izroth a la oferta.
+
+"Tendré que negarme" Izroth negó con la cabeza. Aunque Niflheim no parecía una mala persona, Izroth no era alguien a quien le gustara estar sujeto a reglas. Sabía que las sectas, o más bien los gremios, en este caso, tenían muchas reglas que debías seguir para ser parte de ellas. ¡La única forma en que se uniría a un gremio es si fuera uno que él mismo creó!
+
+La gente reunida allí estaba atónita por el hecho de que Izroth declinó tal posición. Muchos de ellos ya comenzaron a irse como si todas las partes divertidas hubieran terminado. Izroth y Niflheim claramente no iban a pelear.
+
+Niflheim dejó escapar un pequeño suspiro de decepción. Pensó que este sería el caso dada la actuación que Izroth ha estado mostrando últimamente. Pero, de todos modos, valía la pena intentarlo. Sin embargo, eso no significaba que se rendiría por completo, ya que los talentos como Izroth eran difíciles de encontrar.
+
+¡Timbre! Has recibido una solicitud de amistad de Niflheim, ¿aceptas?
+
+"Ya veo, es una lástima. Sin embargo, dado que el destino nos ha unido, creo que nuestros caminos se cruzarán de nuevo en el futuro". Niflheim habló mientras enviaba una solicitud de amistad a Izroth.
+
+Izroth no tuvo una mala impresión de Niflheim y no vio ninguna razón para rechazarlo por completo. Además, podría necesitar información algún día y sabía que la mejor manera de obtenerla era hacer conexiones, especialmente con grupos grandes como el 'Oasis Azul' del que Niflheim era parte. "¿Es el destino?" Izroth sonrió un poco cuando escuchó ese dicho.
+
+¡Timbre! ¡Has añadido a Niflheim como amigo!
+
+Niflheim asintió con la cabeza hacia Izroth, "Me despediré. Si cambia de opinión o necesita algo, no tenga miedo de enviarme un mensaje". luego se alejó junto con Olohas.
+
+Mientras Izroth caminaba de regreso hacia 'Opal Town', una alerta del sistema se disparó en su cabeza.
+
+¡Timbre! Alerta del sistema: el jugador Luna te ha enviado un mensaje.
+24 Adelante a Amaharpe
+¡Timbre! Alerta del sistema: el jugador Luna te ha enviado un mensaje: "¿Estás de vuelta en 'Opal Town'? Bueno, estoy seguro de que lo estás, ya que dudo que alguien más llamado Izroth pueda causar tal escena. Escuché que estás bastante cerca de uno de los capitanes de 'Oasis Azul' ahora ... ¿Realmente no te vas a unir a ellos? " Luna estaba en la tienda recogiendo algunos artículos para comenzar un viaje cuando escuchó a los jugadores cercanos discutiendo los eventos que tuvieron lugar con Izroth un poco antes.
+
+Lo que sucedió hace solo unos momentos ya se había extendido tan rápido que Izroth estaba un poco sorprendido. "Por otra parte, con este tipo de forma de transmitir mensajes, no es tan impactante cuando lo piensas ..." pensó para sí mismo mientras le respondía a Luna. No necesariamente diría que él y Niflheim estaban cerca, eran más a nivel profesional. Después de todo, los grupos grandes que podían mover a muchas personas a la vez eran típicamente los mejores para acumular todo tipo de información e Izroth entendió que eventualmente podría sacar provecho de tal cosa.
+
+"Las noticias se han extendido rápidamente ... Estoy de vuelta en 'Opal Town'. En cuanto a unirme a 'Blue Oasis', no estoy interesado y no necesariamente diría que soy cercano a ese tipo".
+
+Alerta del sistema: La jugadora Luna te ha enviado un mensaje, "Hmmm, ¿es así ...? Ya veo ... Parece propio de ti rechazar una invitación, incluso de un gremio tan popular y fuerte como 'Blue Oasis '. "
+
+Luna no pudo evitar reír levemente cuando imaginó la actitud directa de Izroth al conversar con el capitán de 'Blue Oasis'. Ella entendió que él no era una mala persona en absoluto, simplemente que la mayoría puede ver su naturaleza directa como ofensiva. Aunque parecía que no había pasado nada importante entre Izroth y el capitán de 'Oasis Azul', dejó escapar un suspiro de alivio cuando llegó a esa conclusión. Un leve rubor apareció en las mejillas de Luna cuando se dio cuenta de que en realidad estaba preocupada por Izroth. Solo se conocieron una vez y no podrían considerarse amigos cercanos, pero Luna se sintió cómoda al hablar con Izroth. No poseía motivos ocultos y era una persona honesta, ¡era muy difícil conocer chicos con esas dos cualidades!
+
+Alerta del sistema: el jugador Luna te ha enviado un mensaje, "Halls y yo nos estamos preparando para viajar hacia Amaharpe. Ah, cierto, es posible que aún no lo sepas, pero Amaharpe es la ciudad capital de la región en la que estamos. El juego real no realmente empiece hasta que al menos llegue allí ... ¿Le gustaría viajar con nosotros? "
+
+Amaharpe! ¿No era ese el nombre de la ciudad capital que sería destruida si Izroth no completaba la misión 'El comienzo de los comienzos'? Puede que haya pistas relacionadas con la misión, por lo que definitivamente debería visitarla. Aunque tenía 90 días para terminar la misión, Izroth no se aferró a otras pistas además del 'Regalo de Vozrak' para continuar. "Está bien" respondió Izroth a Luna.
+
+Alerta del sistema: La jugadora Luna te ha enviado un mensaje: "Genial, te enviaré las coordenadas de donde nos reunimos. Deberías comprar algunos artículos como pociones y recibir tu carta de recomendación de tu maestro de clase. Es solo con esa carta de que te permitirán la entrada a Amaharpe. Nos encontraremos allí en 20 minutos, hasta pronto ".
+
+
+¡Timbre! ¡La jugadora Luna te ha enviado coordenadas!
+
+Izroth repasó las coordenadas que envió Luna antes de cerrar las alertas de su sistema. "Originalmente estaba pensando en vender algunos de los artículos aquí, pero puede ser una mejor idea esperar hasta que llegue a Amaharpe para recibir más beneficios. Luego caminó y no mucho después vio un letrero de una tienda con las palabras "Tienda de Pociones de Timothy" escrito en letras grandes. Cuando entró en la tienda, ya había varios jugadores adquiriendo pociones. Había un solo individuo detrás del mostrador de la tienda, era un hombre delgado de mediana edad con lentes.
+
+Izroth se acercó al hombre delgado y cuando se acercó pudo ver el nombre del hombre.
+
+Nombre de NPC: Timothy
+
+NPC Nivel: 1
+
+Ocupación: Alquimista
+
+"Hola, me gustaría comprar algunas pociones de salud. ¿Cuánto cuestan?" Izroth habló en un tono educado pero no demasiado. Todavía había muchos elementos desconocidos para él sobre este mundo y cómo funcionaba, pero parecía que los personajes conocidos como 'NPC's' reaccionaban como si fueran personas reales. Si ese fuera el caso, no sufriría ninguna pérdida tratándolos como personas reales en lugar de objetos.
+
+"¡Bienvenido valioso cliente!" Timothy inmediatamente tuvo una gran sonrisa en su rostro cuando escuchó el saludo de Izroth. La mayoría de los jugadores no sabían esto, incluso el propio Izroth no lo sabía, pero todos los NPC poseían una estadística oculta de 'Reputación'. Esta estadística determina los beneficios que uno podría recibir de ciertos NPC. En este caso, Izroth ya tenía una estadística de fama mundial de 260, así como su ofrecimiento de un saludo agradable, por lo que su reputación con el NPC subió en secreto provocando una reacción tan cálida y acogedora de Timothy.
+
+"¡Por supuesto que aquí en la 'Tienda de pociones' solo servimos la mejor calidad de pociones menores! Cada 'Poción de salud menor' cuesta 1 moneda de plata, pero como pareces una persona genuina, te haré un favor y reduciré el precio. en un 20%. Por lo tanto, solo saldrá a 80 monedas de bronce por 'Poción de salud menor'. ¿Cuántas le gustaría comprar? " Timothy dijo con una gran sonrisa en su rostro.
+
+Izroth parpadeó un par de veces porque no esperaba un descuento del 20%, pero no miraría a un caballo de regalo en la boca. "En ese caso, tendré que molestarte por 4 'Pociones de salud menores'." Izroth sintió que no debería exagerar cuando se trataba de comprar pociones. Después de todo, se estaba preparando para viajar a una ciudad capital. Si las ciudades capitales tuvieran un estatus similar a las de los siete reinos, entonces habría varias cosas disponibles para comprar allí que simplemente no podrías encontrar en un lugar como este. Así que decidió guardar la mayoría de sus monedas para tal situación.
+
+"¡Por favor, no es ningún problema estimado cliente!" Timothy luego buscó detrás del mostrador antes de sacar x4 'Pociones de salud menores'. "El precio original es de 4 monedas de plata, pero con su descuento, su total es de 3 monedas de plata y 20 monedas de bronce".
+
+Izroth no tuvo problemas con el precio y eliminó la cantidad de monedas de su inventario, entregándoselas a Timothy.
+
+"¡Gracias por su negocio, valioso cliente! ¡Por favor, vuelva!" Timothy hizo una respetuosa reverencia.
+
+Izroth asintió antes de colocar las x4 'Pociones de salud menores' en su inventario y salir de la 'Tienda de pociones'. Era hora de que él recibiera una carta de recomendación de Gear, el maestro de la clase Combat Master.
+
+Izroth comenzó a caminar hacia la ubicación de ese edificio en ruinas que pertenecía a los jugadores de la clase Combat Master. Cuando llegó allí, como de costumbre, no había más jugadores a la vista, solo un anciano con una petaca en la mano descansando con la espalda reclinada contra la pared. Aunque este anciano parecía insignificante y débil, en realidad era un poderoso aventurero conocido como Gear.
+
+Cuando Gear escuchó a Izroth entrar al edificio, se puso de pie y tomó un sorbo del frasco en sus manos antes de sonreír. "No esperaba verte de vuelta aquí tan pronto joven aventurero jajaja" ya le gustó el talento que poseía Izroth, así como su actitud respetuosa.
+
+"No esperaba que fueras un aventurero tan famoso, Gear of the Flickering Steps"
+
+"Oh, por favor, ese es un nombre tan antiguo de mi juventud, no deberías burlarte de un anciano así. Jajaja, ahora soy una persona normal a la que le gusta pasar mis días tranquilamente bebiendo y durmiendo. Verdaderamente la vida ideal para cualquier aventurero "habló Gear mientras se acercaba a un pequeño escritorio en la esquina de la habitación con papeles esparcidos por toda la superficie.
+
+"Entonces no me molestaré en consumir mucho de su tiempo. He venido a buscar una carta de recomendación para entrar en Amaharpe".
+
+Gear se tomó un momento para examinar a Izroth de la cabeza a los pies con una mirada seria en su rostro. Después de unos momentos, una sonrisa apareció en su rostro mientras asentía con la cabeza. "No tengo ningún problema en darte una carta de recomendación. La única razón por la que es necesaria es porque los nuevos aventureros se adelantan a sí mismos y mueren mientras se aventuran a través del 'Bosque Willowed' para llegar a Amaharpe. Eres lo suficientemente fuerte como para llegar allí sin mucho problema ahora, así que adelante y tómalo "Gear arrojó una carta enrollada hacia Izroth y la tomó entre sus manos.
+
+"Esa carta le permitirá entrar en Amaharpe. Ya que se dirige hacia allí, tengo que pedirle un favor. Hay un viejo amigo mío que vive en Amaharpe al que no he visto desde hace bastante tiempo. Necesito que le entregue esta carta por separado. Por supuesto, no se quedará sin recompensa "
+
+¡Ding! ¡Has recibido la misión 'Un viejo amigo'! ¿Deseas aceptar?
+
+Nombre de la misión: Un viejo amigo
+
+Nivel recomendado: 10
+
+Tamaño de grupo recomendado: 1
+
+Rango de la misión: C
+
+Objetivo de la misión: Viajar a través del 'Bosque de los Sauces' y entregar una carta escrita a mano por Gear a un viejo amigo suyo ubicado en las instalaciones de Combat Master en Amaharpe .
+
+Plazo: 1 día
+
+-0/1 Entrega de la carta.
+
+Recompensas:
+
+
+
+
+
+-1 Insignia de clase oficial
+
+Izroth, por supuesto, aceptó la misión sin dudarlo. Dado que ya se dirigía en esa dirección, ¿por qué no recibir algunos beneficios como bonificación?
+
+¡Timbre! ¡La misión del mundo 'Un viejo amigo' ahora está activa en tus registros de misiones!
+
+¡Timbre! ¡Se ha iniciado el límite de tiempo de la misión de 'Un viejo amigo'! ¡Queda 1 día!
+
+"¡Bien, bien! Recordaré este favor, joven aventurero. Ahora vete, espero grandes cosas de ti" Gear le entregó la segunda carta a Izroth antes de volver a sentarse con la espalda contra la pared y tomar otro trago de su petaca.
+
+Izroth asintió levemente antes de despedirse del viejo edificio en ruinas. Era hora de reunirse con Luna y Halls para dirigirse hacia Amaharpe.
+
+...
+
+Luna y Halls estaban esperando en la posada ubicada en la región exterior de 'Opal Town'.
+
+"¿Dijiste que vendrá, verdad? ¡Me sorprende que haya aceptado! Parece más uno de esos solistas que odian las fiestas", dijo Halls en un tono alegre. Fue testigo de primera mano de lo fuerte que era Izroth y si tenían a alguien así en su grupo, podrían viajar a través del 'Bosque Willowed' con relativa facilidad.
+
+Luna asintió con la cabeza, "Le envié las coordenadas y le dije que nos encontrara aquí dentro de 20 minutos. Debería estar en camino pronto".
+
+No mucho después de que Luna habló, vio una silueta masculina no muy lejos en la distancia acercándose. Tenía una expresión despreocupada en su rostro, pero si uno miraba lo suficientemente cerca notarían un aura afilada y opresiva que desprendía la espada en su espalda. ¡Izroth finalmente llegó al punto de encuentro!
+
+¡Timbre! ¡Player Halls quiere invitarte a una fiesta junto con Player Luna! ¿Deseas aceptar?
+
+Izroth recibió una invitación a la fiesta inmediatamente cuando Halls lo vio acercarse, él, por supuesto, aceptó la invitación.
+
+"Has subido de nivel tan rápido ... Cuando nos conocimos, solo estabas en el nivel 3, ahora estás en el nivel 12 en tan poco tiempo". Halls dijo con incredulidad antes de siquiera lograr dejar escapar un saludo adecuado.
+
+Luna dejó escapar un pequeño suspiro de derrota, Izroth realmente sabía cómo hacer que los demás se sintieran insatisfechos.
+
+Izroth solo respondió a su asombro con una leve sonrisa.
+
+Fiesta:
+
+Nombre: Halls
+
+Clase: Guerrero
+
+Nivel: 13
+
+HP: 1500/1500
+
+MP: 100/100
+
+Nombre: Luna
+
+Clase: Clérigo
+
+Nivel: 13
+
+HP: 600/600
+
+MP: 625/625
+
+Nombre: Izroth
+
+Clase: Combat Master
+
+Nivel: 12
+
+HP: 900/900
+
+Energía: 100/100
+
+"¡Vamos! ¡Adelante a Amaharpe!" Halls dijo con una voz extremadamente emocionada.
+
+Los tres finalmente comenzaron su viaje a la capital de Amaharpe.
+25 Aprendiendo nuevas leyes celestiales
+Izroth, Halls y Luna se encontraban actualmente en el camino que atravesaba el "Bosque de los Sauces" directamente a la ciudad capital de Amaharpe. Ya habían estado viajando durante más de una hora, pero no se encontraron con ningún monstruo que representara una amenaza para ellos.
+
+Halls dejó escapar un suspiro de decepción, "Realmente esperaba que pronto nos encontráramos con un jefe mundial, pero ha pasado una hora y aún no hemos encontrado ningún botín o EXP decente".
+
+Luna negó con la cabeza en respuesta a la decepción de Hall, "¿Puede ser tan fácil encontrar un jefe mundial? Tuvimos mucha suerte la última vez y lo encontramos por coincidencia. La probabilidad de que encontremos a otro por casualidad es extremadamente baja".
+
+Halls sabía que lo que decía Luna era cierto. De hecho, tuvieron la suerte de encontrarse con un jefe mundial. Esperar que ocurra lo mismo una vez más solo podría considerarse una ilusión.
+
+Luna miró en dirección a Izroth y notó que parecía estar en un estado casi parecido al trance. Siempre que se encontraban con un monstruo, él no interfería, sino que mantenía ese estado. Esto probablemente se debió a que no se sentía amenazado de ninguna manera. Después de todo, los monstruos con los que se habían encontrado hasta ahora eran todos de nivel 10 o inferior. Sería vergonzoso si ella y Halls no pudieran manejar esos monstruos solos y necesitaran la ayuda de Izroth para hacerlo.
+
+Luna no quería ser descortés y mirar fijamente, por lo que solo estaba echando un vistazo a Izroth y notó que la forma en que se movía era ... Extraña. Esto la hizo sentir un poco curiosa mientras observaba a Izroth de cerca. Pero antes de que tuviera la oportunidad de seguir observándolo, escuchó una voz que la llamaba.
+
+"¿Luna? Oye, ¿estás escuchando?" Halls estaba tratando de llamar la atención de Luna durante los últimos momentos, pero parecía estar en un mundo propio.
+
+Luna salió de ella y comprendió que había comenzado a mirar a Izroth sin darse cuenta. Un ligero rubor se formó en sus mejillas por la vergüenza cuando rápidamente volvió la cabeza y la mantuvo agachada. "¡Estoy escuchando, estoy escuchando bien ?!"
+
+Halls estaba un poco sorprendido, esa fue la primera vez que escuchó a Luna sonar un poco agitada. Pensó que había hecho algo mal y se frotó la nuca confundido. ¿Cómo podía saber que ella estaba simplemente avergonzada por sus acciones?
+
+Durante toda la hora, Izroth no había estado perdiendo el tiempo simplemente caminando y sin hacer nada más. Si uno examinaba de cerca, descubriría que cada uno de sus pasos estaba exactamente a la misma distancia del anterior. La parte extraña era que parecía como si cada vez que uno de sus pies estuviera a punto de tocar el suelo, de repente se pararan como si estuvieran flotando sobre el suelo, moviéndose en un extraño movimiento deslizante.
+
+Izroth se estaba tomando este tiempo para crear más habilidades. Se dio cuenta por el tiempo que pasó dentro de la mazmorra 'Goblin's Paradise' que aunque las habilidades que poseía eran poderosas, no tenía muchas de ellas que pudiera usar consecutivamente. La habilidad 'Breaker of Limits' lo ayudó a eludir muchos de los parámetros del sistema, pero aún no le permitió usar las habilidades libremente como si estuviera en los siete reinos. En los siete reinos, siempre que uno tuviera suficiente esencia espiritual, podría usar la técnica, sin embargo, en RML había algo llamado enfriamiento en el que durante ese período de tiempo no podría realizar esa habilidad.
+
+
+Izroth notó que los tiempos de recuperación de las habilidades de menor rango eran mucho más bajos que los de las habilidades de mayor rango, al menos por lo que podía decir hasta ahora. Pero tenía sentido en cierto modo, ya que se requeriría un tiempo de recarga más largo para usar técnicas de nivel superior que el de las técnicas de nivel básico. No solo eso, sino que las leyes celestiales de rango superior tomaron mucho más tiempo en aprender que las habilidades de rango inferior. Por ejemplo, le tomó 5 horas aprender la habilidad de clasificación A 'Primera espada funesta: Destrucción', mientras que solo le llevó unos momentos en medio de la batalla obtener la habilidad de clasificación B 'Golpe fantasma'. A pesar de que las habilidades estaban separadas por un solo rango, una aún tardó mucho más en aprender que la otra. Si ese fuera el caso, entonces crearía algunas leyes celestiales de nivel inferior para permitirse tener una capacidad de batalla más versátil.
+
+¡Él no solo estaba trabajando en esa ley celestial en sí, sino en otros dos tipos diferentes de leyes celestiales de nivel inferior al mismo tiempo! A pesar de que no podían coincidir con el físico del 'Cuerpo Dorado Celestial' o incluso con la ley celestial de las 'Tres espadas siniestras', eso no significaba que las técnicas en sí mismas fueran inútiles.
+
+Además de la ley celestial que Izroth estaba practicando usando sus pasos, también estaba moviendo su dedo índice en un movimiento peculiar. Emitía un aura increíblemente penetrante como si no tuviera ningún problema para atravesar defensas duras.
+
+La última ley celestial que Izroth estaba practicando era en realidad una técnica de palma. Mientras su palma se movía, fue seguida por una miríada de ilusiones y cada una parecía tener una existencia y una mente propias.
+
+Las tres habilidades que Izroth estaba aprendiendo eran 'Mordedura de serpiente', 'Punto de fisuración' y 'Miríada de palmeras esquivas'. Izroth no necesitó mucha deliberación al elegir estas tres leyes celestiales, ya que se adaptaban a sus requisitos para permitir un estilo de lucha más versátil. Ninguna de las técnicas fue particularmente impresionante en comparación con la 'Primera espada funesta: Destrucción', especialmente cuando se trataba de poder de ataque, pero sus usos serían mucho más frecuentes.
+
+¡No mucho después de que Izroth recibió su primera alerta del sistema!
+
+¡Timbre! ¡Felicitaciones, el jugador Izroth ha creado una nueva habilidad! Por favor, nombre la habilidad.
+
+La primera habilidad que obtuvo Izroth fue la ley celestial de la mordedura de la serpiente. Entonces, por supuesto, lo nombró así sin tener que pensar en ello.
+
+Nombre de la habilidad:
+
+Creador de habilidades: Izroth
+
+Nivel de habilidad: 1/3
+
+Rango de habilidad: C
+
+Costo de energía: 35
+
+Activa: El usuario patea con precisión letal y causa el 75% del ataque del usuario como daño. Esta habilidad tiene una alta probabilidad de "Paralizar" al objetivo alcanzado durante 1,5 segundos, lo que le impide realizar cualquier acción.
+
+Descripción: una habilidad creada por Izroth que se enfoca en la precisión e inmovilizar al objetivo durante un corto período de tiempo. ¡Cuidado con la mordedura de la serpiente!
+
+Enfriamiento: 10 segundos
+
+Izroth quedó satisfecho con el rendimiento general de la habilidad. Si tenía esta habilidad cuando luchó contra el 'Goblin King's Commander Jruloja', entonces pudo haber podido escapar de la habilidad 'Firestorm' que usó dándose a sí mismo una ventana de 1 segundo para retirarse usando 'Serpent's Bite' solo antes de que pudiera lanzar. Aunque el daño no fue tan alto, fue el efecto 'Paralizar' lo que hizo que la habilidad brillara en combate. Aunque lo que lo sorprendió un poco fue una cosa nueva llamada 'Costo de energía' en la habilidad. Para ser honesto, Izroth siempre se había preguntado por qué poseía una estadística de 'Energía' que parecía no servir para nada. No era que la estadística fuera inútil, sino que ninguna habilidad que había obtenido hasta ahora requería su uso.
+
+Lo extraño era que su estadística de 'Energía' siempre estaba en 100 sin importar en qué estadística usaba un punto de estadística. Por curiosidad, Izroth usó la habilidad 'Mordedura de serpiente'. Su pierna derecha parecía moverse con un movimiento similar al de una serpiente que golpea a su presa. Fue silencioso, preciso e increíblemente rápido.
+
+Izroth se tomó el tiempo para examinar su estadística de 'Energía' y notó que bajó de 100 a 65. Exactamente un segundo después subió a 68 y el siguiente segundo a 71. A medida que su 'Energía' seguía aumentando, Izroth concluyó que después de usar una habilidad que requería 'Energía', regeneraría lentamente 3 energías cada 1 segundo. Eso significa que cada minuto recuperaría un total de 180 'Energía'.
+
+"Ya veo ... Aunque el tiempo de reutilización es bajo, ahora requiere el uso de 'Energía'. Parece que tendré que prestarle atención en futuras batallas" pensó Izroth para sí mismo.
+
+Unos minutos más tarde, se disparó otra alerta del sistema.
+
+¡Timbre! ¡Felicidades, el jugador Izroth ha creado una nueva habilidad! Por favor, nombre la habilidad.
+
+Nombre de la habilidad: Punto de
+
+fisuración Creador de la habilidad: Izroth
+
+Nivel de la habilidad: 1/3
+
+Rango de la habilidad: C
+
+Costo de energía: 30
+
+Activa: Inflige el 100% del ataque del usuario como daño. El daño de esta habilidad ignora todos los escudos y el 60% de la defensa del objetivo. Si esta habilidad inflige daño a alguien con un escudo activo, el tiempo de reutilización de esta habilidad se duplica. Esta habilidad no se puede 'bloquear'.
+
+Descripción: una habilidad creada por Izroth que puede atravesar casi cualquier defensa con facilidad. Intentar bloquear esta habilidad es inútil.
+
+Enfriamiento: 8 segundos
+
+Izroth no pudo evitar sorprenderse por la precisión del sistema que manejaba este juego. Al principio tuvo algunas reservas acerca de poder percibir sus acciones y convertirlas en habilidades, pero superó sus expectativas. "El hecho de que sea capaz de analizar y generar leyes celestiales es extraordinario". Izroth sabía de primera mano lo difícil que era aprender las leyes celestiales y aún más difícil entenderlas. Uno debe poseer un alto nivel de comprensión para aprender leyes celestiales específicas.
+
+La última habilidad que le quedaba a Izroth por adquirir era 'Miríada de palmeras esquivas'. Esta ley celestial estaba destinada a enfrentarse a múltiples enemigos a la vez. Por el momento, no tenía ninguna otra habilidad que pudiera atacar a múltiples oponentes a la vez. Parecía que incluso con la habilidad 'Breaker of Limits' no le permitiría eludir esta regla. Siempre había una fuerza invisible que concentraba ataques individuales sobre quien fuera el objetivo. Se sentía extraño tener que acostumbrarse a ese tipo de estilo de lucha restringido, pero Izroth fue uno que aprendió a adaptarse. Con Izroth capaz de enfocar toda su atención en la última ley celestial restante, apenas pasó un momento antes de que la alerta final del sistema que Izroth estaba esperando para activarse.
+
+¡Timbre! ¡Felicidades, el jugador Izroth ha creado una nueva habilidad! Por favor, nombre la habilidad.
+
+Nombre de la habilidad:
+
+Creador de habilidades: Izroth
+
+Nivel de habilidad: 1/3
+
+Rango de habilidad: C
+
+Costo de energía: 35
+
+Activa: Inflige el 100% del ataque del usuario como daño a todos los enemigos en un radio de 3 metros. Esta habilidad tiene una mayor tasa de aciertos y es difícil de evadir.
+
+Descripción: una habilidad creada por Izroth, capaz de golpear múltiples objetivos con movimientos difíciles de seguir. Un verdadero golpe escondido entre una miríada de palmas.
+
+Enfriamiento: 25 segundos
+
+Una leve sonrisa se formó en el rostro de Izroth, ¡ahora poseía tres habilidades adicionales que aumentarían su destreza de combate a pasos agigantados! A decir verdad, realmente quería terminar de aprender la ley celestial de las 'Tres espadas perniciosas', sin embargo, le tomó 5 horas aprender la 'Primera espada perniciosa: Destrucción' solo. Por lo tanto, decidió que era mejor esperar hasta que pudiera encontrar un lugar tranquilo para establecerse durante un período prolongado de tiempo y comenzar a aprender las dos formas finalmente de las 'Tres espadas siniestras'. Después de todo, la fuerza de las siguientes dos espadas no era tan simple como dos más dos es igual a cuatro.
+
+Justo cuando Izroth terminó 'Myriad Elusive Palms', de repente escuchó un sonido de voz frente a él.
+
+"¡Estaban aquí!" Halls habló con una voz llena de entusiasmo.
+
+Izroth salió de su trance y echó un vistazo a lo que estaba frente a él. Podía ver las murallas de la ciudad que se elevaban tan alto que parecía como si estuvieran tratando de tocar las nubes en el cielo. Una delgada barrera transparente cubría toda la ciudad, protegiendo a la capital de posibles amenazas. Había una puerta de metal colosal que conducía a la ciudad con todo tipo de símbolos extraños en ella. Los guardias se pararon en la entrada de la puerta con una gloriosa armadura completamente plateada y emitiendo un aura intimidante para evitar que ocurrieran problemas allí. Muchos jugadores entraban al interior después de entregar su carta de recomendación a los NPC que gestionaban la entrada a la ciudad.
+
+¡Finalmente llegaron a la ciudad capital de Amaharpe!
+26 Amaharpe
+Izroth, Luna y Halls se acercaron a la puerta que conducía a Amaharpe. Había un grupo de jugadores haciendo cola de manera ordenada esperando su entrada a la ciudad capital.
+
+"Siguiente" un hombre sentado detrás de una pequeña mesa al lado de la puerta gritó con voz monótona, como si estuviera acostumbrado a hacer esto todo el día. Mientras gritaba, los siguientes jugadores se acercaron y le entregaron al hombre sus cartas de recomendación. Observaron a los jugadores desde antes de hacerlo así y poco después de entrar a la ciudad sin problema. El hombre sentado detrás de la pequeña mesa miró su carta de recomendación antes de mover su mano sobre ella. En la carta se formó una marca mágica única que era la prueba de que se le permitía entrar a los muros de Amaharpe. Si alguien era sorprendido deambulando por las calles sin tener esta marca mágica, entonces solo lo esperaba una muerte desafortunada.
+
+"Próximo"
+
+Finalmente fue el turno de Izroth y su grupo de entrar en la ciudad. Los tres le dieron sus cartas de recomendación al hombre mientras las examinaba de cerca. Cuando el hombre leyó la carta que le entregó Izroth, se sorprendió bastante. Esta fue la primera carta de recomendación que había revisado que era del instructor de Combat Master en 'Opal Town'. Pero estaba un poco sorprendido, nada más. Como todos los demás antes que ellos, el hombre agitó las manos sobre las cartas de recomendación antes de devolvérselas a Izroth, Luna y Halls.
+
+Una vez que obtuvieron la marca mágica, los tres finalmente entraron por esa enorme puerta dando sus primeros pasos hacia la ciudad capital, Amaharpe.
+
+Lo primero que apareció a la vista fue un palacio extremadamente grande en la distancia. Estaba ubicado en la parte trasera de Amaharpe, pero era tan enorme que uno podía verlo cuando cruzaba las puertas por primera vez.
+
+"Woah ... ¡Ese palacio es enorme ...!" Halls se sorprendió por el tamaño del palacio. En comparación, hizo que algunos de los rascacielos y edificios más grandes de la Tierra parecieran un pequeño condominio.
+
+La escena no fue demasiado impactante para Izroth, que había visto palacios mucho más grandes que este en los siete reinos. De hecho, esto podría considerarse bastante pequeño y probablemente pertenecería a algún pequeño reino en los siete reinos.
+
+Luna, sin embargo, estaba tan sorprendida como Halls, pero no tan franca. Se las arregló para pronunciar un pequeño "Increíble ..." de su boca.
+
+"Escuché que la misión aquí no se puede comparar con las de 'Opal Town'. Ofrecen EXP y recompensas mucho mejores". Halls tenía algunas personas en su lista de amigos que ya estaban en 'Opal Town'. Aunque todos formaban parte de gremios y, por tanto, aunque se mantenían en contacto, jugar juntos era otra historia.
+
+Luna asintió, "Eso es de esperar de una ciudad capital como Amaharpe ..."
+
+Izroth miró alrededor escaneando sus alrededores. No estaba haciendo turismo como los otros dos miembros de su grupo, sino más bien buscando el edificio de la clase Combat Master. No había olvidado la misión que recibió de Gear. Además, eventualmente necesitaría encontrar el edificio de cualquier manera, ya que parecía que si uno quisiera avanzar más en el camino de su clase, necesitaría la ayuda de los maestros de NPC. Izroth no tenía ninguna falta de habilidades, pero tal vez recibiría un arma mejor que la 'Espada sin nombre' que poseía actualmente. Aunque la habilidad adjunta era poderosa y era un arma rara, al final, solo era de nivel 10. Izroth se encontraba actualmente en el nivel 12 sin haber superado el arma todavía, aunque no pasaría mucho tiempo antes de que lo hiciera .
+
+
+Izroth comenzó a caminar hacia las calles principales de Amaharpe, "Necesito atender algunos asuntos aquí".
+
+Halls y Luna se miraron y poco después Halls asintió antes de decir: "Necesitamos encontrar los edificios de nuestra clase y buscar alguna misión. De lo contrario, solo podemos soñar con aprender nuevas habilidades. ¿Qué tal si nos reunimos todos aquí en el puerta en una hora? De esa manera, todos tendremos tiempo para ocuparnos de alguna tarea primero ".
+
+Izroth no se molestó en responder y simplemente sostuvo su mano en el aire dando un pulgar hacia arriba mientras seguía caminando hacia adelante. Era simplemente su forma de decir que no tenía problemas con eso.
+
+Halls miró a Luna y le dio una sonrisa impotente. Sabía que Izroth era lo suficientemente fuerte para hacer lo que quisiera y ni siquiera necesitaba estar en una fiesta con ellos. Una parte de él siempre cuestionó por qué un jugador tan fuerte como Izroth aceptó su solicitud de amistad e incluso se unió a una fiesta con ellos. ¿Qué ganó posiblemente al hacerlo?
+
+...
+
+Izroth caminaba tranquilamente por la calle principal de Amaharpe. Ya lo había estado haciendo durante unos 10 minutos. A lo largo de la carretera principal, había jugadores que intentaban vender o comprar algunos equipos y artículos gritando lo que estaban buscando.
+
+"¡Vendo un cuerno de toro demoníaco por 10 monedas de plata! ¡El precio es fijo, no hay negociaciones!"
+
+"¡Comprar material de artesanía de grado bajo a medio para la profesión de Alquimia!
+
+"¡Vender equipo 'poco común' desde el nivel 10-12! ¡50 de plata es el precio inicial para los artículos de nivel inferior!"
+
+Estas eran todas las personas que no querían pasar por el sistema de la casa de subastas del juego y pagar la tarifa que costaba poner los artículos a la venta allí. Aunque era más rápido y mucho más eficiente, algunos jugadores decidieron que valía la pena esperar para obtener una mayor ganancia vendiendo o comprando artículos usando un método de transacción de jugador a jugador.
+
+Lo que llamó la atención de Izroth fue que el jugador compraba materiales de alquimia de grado bajo a medio. Recordó que Timothy en 'Opal Town' tenía 'Alchemist' como ocupación y estaba vendiendo pociones. A partir de ahí, recordó que la 'Esencia de Goblin' en su inventario era un ingrediente que se usaba para elaborar diferentes tipos de pociones y actualmente poseía siete de ellas. Izroth se acercó al jugador comprando materiales de artesanía.
+
+"Oye, ¿estás vendiendo algún material de artesanía? Solo tengo un negocio legítimo aquí, así que los precios son justos. Si vendes en lotes de 5 o más ingredientes, incluso agregaré una pequeña cantidad de bonificación. Oh, sí, debería pregunta qué tipo de materiales tienes primero jajaja ". el jugador que vendía los ingredientes vestía una túnica de aspecto antiguo y cómoda con sandalias en los pies. Se le colocó un sombrero cónico en la cabeza como si quisiera dar la impresión de ser un viajante de comercio o un vagabundo.
+
+"Tengo siete 'Esencia de Goblin' a la venta. Siempre que el precio sea justo, no me importaría comerciar contigo." Izroth sacó uno de los elementos de la 'Esencia Goblin' para que el jugador lo examinara. Tenía la forma de un pequeño orbe del tamaño de una canica y había un color verde claro bailando en el interior como si algo estuviera tratando de escapar de su confinamiento.
+
+El jugador que compró los materiales de elaboración examinó el artículo que Izroth le ofreció para que lo viera.
+
+"¡Ah, esto es 'Esencia de Goblin'! No ves muchos de estos en Amaharpe ..." los ojos del jugador se entrecerraron un poco como si estuviera pensando en algo ... "¡Qué grosero de mi parte! me presento, mi nombre es Metronome. ¿Puedo tener el honor de conocer el nombre de mi benefactor? "
+
+Izroth notó la pequeña posibilidad en la expresión que hizo Metronome, pero decidió no pensar en ello. Si tenía malas intenciones, solo estaría dando la bienvenida a un desastre. "Izroth".
+
+Cuando Izroth dijo su nombre, Metronome inmediatamente formó una gran sonrisa en su rostro. "¡Ya veo, ya veo! ¡Así que eres Izroth! Jajaja." no lo sabía con certeza, pero tenía la sensación de que existía la posibilidad de que este jugador pudiera ser quien por sí mismo despejara la primera carrera de la mazmorra 'El paraíso de los goblin'. Después de todo, tener siete 'Esencia de Goblin' a la vez no era algo que el jugador promedio pudiera sacar de su inventario en este momento. Eso era a menos que pertenecieran a un gran gremio que poseyera una gran cantidad de recursos debido a la cantidad de jugadores que cultivan para ellos.
+
+La información sobre Izroth era realmente muy popular entre los gremios en estos días. Incluso si los gremios no pudieran reclutarlo, al menos podrían obtener una mejor comprensión de sus fortalezas y debilidades, así como su nivel de amenaza general para sus intereses. Los primeros claros eran algo dominado por los grandes gremios y, por lo tanto, si uno iba en contra de esa ola, solo los problemas los aguardarían. Aunque los gremios grandes nunca tomaron medidas por sí mismos, siempre usaron un gremio más pequeño debajo de ellos para administrar la tarea, ya que no podían manchar su reputación y ser conocidos como un gremio que intimidaba a los jugadores. ¡No sería bueno para su imagen pública, especialmente porque RML acaba de ser lanzado!
+
+Izroth frunció el ceño cuando vio que Metronome estaba yendo tan lejos del tema, "¿Te gustaría comprar la 'Esencia de Goblin' o no?". Se suponía que Izroth se reuniría con Halls y Luna en una hora y todavía tenía que encontrar el edificio de la clase Combat Master. No solo eso, sino que también necesitaba completar la misión que Gear le había confiado.
+
+Metronome estaba un poco avergonzado por su falta de etiqueta adecuada, "Ah sí, sí, por supuesto, los compraré" después de pensar por un momento que se le ocurrió un precio justo pero mostró un poco de moderación ya que quería convertirse en amigos de un jugador fuerte como Izroth.
+
+"Aunque 'Goblin's Essence' es poco común en este punto, no es hasta el punto de ser extremadamente raro o difícil de obtener. Sin embargo, dado que los gremios grandes están acumulando materiales y comprando el mercado, se vuelve más difícil para jugadores pequeños como para conseguirlo en grandes cantidades. Teniendo todo eso en cuenta, puedo ofrecerte 2 monedas de plata y 20 de bronce por esencia. Las monedas de bronce son un aumento del 10% del valor total debido a que las tienes en un lote de 5 o más. Aunque si quieres vender menos de 5, solo puedo hacer 2 monedas de plata por cada uno. Esa es mi oferta ".
+
+Izroth observó a Metronome con atención mientras hablaban. Desde su lenguaje corporal hasta su tono de voz y la dilatación de sus pupilas. Aunque Izroth no tenía conocimiento de los precios que valían los artículos en este juego, todavía vivió durante miles de años y tenía experiencia en saber cuándo alguien estaba mintiendo o no. Si alguien quisiera acostarse frente a él, necesitaría un control casi perfecto sobre su cuerpo y sus emociones, lo cual era algo increíblemente difícil de lograr.
+
+Izroth no respondió de inmediato y esperó unos momentos.
+
+Metronome esperaba pacientemente a que Izroth respondiera a su oferta. Era una oferta sólida y definitivamente no una que haría como primer intento de compra de algún jugador al azar. Quería formar una pequeña conexión con Izroth para que en el futuro pudiera aprovechar la oportunidad de capitalizarlo.
+
+"No tengo ningún problema con el precio, sin embargo, tengo una condición" Izroth finalmente rompió el silencio.
+
+Metronome frunció el ceño por dentro, ya le había dado a Izroth el mejor trato posible. Si Izroth pidiera más que eso, ¡significaría que quería que Metronome sufriera una pérdida! Eso era pedir demasiado.
+
+"Quiero la ubicación del edificio de la clase Combat Master. Si me puedes dar esa información, te venderé las siete 'Esencia de Goblin' al precio que establezcas".
+
+Metronome dejó escapar un suspiro de alivio cuando escuchó a Izroth hablar y esa enorme sonrisa regresó a su rostro. A pesar de que estaba sorprendido de que Izroth estuviera pidiendo esa ubicación, pudo conectar los puntos y descubrir que lo más probable es que su clase fuera un Maestro de combate. Ese es el tipo de información que podría vender fácilmente a los gremios más grandes que buscan a Izroth. No tenía intenciones de hacerse enemigo de alguien como Izroth, ya que conocía sus propios límites, pero no debería estar mal vender solo un poco de información sobre él.
+
+"Por supuesto, eso no es ningún problema. Si me agregas a tu lista de amigos, ¡incluso puedo enviarte un mensaje con las coordenadas!". La mayoría de los jugadores probablemente no sabrían dónde estaba el edificio de la clase Combat Master, ya que cualquiera en su sano juicio no se molestaría en elegir esa clase. Sin embargo, Metronome lo había encontrado por casualidad mientras exploraba Amaharpe por primera vez.
+
+¡Timbre! Has recibido una solicitud de amistad del jugador Metronome, ¿aceptas?
+
+Izroth no encontró ninguna razón para no aprobar y aceptó la solicitud de amistad.
+
+¡Timbre! ¡Has añadido a Metronome como amigo!
+
+Poco después, Metronome envió las coordenadas a Izroth cuando aparecieron en las alertas de su sistema. Luego, los dos completaron la transacción original. Izroth adquirió 15 monedas de plata y 40 de bronce de Metronome y ahora tenía un total de 38 monedas de plata y 26 de bronce.
+
+"Es un placer hacer negocios contigo, Izroth. Espero que si encuentras algún material en el futuro, me lo informes para que pueda comprárselo! Incluso si yo mismo no los necesito, tengo algunas conexiones y debería poder encontrarle un comprador adecuado ", declaró Metronome tratando de decirle discretamente a Izroth que conocerlo tendría sus beneficios.
+
+Izroth entendió su significado por sus palabras y acciones. No era malo tener a alguien que pudiera lidiar con la venta de materiales por él. Después de todo, no tendría tiempo para sentarse así y venderlos él mismo. Izroth asintió levemente antes de caminar hacia las coordenadas que recibió de Metronome que contenían la ubicación del edificio de la clase Combat Master.
+
+Unos minutos más tarde, Izroth se detuvo frente a un majestuoso edificio. "¿Este es el edificio de la clase Combat Master de la capital ...?" Izroth estaba desconcertado por la diferencia entre este edificio y el ubicado en 'Opal Town'. ¡La diferencia era como la del día y la noche!
+27 El amigo de Gear
+Izroth casi pensó que Metronome le dio coordenadas incorrectas, sin embargo, después de ver un letrero que decía 'Maestro de combate' junto con el símbolo de la clase colocado en el centro del edificio, Izroth supo que esta era de hecho la ubicación correcta.
+
+Caminó hasta la puerta y la abrió entrando en el extravagante edificio. Cuando entró, no fue menos lujoso. Había pinturas por todas partes, con suelos de mármol y candelabros de cristal colgando del techo.
+
+Justo cuando Izroth miraba a su alrededor, escuchó pasos que se acercaban desde un pasillo ubicado cerca de la parte posterior del área de entrada principal.
+
+No mucho después, un hombre salió del pasillo con una expresión severa y estricta en su rostro. Llevaba una lujosa túnica con un forro dorado a lo largo de los bordes. Su cabello se mantuvo en su lugar y fue suavemente hacia atrás luciendo ordenado. Emitía un aura noble de autoridad que ocultaba una fracción de presión detrás de ella que combinaba perfectamente con su robusta constitución.
+
+Izroth pudo decir a primera vista que se trataba de alguien que probablemente tenía un estatus importante dentro de la ciudad capital, Amaharpe. Pero este hombre parecía vivir una vida completamente diferente a la de Gear, por lo que existía la posibilidad de que esta persona no fuera el amigo que estaba buscando.
+
+El hombre se detuvo a unos 5 metros de Izroth y comenzó a evaluarlo, examinándolo de la cabeza a los pies. "¿Qué negocios tienes aquí? Este es un lugar sagrado para los Maestros de Combate, no cualquiera puede entrar". el hombre tenía una mirada seria en su rostro.
+
+¿Un lugar sagrado para Combat Masters? Esta persona parecía tener una mentalidad increíblemente elitista como si estuviera por encima de todos y de todo.
+
+Izroth nunca se llevó muy bien con personas así desde el momento en que comenzó su viaje de cultivo, hasta que alcanzó la cima. No se molestaría en ser cortés después de recibir un saludo tan desagradable. "Tengo una carta aquí para entregar a alguien que conoce a un hombre llamado Gear" Izroth recuperó la carta que obtuvo de Gear colocada en su inventario antes de salir de 'Opal Town'. Había un sello especial en la carta para que uno pudiera saber si el contenido fue realmente enviado por esa persona o no. ¡El sello definitivamente coincidía con el de Gear! Cuando el hombre se puso al alcance, Izroth finalmente pudo ver su información.
+
+Nombre de NPC: Terminus (???)
+
+Nivel de NPC: ???
+
+Terminus se tomó solo un momento para examinar la carta y, aunque su expresión facial aún era severa y estricta, ya no intentó presionar a Izroth con su aura. "Hmph ... ¿Qué quiere ese viejo tonto borracho ahora? Si quiere más monedas de oro, entonces puedes decirle que lo olvide. Ya le envié lo suficiente para que dure más de diez vidas" parecía como si supiera Gear personalmente después de todo.
+
+"Gear me dijo que era importante que esta carta te llegara. Solo estoy haciendo un favor, eso es todo. Si lo aceptas o no, no tiene nada que ver conmigo" dijo Izroth en tono firme.
+
+
+Terminus entrecerró los ojos mientras miraba a Izroth. Había pasado mucho tiempo desde que alguien se atrevió a hablarle de una manera tan rebelde. Pero, cuando escuchó las palabras que dijo Izroth, supo que el asunto tenía que ser serio para que ese viejo tonto dijera que era importante. Eso significaba que era algo que ni siquiera él confiaba en manejar solo. Decidió recibir la carta de Izroth y leerla.
+
+Cuanto más leía Terminus, más fea se volvía su expresión facial, "¿Cómo podría ser esto posible ...? Todavía deberían estar sellados ..." terminó de leer la carta y tenía una mirada increíblemente sombría en su rostro mientras se masajeaba las sienes. "Si lo que dice en esta carta es cierto, entonces no pasará mucho tiempo hasta que 'eso' venga por ese artículo aquí en Amaharpe ..." murmuró Terminus para sí mismo.
+
+"Joven aventurero, has hecho una hazaña increíblemente importante al traerme esta carta. Mi saludo anterior fue insatisfactorio, tienes mis disculpas" La impresión de Terminus de Izroth mejoró enormemente después de conocer la tarea que acababa de completar. Además, a pesar de que habló mal de Gear, en realidad eran amigos muy cercanos que enfrentaban la vida y la muerte juntos. Si Gear confiaba lo suficiente en Izroth para entregar una carta tan importante, eso significaba que debía haber sido una persona talentosa digna de la confianza y el respeto de Gear. Luego arrojó una pequeña placa a Izroth con una firma mágica única incrustada en ella.
+
+¡Timbre! Felicitaciones, has completado la misión "Un viejo amigo".
+
+Recompensas:
+
+-2 monedas de plata
+
+-500 EXP
+
+-1 Insignia de clase oficial
+
+Izroth tomó la insignia y la miró.
+
+Nombre del artículo: Insignia oficial de maestro de combate
+
+Uso: entrada gratuita a cualquier instalación de maestro de combate oficialmente reconocida. Entrada gratuita a la capital de Amaharpe sin carta de recomendación. 10% de descuento en la tarifa en la casa de subastas ubicada en Amaharpe. Este artículo no se puede vender ni intercambiar.
+
+Izroth puso el artículo en su inventario antes de asentir levemente a Terminus. Tenía curiosidad por saber cuál era el contenido de la carta, ya que obviamente era algo de gran importancia, sin embargo, no parecía que la información que Terminus estuviera dispuesta a compartir. "Entonces, me iré" Izroth se dio la vuelta y comenzó a dirigirse hacia la salida del edificio.
+
+"¡Espera un momento!" Terminus llamó a Izroth cuando se detuvo y miró hacia Terminus con el ceño fruncido. Terminus pareció dudar un poco al principio, pero después de recordar que se trataba de alguien aprobado por Gear, se sintió un poco más relajado sobre el asunto. "Tengo un favor para pedirte descaradamente. Serás recompensado sin duda, pero debes tener mucho cuidado con lo que estoy a punto de confiarte" Terminus tenía una mirada solemne en su rostro mientras hablaba con Izroth.
+
+Izroth lo pensó por un momento y pensó que podría tener algo que ver con la carta que escribió Gear. Sin otra razón que satisfacer su curiosidad, decidió escuchar a Terminus.
+
+"No puedo entrar en tantos detalles al respecto. Pero necesito que me confirmes algo. Lo que voy a decirte actualmente solo lo sé yo, Gear y probablemente otros cinco. Por lo tanto, tengo que pedirle que tenga cuidado al manejar esta información, o puede traer la destrucción sobre sí mismo. Lo digo por su propio bien y no como una amenaza "él sintió que era correcto informar a Izroth sobre el peligro potencial en el que estaría si aceptaba su solicitud. Pero, ¿cómo podía Izroth tener miedo de un poco de peligro?
+
+"Escucharé" Izroth comenzó a reevaluar Terminus. A pesar de que actuó como un elitista, aún pudo dejar de lado su orgullo y pedir un favor, así como disculparse antes. Esto significaba que no ignoró el panorama general de las cosas.
+
+"Aproximadamente a 10 kilómetros al oeste de Amaharpe hay una región de montañas cercana. Desafortunadamente, no puedo hacer el viaje por mí mismo porque debo prepararme para ... Ciertos eventos que se avecinan. Por lo tanto, necesito que viaje al centro de esa región montañosa y obtener un objeto en particular de una vidente conocida por Tererestiaa. Ella es una vidente poderosa capaz de mirar hacia el futuro cercano, por lo que sabrá por qué estás allí. Es importante que regreses con este objeto, extremadamente Importante. Solo te encomiendo esta tarea a ti porque eres alguien en quien Gear confía, y aunque puede ser un viejo tonto borracho, no cede su confianza a los demás tan fácilmente "Terminus explicó la tarea que tenía para Izroth y poco después de un La alerta del sistema sonó.
+
+¡Timbre! ¡Has recibido la misión "Viaje al vidente"!
+
+¡Timbre! Como tu grupo no cumple con los requisitos recomendados, ¡el rango de la misión ha aumentado!
+
+¡Timbre! ¿Deseas aceptar?
+
+Nombre de la misión: Viaje al vidente
+
+Nivel recomendado: 15
+
+Tamaño de grupo recomendado: 6
+
+Rango de la misión: S
+
+Objetivo de la misión: Viaja a la región montañosa al oeste de la ciudad capital, Amaharpe. Allí, debes encontrar al Seer Tererestiaa, recuperar el objeto importante de ellos y regresar a la ciudad capital de Amaharpe para entregar el objeto a Terminus.
+
+Límite de tiempo: 2 días
+
+-0/1 Encuentra al vidente Tererestiaa
+
+-0/1 Recupera el objeto especial
+
+-0/1 Entrega el objeto especial a Terminus en Amaharpe
+
+Recompensas:
+
+-1 moneda de oro
+
+-10,000 EXP
+
+-Un equipo de rango raro
+
+Penalización por falla:
+
+-Perdió 20.000 EXP
+
+- ???
+
+Nota especial: esta misión se puede compartir con hasta 5 jugadores más.
+
+Cuando Izroth vio las generosas recompensas por completar la misión, estaba agradecido de haber decidido no ignorar a Terminus y salir del edificio. Si eso sucediera, ¡nunca habría tenido la oportunidad de recibir una misión tan increíble! Izroth no dudó en aceptar la misión, lo hizo inmediatamente después de ver las recompensas, sin poner la penalización por fallar en su vista.
+
+¡Timbre! ¡La misión mundial "Viaje al vidente" ahora está activa en tus registros de misiones!
+
+¡Timbre! ¡Se ha iniciado el límite de tiempo de la misión de 'Viaje al vidente'! ¡Quedan 2 días!
+
+Terminus asintió con la cabeza de una manera satisfecho cuando Izroth aceptó su favor. "Te advierto una vez más que andes con cuidado. Debo despedirme" La figura de Terminus se volvió borrosa como si estuviera desapareciendo gradualmente antes de que pronto desapareciera por completo.
+
+"Qué habilidad tan interesante ..." pensó Izroth para sí mismo mientras veía a Terminus desaparecer. Puede haber sido una habilidad de movimiento a la par con los 'Pasos parpadeantes' de Gear, tal vez incluso un poco más poderosa.
+
+Se acercaba el momento en que se suponía que se encontraría con Luna y Halls en la puerta. Todavía tenía alrededor de 25 minutos para desperdiciar y decidió que exploraría Amaharpe un poco más para familiarizarse con él.
+
+Izroth salió del edificio Combat Master y comenzó a deambular. "Así que esta es la ciudad que será destruida si la misión 'El comienzo de los comienzos' no se completa ... ¿Cuánto poder se necesitaría para hacer tal cosa?" Izroth tenía una estimación aproximada de cuán fuertes eran personajes como Terminus y Gear. Seguramente habría gente tan fuerte o tal vez incluso más fuerte que ellos en la capital de Amaharpe. Además, la barrera mágica que protege toda la ciudad debe haber costado una cantidad astronómica de recursos para construir y mantener. Si algo o alguien fue lo suficientemente poderoso como para destruir toda la ciudad, ¡debe haber significado que su poder podría considerarse incomparable en comparación con la gente de esta capital!
+
+Después de explorar la capital durante unos 20 minutos, Izroth decidió que era hora de regresar a la puerta para encontrarse con Halls y Luna.
+
+"¡Oye! ¡Espera un momento!" alguien llamó a Izroth mientras caminaba. Aunque Izroth no pensó que alguien le estuviera hablando y siguió caminando.
+
+"¡Tú con la espada en tu espalda! ¡Espera ahí mismo!" la voz sonó una vez más.
+
+Esta vez, Izroth se detuvo y se volvió para mirar a la persona que gritaba. Era una mujer con el pelo rojo brillante, una figura peligrosamente curvilínea y una cara bonita que tendría a muchos hombres luchando por ganarse su amor.
+
+"¿Qué es?" Izroth no se inmutó cuando vio su belleza. Después de todo, este era alguien que era el cultivador número uno dentro de los siete reinos.
+
+La mujer estaba un poco sorprendida por la actitud indiferente de Izroth. Por lo general, los hombres siempre intentaban ganarse su favor o desmayarse por ella, pero Izroth parecía no verse afectado por su belleza.
+
+Aunque se sorprendió por un momento, rápidamente recuperó la compostura y continuó: "Estoy sola y buscando a alguien con quien festejar. ¿Te importa si me uno a ti? Ah, por cierto, soy una maga". La mujer tenía una hermosa sonrisa en su rostro mientras hablaba con Izroth en un tono cortés y atractivo.
+
+"Ella está mintiendo ..." Izroth entrecerró los ojos mientras pensaba para sí mismo.
+28 El punto de encuentro
+Las pupilas de la mujer se dilataron levemente al afirmar que estaba sola y su lenguaje corporal se sintió forzado en ciertos puntos. La mayoría de las personas no podrían percibir un cambio tan pequeño, pero después de haber alcanzado la segunda etapa del físico del 'Cuerpo Dorado Celestial', Izroth lo recogió con facilidad.
+
+Izroth mantuvo sus ojos en la mujer frente a él, pero sus sentidos estaban realmente enfocados en buscar cerca.
+
+"Fools..." Izroth thought to himself when he noticed three other people observing him from an alleyway not far away, he knew exactly what kind of people they were. "If you want to plot against me, you have to put in a little more effort" Izroth said within his mind. During his younger years of cultivation when he was very inexperienced, a beautiful girl approached him and asked if he would like to accompany her on a mission. Being his naive younger self, as well as being drawn by her beauty, Izroth agreed without hesitation.
+
+Izroth soon after found himself in a situation where he almost lost his life after being ambushed and betrayed by the beautiful girl he was with. He walked directly into a trap in which the girl lured him away from safety and then her acquaintances all attacked him at once. He promised himself from then on that he would never let beauty sway him again.
+
+Thinking back to such a memory Izroth could only internally shake his head from how ignorant he was. Normally he would ignore such a thing, but some people wanted to the source of their own destruction.
+
+Izroth gave a slight smile, "I already have two other players in my party. If they agree to let you join, then I have no issues with it" there was no way that Halls or Luna would disagree with letting someone Izroth brought along with him join their party.
+
+The woman feigned relief and an excited expression when Izroth responded to her. "That's alright, you can discuss it with your party members first. I'm called Scarlet, may I know your name?" she spoke in an understanding tone. On the inside, she was a bit annoyed that Izroth had others with him, but there was a chance they could still go through with the plan. If they turned out to be too strong then she would just make up an excuse to leave and find another target. However, if they were able to be handled without issue then this could be an even bigger catch than normal!
+
+"Izroth" he responded while starting to walk once more towards the gate to meet with Halls and Luna.
+
+For some reason when she heard that name it sounded incredibly familiar to her, but she couldn't quite put her finger on it while thinking to herself, "Why do I feel like I've heard that name before...?" a small frown appeared on her face as she tried thinking but came up empty. "It may just sound similar to a name I heard before.." she thought to herself. "Nice to meet you, Izroth" she followed after him as she held tightly onto the spell staff in her hands trying to catch up with Izroth's walking pace.
+
+
+Soon after Izroth and Scarlet left, three figures stepped out from a nearby alleyway. There were two of them with a dagger on their waist and the other one had a bow placed upon his back.
+
+"This is a big score! That's a rare weapon, I can tell by the aura around it! Hahaha, this is our lucky day boys."
+
+"Heh and to think that we were just getting ready to leave after not finding any decent targets. Such a big fish walks itself right into the net to be caught."
+
+"Scarlet sure knows how to play her role properly. That guy is probably blinded by her beauty and has no idea what awaits him. Well, he can only blame himself for flashing such a thing around."
+
+The three men names were Coldface, HappyTimes, and FatalSymmetry. Along with Scarlet, the four of them went around Amaharpe looking for potential players to make a profit off of. So far they've only come across small targets that did not have much to offer, but this time was different. They discovered someone who possessed a rare weapon!
+
+How valuable was a rare weapon this early in the game? Most likely only those big guilds managed to obtain a few for their core members and they did not dare think about stealing from them. So when they saw Izroth moments ago leaving from the Combat Master class building, they knew the chances of him being a part of a strong guild was extremely low. One had to know that most large guilds banned their members from playing the Combat Master class because of how unreliable and unpredictable it was. So much so that they decided to just regard it as a trash class.
+
+"Hehe... We'll make a killing off of this boys. We can directly sell something like that without the auction house and earn a large profit! Once we convert the gold into real money, who knows how much we can make?". In RML there existed a system that directly linked players bank accounts to the game when they first registered for it. This was because coins could be exchanged for real-world currency! At the moment the currency for gold to RMB was 1:1000.
+
+This meant for every 1 gold coin exchanged, players would receive 1,000 RMB in return. If they sold that rare weapon to the highest bidder, the minimum received would probably be around 50,000 RMB! The best time to do so was this early into the game when gold coins were not commonplace amongst the vast majority of players. As more and more players began to trade in their coins for RMB the value would naturally lower. The bigger guilds would do whatever was needed to stay in the lead ahead of others. Right now rare weapons were the strongest available weapon and they were not numerous. All the largest guilds were sponsored by incredibly wealthy companies who felt the investment was worth it for a game like RML.
+
+...
+
+Izroth reached the front gate where Halls and Luna were already waiting. Though when they saw Izroth brought along someone with him they were surprised. Wasn't he a loner? How come he came back all of a sudden with someone else?
+
+Luna frowned and felt uncomfortable when she saw the person Izroth returned with was a woman! Not only that, but she was very pretty with a nice figure. "Maybe that's more his type..." Luna thought to herself. But she quickly cleared her head of such thoughts while questioning herself. Since when was it her business who Izroth kept in his company? Luna wouldn't admit it to herself, but at that moment she felt a little emptiness in the pit of her stomach as though a small hole had formed.
+
+Izroth approached Halls and Luna with Scarlet trailing right behind him. "This is Scarlet, a Mage. They are alone and wish to join us. Is there any trouble with this?" Izroth gave Halls and Luna a meaningful look. Although neither of them understood his intentions, they had no reason to not allow another member into their party. Plus, that person was personally invited by Izroth! There was a high chance that maybe he fell for her.
+
+Luna was reluctant to agree, but when she saw the meaningful look Izroth made she could only give up on any signs of protest. "I have no problems with it" Luna forced out from her mouth.
+
+Halls was a bit surprised when he heard Luna give her approval before he even spoke. He may have been a bit dense sometimes, but not so much that he didn't realize the way Luna had been looking at Izroth. If she agreed already, how could he possibly not do so as well? Halls nodded his head before saying, "If she's a friend of yours Izroth then, of course, we'll invite her" he sent a party invite to Scarlet and she soon accepted.
+
+When she first arrived at the gate, the first thing she noticed was the sword at Halls waist. That was a rare weapon! Two rare weapons in the same party? Her heart started racing as she noticed that and couldn't help but ask, "Are you all a part of a guild?" she could not risk offending one of the big guilds and so she had to understand exactly what she was getting herself in to.
+
+Halls shook his head, "None of us are in any guilds. Our meeting was based purely on fate" when Halls answered Scarlet, she felt a huge relief in her heart. But when she realized what their levels were she felt kind of silly for even asking the question. There was no way those big guilds would give rare weapons to someone who was only level 12 and level 13.
+
+Party:
+
+Name: Halls
+
+Class: Warrior
+
+Level: 13
+
+HP: 1500/1500
+
+MP: 100/100
+
+Name: Luna
+
+Class: Cleric
+
+Level: 13
+
+HP: 600/600
+
+MP: 625/625
+
+Name: Izroth
+
+Class: Combat Master
+
+Level: 12
+
+HP: 900/900
+
+Energy: 100/100
+
+Name: Scarlet
+
+Class: Mage
+
+Level: 15
+
+HP: 660/660
+
+MP: 830/830
+
+Luna and Halls were a bit shocked, she was actually a level 15 Mage! They expected her to be at the same or lower level than their own, but she was actually a higher level. Although Halls did not find it strange, Luna found the situation bizarre. It all didn't add up to Luna that a Mage higher leveled than them would be without a party and wanted to join a group of people with a lower level. She had a bad feeling about Scarlet, but since Izroth was the one to bring her here she could only silently endure.
+
+"Did you guys manage to find any good quest? I found a few that are C rank and pretty easy to complete. The EXP isn't too bad, but the loot isn't that great for it" Halls said sounding a bit dispirited. He spent most of the last one hour searching for a quest to do. He was hoping to find at least a B rank quest but came up empty-handed.
+
+Luna nodded, "I found a few C rank quest. But I also managed to find a B rank quest by chance".
+
+Halls let out a long sigh, "Can I have some of your luck please Luna? Some of us were born under an unlucky star" Halls joked around.
+
+"I have an S ranked quest" Izroth spoke in a nonchalant manner. But when Halls, Luna, and even Scarlet heard that, their eyes all widened in shock! An S ranked quest? Did they hear correctly?
+
+"Haha...ha... Sorry sorry, I think my character's listening function broke for a moment. I could have sworn I heard you say an S ranked quest hahaha..." Halls was in denial.
+
+Izroth nodded, "I do have it. But I can only share it with two other people. Since the three of us formed a party first, naturally it would be you two" this was a lie Izroth told. In fact, he could share the quest with up to 5 people, but why would he give benefits to someone trying to scheme against him.
+
+When Scarlet heard that her facial expression turned grim, but quickly fixed it. An S ranked quest was something she could only dream about! The rewards were sure to be incredible! She had to find a way to make Izroth choose her instead of one of his current party members. "Hey... Since I'm the highest level here and will be of most help, shouldn't you give one of the quest slots to me? No offense, but I'll be far more useful than either of them" Scarlet said with a voice full of confidence.
+
+When Halls and Luna heard what Scarlet said, their impression of her hit an all-time low and a frown revealed itself upon both of their faces.
+
+Izroth shook his head, "We have been in a party since 'Opal Town'. It's only fair that the two slots go to them" Izroth sounded extremely firm and set in his decision. This made Scarlet scowl but even more so she felt angry inside that Izroth could dismiss her so easily.
+
+"Fine, enjoy your stupid S ranked quest. Hmph, we'll see if you can even complete it..." Scarlet's heart turned cold but she didn't continue to press the matter.
+
+Izroth shared the quest with Halls and Luna, however, soon as they saw the quest they felt cold sweats on their backs. This was an authentic S ranked quest! The EXP and rewards were amazing, especially the rare piece of equipment. Another thing that caught their attention was that at the very bottom of the quest they noticed that it could be shared with up to five people. This confused them since Izroth just said a few moments ago it could only be shared with two other people.
+
+Halls and Luna both exchanged a small glance before looking at Izroth. He currently had a carefree smile on his face as they watched at him. Although Halls didn't completely understand the situation, he knew there was no chance Izroth hadn't noticed the quest could be shared with more people. Luna, on the other hand, pieced things together a bit better than Halls. Even if Luna wasn't able to grasp everything, her feeling from before told her something was going on that Izroth decided not to tell them about. It was strange considering his straightforward attitude, but he must have his reasons so Luna did not question him about it.
+
+Halls was all pumped up and ready to go with the motivation of an S ranked quest! "Mountain region here we come! Hahaha!".
+
+Izroth, Luna, Halls, and Scarlet exited from the gate of Amaharpe. Their destination? The mountain region to the west!
+29 Región montañosa peligrosa
+Después de viajar durante unos 30 minutos, Izroth y su grupo llegaron a la sección más exterior de la región montañosa. Fue en este punto que ya no estaban dentro de la jurisdicción de Amaharpe y, en cambio, en un área que pertenecía a los diversos monstruos y pequeñas tribus que vivían en la región montañosa.
+
+Como tanque, Halls estaba naturalmente al frente del grupo para asegurarse de que cualquier monstruo con el que se encontraran lo atacara primero. Izroth no estaba muy lejos de Halls caminando a su propio ritmo. Luna y Scarlet estaban al final del grupo, que era la posición natural para los estilos de juego a distancia.
+
+No muy lejos de ellos, Halls vio lo que parecía ser un grupo de rocas agrupadas moviéndose. Al principio, creyó que sus ojos le estaban jugando una mala pasada, pero cuanto más miraba, menos parecía ser así.
+
+"Prepárense", dijo Izroth en voz baja a Halls.
+
+...
+
+Hace aproximadamente una hora, cuando Izroth todavía estaba dentro del edificio de la clase Combat Master hablando con Terminus, en la sede de la compañía de juegos que hizo RML había dos personas en una pequeña habitación.
+
+La habitación estaba llena de todo tipo de computadoras, cables y monitores por todo el lugar. Un hombre con gafas y cabello desordenado se sentó frente a un escritorio que estaba rodeado de aparatos electrónicos. Detrás de él había una mujer con el pelo rojo brillante y un pequeño ceño fruncido en la cara.
+
+"¿Estás seguro de que deberíamos involucrar a los jugadores habituales en esto? Mentiría si dijera que no me sentí mal al llevar a un grupo de jugadores a su posible muerte. No tengo ningún problema en entrar, pero ... ¿Qué es exactamente eso? quieres que descubra ...? " Dijo la mujer con el pelo rojo brillante.
+
+"No tienes que hacer mucho realmente ... Solo actúa como un amigo, pero juega al enemigo en secreto. El objetivo es solo confirmar mis teorías y para que eso suceda, necesito que seas testigo de primera mano. Tu personaje es ya configurado y listo para funcionar ". el hombre de anteojos habló sin apartar la mirada de la pantalla de su computadora. ¡Los datos frente a sus ojos eran demasiado sorprendentes para apartar la cabeza! Nunca antes había visto algo así en este mundo.
+
+La mujer dejó escapar un suspiro, "No veo qué es tan interesante acerca de un jugador ... Pero, como te debo, supongo que interpretaré al villano como pago", dijo de mala gana.
+
+El hombre soltó una pequeña carcajada, "Aceptaré descaradamente ese pago. No te preocupes, solo inicia sesión en tu personaje y sigue el plan. Incluso si él se da cuenta de que eso también está bien. Solo recuerda, no rompe tu personaje, cuanto más creas que es cierto, más precisos son los datos. Tú eres el villano en este escenario, después de todo, es un juego de rol ".
+
+La mujer pelirroja asintió y se marchó en silencio.
+
+"Veamos exactamente qué hace a tu personaje tan especial ..." dijo el hombre sentado frente al escritorio con una leve sonrisa en su rostro.
+
+...
+
+Cuando el grupo llegó a unos 15 metros del grupo de rocas agrupadas, comenzó a desplazarse y moverse. Unos segundos después, un par de ojos azules sin vida se quedaron mirando al grupo de jugadores que estaban frente a él. ¡Era una especie de monstruo de roca!
+
+
+Nombre: Mountain Golem (Normal)
+
+Nivel: 15
+
+HP: 5,000 / 5,000
+
+ATK: 280
+
+DEF: 100
+
+AGI: 20
+
+MAG: 0
+
+Habilidades:
+
+Temblor (activo): Inflige el 100% del ataque del golem como daño a todos los enemigos en un radio de 10 metros.
+
+Lanzamiento de piedra (activo): lanza una piedra grande de hasta 25 metros a un enemigo objetivo, lo que inflige 150% de su ataque como daño y lo aturde durante 3 segundos.
+
+Resistencia a la magia de la tierra (pasiva): la magia de la tierra utilizada contra este gólem tiene su daño reducido en un 90%.
+
+¡Qué alto HP y ataque! Su estadística de defensa también era bastante alta. Sin mencionar que también tenía una habilidad que podía aturdir a un objetivo durante 3 segundos. Pero lo que lo hizo soportable fue su estadística de agilidad increíblemente baja. Eso significaba que no sería difícil lanzar un ataque preciso porque carecía de la velocidad para evitarlo. En cuanto a su resistencia mágica pasiva, solo un tonto usaría magia terrestre en algo hecho completamente de tierra.
+
+Halls fue el primero en dar un paso adelante, desenvainando su 'Shadow Fang Sword' que adquirió al derrotar al primer jefe mundial y sosteniendo su escudo frente a él. Su escudo se iluminó con un color rojo brillante cuando un aura extraña se precipitó envolviendo al 'Mountain Golem'. Halls usó la habilidad 'Taunting Aura' para bloquear el enfoque del 'Mountain Golem' en sí mismo.
+
+Nombre de la habilidad: Aura burlona
+
+Nivel de habilidad: MAXED
+
+Rango de habilidad: C
+
+Requisitos: Nivel 10
+
+Costo de maná de guerrero : 20
+
+Activa: Libera un aura de batalla increíble hacia un enemigo objetivo que lo hace enfocar sus ataques en el usuario de esta habilidad. Aumenta el 'Nivel de amenaza' en un 50%.
+
+Enfriamiento: 25 segundos
+
+El Mountain Golem dejó escapar un rugido profundo y avanzó lentamente.
+
+Halls corrió hacia adelante para encontrarse con el monstruo que balanceaba su 'Shadow Fang Sword' hacia afuera y golpeaba la dura piel de piedra del golem.
+
+-40 HP!
+
+4960/5000 HP restantes! (Golem de montaña)
+
+"¡Qué defensa tan dura ...!" Halls se sorprendió por el poco daño que hizo con su ataque. A pesar de que era un tanque, todavía estaba orgulloso de su ataque por encima del promedio debido a que poseía la 'Espada Colmillo Sombrío', ¡pero este golem tenía una defensa tan increíble que era difícil incluso rasparlo!
+
+¡Wooooooosh!
+
+Una fuerte ola de calor invadió el aire cuando una bola de fuego se estrelló contra el cuerpo del 'Mountain Golem' haciendo que detuviera sus pasos por un momento.
+
+Scarlet usó la habilidad "Bola de fuego" en el golem. Dado que infligió daño mágico en lugar de daño físico, la cantidad de su 'Bola de fuego' hizo mucho más que el ataque básico de Hall. Esto la hizo sentirse orgullosa de sí misma porque Scarlet sabía que sería la más útil de todos los presentes.
+
+Nombre de la habilidad:
+
+
+
+Rango de habilidad: C
+
+Requisitos: Nivel 10
+
+Costo de maná de mago : 50
+
+Tiempo de
+
+lanzamiento : 2 segundos Activa: Dispara una bola de fuego infundida con maná altamente concentrado que inflige 150% de la magia del usuario como daño a un enemigo en un radio de 20 metros.
+
+Enfriamiento: 5 segundos
+
+-293 HP!
+
+-4,667 / 5,000 HP restantes! (Mountain Golem)
+
+Halls y Luna se sorprendieron por la cantidad de daño que Scarlet hizo con una sola habilidad. ¡Con un solo golpe logró eliminar más del 5% del ridículo HP de ese golem! Sin embargo, después de recordar quién más estaba en su grupo, no pudieron evitar sentir que todavía faltaba en comparación.
+
+Izroth se movió de una manera natural, mientras desenvainaba su 'Espada sin nombre' y cortaba directamente al 'Mountain Golem'. Su espada estaba rodeada por un aura azul lechosa clara acompañada de su fuerza opresiva característica. Izroth usó las habilidades 'Primera espada funesta: Destrucción' junto con la habilidad de arma 'Fuerza de espada'.
+
+¡Ziiiiiiiiiiiing! ¡Barra oblicua!
+
+-1,160 HP!
+
+3507/5000 HP restantes! (Mountain Golem)
+
+Alerta de batalla: ¡el jugador Izroth ha 'Temido' a Mountain Golem durante 3 segundos!
+
+Izroth se sorprendió gratamente, esta fue la primera vez que su 'Primera espada funesta: Destrucción' activó su efecto 'Miedo'.
+
+Halls y Luna estaban mucho mejor preparados para un número de daño ridículo, sin embargo, ¡Scarlet estaba completamente atónita! Izroth infligió más de 1,000 daños a un monstruo que tenía una alta defensa física, ¡eso fue una locura!
+
+Scarlet se estremeció al sentir un sudor frío correr por su espalda. ¿Cuál fue ese daño?
+
+"Es un maestro de combate ... ¿Cómo puede hacer un daño tan alto ...?" Los ojos escarlata se llenaron de sorpresa. En algún momento, un sentimiento de duda comenzó a surgir dentro de ella. Scarlet sintió que incluso si su grupo tuviera dos pícaros de nivel 15 y un guardabosques de nivel 16, es posible que no pudieran hacer frente a un daño de ataque tan monstruoso.
+
+Mientras el golem estaba bajo el efecto 'Temido', Izroth no cedió en su asalto. La energía concentrada convergió en la punta de su dedo. Un momento después, golpeó directamente hacia el cuello del 'Mountain Golem', Izroth estaba atacando con una de sus nuevas habilidades 'Fissuring Point'.
+
+El dedo de Izroth atravesó las defensas del golem de piedra con relativa facilidad.
+
+-140 HP!
+
+¡3.367 / 5.000 HP restantes! (Mountain Golem)
+
+"Como pensaba ... El cuello de este golem no se considera un punto vital ..." pensó Izroth para sí mismo. Él esperaba tanto, pero aun así pensó que valía la pena probarlo por si no estaba equivocado.
+
+Scarlet no se sentó y se relajó durante ese tiempo. Ella ya estaba cargando su próximo hechizo, "¡Lanza llameante!". El fuego se formó en forma de lanza directamente frente a Scarlet. Un fuerte aura de maná bailó alrededor de la lanza antes de disparar hacia el 'Mountain Golem'.
+
+Nombre de la habilidad: Lanza llameante
+
+Nivel de la habilidad: 2/4
+
+Rango de la habilidad: B
+
+Requisitos: Nivel 15
+
+Costo de maná de mago : 150
+
+Tiempo de
+
+lanzamiento : 3 segundos Activa: Dispara una lanza infundida con maná altamente concentrado convertido en un poderoso aura de fuego que inflige 275% de la magia del usuario como daño a un enemigo dentro de los 25 metros.
+
+Enfriamiento: 45 segundos
+
+-536 HP!
+
+¡2.831 / 5.000 HP restantes! (Golem de montaña)
+
+Aunque su daño no fue tan alto como el de Izroth, todavía fue una cantidad impresionante.
+
+El efecto 'Temido' en el 'Mountain Golem' finalmente terminó cuando levantó su puño en el aire. Cuando Izroth vio al golem hacer eso, instantáneamente se retiró hacia atrás a una distancia segura. Poco después de que Izroth se retirara, el 'Mountain Golem' golpeó el suelo con su puño provocando un temblor.
+
+-180 HP
+
+1.320 / 1.500 HP restantes! (Halls)
+
+Halls perdió el equilibrio un poco por el repentino temblor causado por el 'Mountain Golem'. ¡Mientras recuperaba el equilibrio, el golem no detuvo su ataque mientras levantaba una piedra en el aire y la lanzaba directamente a Halls! Se las arregló para levantar su escudo a tiempo para bloquear parte del daño del ataque, pero aún así recibió un gran golpe.
+
+¡OBSTRUIDO!
+
+
+
+¡1.080 / 1.500 HP restantes! (Salas)
+
+Alerta de batalla: ¡Mountain Golem ha aturdido las Salas de jugadores durante 3 segundos!
+
++225 HP!
+
+1,305 / 1,500 HP restantes! (Halls)
+
+Luna usó 'Cure' en Halls para mantener su HP por encima del 75%. Como de costumbre, sus curaciones fueron cronometradas con precisión.
+
+Izroth pateó su pie derecho y corrió hacia el 'Mountain Golem'. Su pie derecho de repente pareció transformarse y moverse como si se deslizara, imitando el movimiento de una serpiente que ataca a su presa, 'Serpent's Bite', el pie de Izrot se estrelló contra el cuerpo del 'Mountain Golem' sacudiéndolo hasta su núcleo. y evitar que se mueva por completo.
+
+-35 HP!
+
+¡2.796 / 5.000 HP restantes! (Mountain Golem)
+
+Alerta de batalla: el jugador Izroth ha 'Paralizado'
+
+Aunque el daño en la habilidad fue increíblemente débil, ese no fue el enfoque principal de Izroth al aprender esta habilidad. Fue por el efecto del Paralizador que esta habilidad brilló entre las leyes celestiales que aprendió en su camino a Amaharpe.
+
+¡Con esa ventana de tiempo dada a Halls, no recibió más daño antes de finalmente deshacerse del efecto de aturdimiento del golem! El propio golem también logró liberarse del efecto 'Paralizar' de Izroth casi al mismo tiempo que Halls se liberó.
+
+¡Woooosh!
+
+¡Scarlet golpeó al golem de frente con otro hechizo 'Bola de fuego'! Halls siguió mientras su espada se convertía en una sombra liberando una presión aterradora. Esta era la habilidad de arma adjunta a su 'Shadow Fang Sword' llamada 'Shadow Pressure'.
+
+Al mismo tiempo que Scarlet y Halls atacaron, Izroth llegó detrás del 'Mountain Golem' cortando hacia afuera con su 'Nameless Blade'. Su espada parecía tener una cola de sombra justo en la parte posterior mientras Izroth giraba rápidamente conectando otro golpe al golem. 'Phantom Strike'.
+
+El HP del 'Mountain Golem' cayó rápidamente cerca del 40%. El grupo no detuvo su asalto, cortando implacablemente el HP del 'Mountain Golem' ante ellos.
+
+35% ...
+
+25% ...
+
+10% ...
+
+Al 'Mountain Golem solo le quedaban alrededor de 500 HP, pero antes de que pudiera obtener otra habilidad de Scarlet acababa de terminar de lanzar el golpe mortal,' Flaming Spear '.
+
+¡Woooooooosh!
+
+Una lanza envuelta en fuego con maná concentrado alrededor de toda su forma, atravesó el cuerpo del golem completamente haciéndolo desmoronarse en nada más que polvo.
+
+-536 HP!
+
+0 / 5,000 HP restantes! (Mountain Golem)
+
+¡Ding! ¡Felicitaciones, has derrotado a 'Mountain Golem'!
+
+¡Timbre! ¡Has recibido 600 EXP!
+
+Botín:
+
+-x6 monedas de plata
+
+-x2 Mineral natural resistente
+
+El 'Mountain Golem' dio un total de 2,400 EXP, pero como estaban en una fiesta se dividió entre todos ellos y por lo tanto solo recibieron 600 EXP cada uno. Sin embargo, 600 EXP por derrotar a un monstruo en aproximadamente 1 minuto más o menos fue bastante. Si continúan cultivando estos monstruos durante una hora entera, ¡podrían obtener 36,000 EXP potenciales y subir de nivel varias veces! Sin embargo, vinieron aquí para una búsqueda y, por lo tanto, no perdieron la pista del enfoque principal.
+
+Halls era el líder del partido y, naturalmente, dividió el botín de forma justa entre el partido. Cada miembro recibió 1 moneda de plata y 50 de bronce. En cuanto al x2 'Mineral natural resistente', el grupo obtuvo esos elementos. Uno de ellos fue a Halls en persona mientras que el otro se encontraba en posesión de Izroth.
+
+Material de elaboración: Mineral natural resistente
+
+Detalles: la dureza natural de este mineral lo hace ideal para usar en la elaboración de armaduras de rango bajo a medio. Agregar este material a ciertas fórmulas puede mejorar en gran medida las capacidades defensivas generales.
+30 ¡Esta región montañosa es extraña!
+Después de que el grupo terminó su pelea con el 'Mountain Golem', se encontraron con cinco más en su camino hacia el área principal de la región montañosa. Su combinación de grupo actual era fuerte con Izroth y Scarlet infligiendo daño, Halls recibiendo el daño y Luna sanando casi sin problemas.
+
+El grupo no tuvo problemas para derrotar a los otros cinco 'Mountain Golems' ganando un total de 3.000 EXP, así como 7 monedas de plata y 50 de bronce cada uno.
+
+Izroth entrecerró los ojos mientras el grupo viajaba hacia la región montañosa, pero algo extraño estaba sucediendo. "No nos estamos acercando más ..." pensó Izroth para sí mismo. No estaba del todo seguro antes, sin embargo, después de caminar otros 10 minutos seguidos, no estaban más cerca de la región montañosa principal.
+
+No pasó mucho tiempo hasta que los otros tres se dieron cuenta de que algo extraño también estaba sucediendo.
+
+Halls frunció el ceño, "¿Por qué siento que no nos estamos acercando más?"
+
+"Porque estamos atrapados en algún tipo de ilusión" respondió Izroth a Halls mientras mantenía su habitual expresión facial despreocupada. Desde el momento en que derrotaron al primer 'Mountain Golem', Izroth sintió como si todos estuvieran confinados a un área limitada. Era muy sensible a los cambios en la atmósfera y, por lo tanto, cuando sentía un cambio importante, podía adivinar que algo andaba mal. Todo este tiempo Izroth estaba buscando una salida. Por lo general, cosas como esta tenían un núcleo que necesitaba ser destruido o alguien que lo controlaba en secreto desde las sombras.
+
+"¿Una ilusión? ¿Cómo escapamos?" Halls se sorprendió por la revelación. ¿Desde cuándo se metieron en una ilusión?
+
+"Pensé que había algo extraño en esto ... Aunque, no estaba absolutamente seguro hasta que Izroth lo confirmó". Luna habló en voz baja como si se estuviera concentrando en otra cosa mientras hablaba.
+
+Scarlet, por otro lado, estaba ocupada manteniéndose en contacto con los otros miembros de su grupo asegurándose de que no se perdieran en la ilusión. Si eso sucedía y no podían encontrar una salida, todo su propósito de estar aquí sería inútil.
+
+"Espera" Izroth se detuvo repentinamente. Poco después, todos los demás se detuvieron para volverse y mirarlo con una mirada curiosa en sus rostros. ¿Descubrió algo sobre la ilusión?
+
+Izroth rápidamente pateó su pie derecho, desenvainó su 'Nameless Blade' y cargó directamente hacia Scarlet.
+
+Scarlet no tuvo tiempo de reaccionar, "¡Wa-!" se sorprendió cuando Izroth de repente se dio la vuelta y se precipitó hacia ella. ¿Se dio cuenta de que había visto a través de ella y estaba aprovechando esta oportunidad para eliminar la amenaza? Ella fue testigo de primera mano de lo poderosos que eran los ataques de Izroth y, por lo tanto, incluso si usaba una barrera, sería destruida de un solo golpe junto con todo su HP. Scarlet cerró los ojos con fuerza esperando su muerte segura.
+
+Pluuuuck! ¡Eeeeeeeeeggggghhhhh!
+
+Hubo un fuerte grito agudo que atravesó los tímpanos de todos los presentes.
+
+
+Scarlet abrió lentamente los ojos y descubrió que todavía estaba sorprendentemente viva. Luego se sorprendió cuando sintió que algo se deslizaba y se retorcía cerca de sus pies. Un escalofrío recorrió su columna vertebral mientras miraba lentamente hacia abajo. Cuando vio a la criatura, todo su rostro se puso mortalmente pálido. Era un monstruo extraño que se parecía a una mezcla de una 'Blatta orientalis' del tamaño de un gato con un extraño grupo de antenas parecidas a gusanos en su espalda. Fue la criatura la que liberó ese ruido penetrante hace un momento.
+
+Nombre: Insecto de montaña ilusionista (Normal)
+
+Nivel: 15
+
+HP: 0/150
+
+ATK: 50
+
+DEF: 20
+
+AGI: 120
+
+MAG: 150
+
+Habilidades:
+
+Pacto ilusionista (pasivo): este error siempre viaja dentro de las regiones montañosas subterráneas en un grupo de 10 o más. Al hacerlo, producen una fuerte ilusión que puede atrapar a los viajeros en el interior sin saberlo y desgastarlos mentalmente antes de devorarlos. Esta habilidad solo es efectiva cuando hay al menos 5 'Insectos de montaña ilusionistas' presentes.
+
+Earth Swimming (pasivo): esta criatura puede viajar por la tierra como si fuera un pez nadando en el agua.
+
+Devorar (pasivo): mientras los enemigos estén atrapados dentro del 'Pacto ilusionista', esta criatura inflige el 100% de su daño mágico como daño de ataque adicional. Esta habilidad ignora todas las defensas.
+
+¡Timbre! ¡Felicitaciones, has derrotado a 'Illusionist Mountain Bug'!
+
+¡Timbre! ¡Has recibido 50 EXP!
+
+Estas criaturas eran increíblemente débiles pero también muy numerosas. Si lo que decía su habilidad es cierto, eso significaba que había al menos nueve acechándolos bajo tierra. No dieron mucha EXP, pero como había al menos diez de ellos en total, sumarían 500 EXP.
+
+Scarlet quería gritar, pero se lo tragó y rápidamente se alejó de la criatura parecida a un insecto. No quería parecer débil, pero su rostro ya había perdido todo su color y se tambaleaba al caminar. Scarlet poseía un odio y un disgusto naturales por los insectos.
+
+Incluso Luna, que normalmente estaba tranquila y serena, no pudo evitar temblar un poco cuando vio a la criatura retorcerse atravesada por la espada de Izroth, su rostro también perdió un poco de color.
+
+Cuando Halls vio cómo reaccionaban Luna y Scarlet, no pudo evitar reír a carcajadas. "Jajaja, relájate, son solo unos bichitos débiles. Puedes dejar que nosotros nos encarguemos de esto. ¡Jajaja!".
+
+Luna y Scarlet le dieron a Halls una mirada de muerte que inmediatamente lo hizo callar. Se frotó la nuca y evitó el contacto visual directo con ambos.
+
+Izroth notó que la tierra debajo de ellos seguía cambiando constantemente como si algo debajo estuviera cambiando y moviéndola. Lo que fuera que estuviera haciendo era rápido y difícil de precisar con precisión. Es por eso que Izroth estaba esperando la oportunidad perfecta para atacar una vez que los descubrió.
+
+"Aún quedan 9 más, necesitamos eliminar a 5 de ellos para romper la ilusión" habló Izroth con calma mientras se movía rápidamente unos metros a su derecha perforando su espada en el suelo una vez más.
+
+¡Eeeeeeeeeggggghhhhh!
+
+-160 HP!
+
+0/150 HP restantes! (Insecto montañés ilusionista)
+
+¡Ding! ¡Felicitaciones, has derrotado a 'Illusionist Mountain Bug'!
+
+¡Timbre! ¡Has recibido 50 EXP!
+
+En tan solo un momento, Izroth había eliminado a dos de ellos con facilidad. Si fuera otra persona, estos insectos serían difíciles de atraer a la luz antes de derrotarlos debido a su alta estadística de agilidad, sin embargo, Izroth poseía una cantidad astronómica de experiencia en batalla y podría hacer predicciones precisas para sus próximos movimientos.
+
+Izroth luego corrió en la dirección a su izquierda, "Halls, en 3 segundos golpea el suelo junto a tu pierna izquierda usando tu habilidad de arma. Scarlet, apunta tu primer hechizo de fuego 10 metros directamente frente a ti, comienza a lanzarlo en 2 segundos . Luna, trata de evitar que los insectos vuelvan a meterse en el suelo una vez que se revelen si puedes ".
+
+Izroth ordenó como si estuviera acostumbrado a llevar a un grupo a la batalla. De hecho, en los siete reinos en los días de su juventud, solía ser el líder de un pequeño grupo de cultivadores de élite que iría en misiones altamente peligrosas para el reino por el que luchó en ese momento. Sin embargo, debido a que el rey temía que su poder fuera demasiado fuerte y que ya no pudiera controlarlos, ordenó su muerte. Izroth fue el único que sobrevivió y logró escapar de ese reino, aferrándose a su vida de un solo hilo.
+
+A medida que esos recuerdos se infiltraban lentamente en la mente de Izroth, no pudo evitar dejar escapar un suspiro de pesar. Si tan solo fuera lo suficientemente fuerte para proteger a todos en ese momento, no habrían tenido que sacrificar sus vidas para que él sobreviviera. No había muchas personas en las que Izroth confiaba o respetaba fuera de su maestro, sin embargo, todos los miembros de ese pequeño grupo de élite tenían tanto su confianza como su respeto.
+
+A pesar de que Luna y Scarlet estaban disgustadas por los monstruos tipo bicho, todavía siguieron las instrucciones de Izroth. Halls también tomó medidas, siguiendo las órdenes exactas de Izroth y clavando su espada en el suelo. Lanzó la habilidad adjunta a su arma llamada 'Presión de las Sombras' y un aura oscura y opresiva se extendió a 10 metros de su 'Espada Colmillo de las Sombras'. No pasó mucho tiempo después de que Halls escuchó tres gritos agudos y 3 segundos después todos se detuvieron. Eliminó a tres de ellos de una vez dejando solo 5 restantes. El grupo ganó un total de 150 EXP solo con ese ataque.
+
+Poco después de que Halls golpeara su espada en el suelo, Scarlet disparó un hechizo de 'Bola de fuego' en el lugar que Izroth le dio de antemano. Internamente frunció el ceño porque sería un desperdicio de su maná si no hubiera nada allí, pero después de ver que Halls tuvo éxito, le hizo sentir que tal vez no sería un desperdicio después de todo.
+
+¡Woooooooosh!
+
+Una bola de fuego se deslizó hacia el suelo y se estrelló contra ella mientras otro 'Insecto montañés ilusionista' era eliminado e incinerado en el fuego. Scarlet derrotó al último error necesario para romper la ilusión y pronto la niebla bajo sus pies se disipó por completo. El grupo pudo ver algunas cosas moviéndose en la distancia, ¡habían roto con éxito la ilusión del 'Insecto montañés ilusionista'!
+
+Los últimos 4 'Illusionist Mountain Bugs' restantes intentaron agruparse y huir, pero ¿por qué Izroth dejaría ir la EXP gratuita? Aunque eran rápidos, Izroth todavía era un poco más rápido y sintió sus movimientos bajo tierra por el movimiento de la tierra. Cuando todos convergieron en un punto, Izroth golpeó con la palma de su mano, lo que provocó que se formaran una miríada de ilusiones en la forma de su palma estrellándose contra el suelo donde apuntaba. Usó una de las nuevas habilidades que aprendió mientras viajaba a Amaharpe, 'Myriad Elusive Palms'. Esta habilidad no solo podía atacar a múltiples objetivos, sino que también poseía una mayor tasa de impacto y era difícil de evitar, lo que la hacía perfecta para criaturas rápidas como estos insectos.
+
+¡Eeeeeeeeeggggghhhhh!
+
+Un grupo de gritos vino del suelo debajo cuando la palma de Izroth golpeó cada uno de los cuatro puntos donde se ubicaban los 'Insectos Ilusionistas de la Montaña'.
+
+¡Timbre! ¡Felicitaciones, has derrotado a 'Illusionist Mountain Bug'!
+
+¡Timbre! ¡Has recibido 50 EXP!
+
+¡Timbre! Felicitaciones ... ¡
+
+Izroth erradicó las últimas criaturas restantes que obtuvieron 200 EXP en el proceso! No arrojaron monedas u otro botín, por lo que fue un poco decepcionante. En el lado positivo, finalmente se liberaron de la ilusión.
+
+El grupo se reorganizó y prosiguió su recorrido hacia la zona principal de la sierra.
+
+Después de viajar alrededor de 15 minutos, el grupo finalmente llegó ante un valle oscuro y desolado. Solo podían ver la oscuridad y nada más
+
+"¿Es esta la única forma de entrar? No hay forma de que podamos ver el interior, si nos atacan es posible que ni siquiera podamos defendernos y mucho menos encontrar la salida" Halls frunció el ceño mientras examinaba el valle. No había otras entradas cercanas y si viajaban demasiado lejos solo para no encontrar otra forma de entrar, entonces perderían demasiado tiempo.
+
+"Está bien" dijo Luna mientras su bastón se iluminaba con una luz brillante. "Es una de las primeras habilidades que todos los clérigos aprenden llamada 'Iluminar'. Esto debería darnos suficiente luz para viajar al interior sin problemas".
+
+Nombre de la habilidad: Iluminar
+
+Nivel de habilidad: MAXED
+
+Rango de habilidad: F
+
+Costo de maná por segundo: 0.2
+
+Tiempo de lanzamiento :
+
+Activo instantáneo :
+
+Descripción: Incluso en las noches más oscuras, la luz sigue siendo un faro de esperanza.
+
+"Solo cuesta 0,2 maná por segundo mantenerlo, por lo que debería ser más que suficiente para durar hasta que encontremos otra fuente de luz" Luna también tenía 'Pociones de maná menores', por lo que no le preocupaba quedarse sin maná incluso si tomó un tiempo encontrar una fuente de luz.
+
+Halls asintió, "En ese caso, te necesitaremos más cerca del frente, justo detrás de nosotros".
+
+Luna se acercó más hasta que estuvo a solo unos pasos de Izroth y Halls.
+
+"Vamos" Izroth comenzó a caminar hacia el valle lo que hizo que Halls también comenzara a moverse para mantener la posición frontal como tanque.
+
+¡Timbre! ¡Has descubierto una nueva ubicación, 'El Valle de la Muerte'!
